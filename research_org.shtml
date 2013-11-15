@@ -1,0 +1,134 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="description" content="Rutgers' Clinical Research Organization, the clnical trials gateway of Rutgers Biomedical and Health Sciences, connects industry, patients, and academic collaborators with the university's academic resources. ">
+    <meta name="keywords" content="rbhs clinical research organization, clinical research organization clinical trials, center watch profiles on clinical trials, advantages of the rbhs clinical research organization, connect with rutgers investigators, find clinical trials at rutgers, information for companies that want to work with rutgers">
+	<title>Clinical Research Organization: Clinical Trials | Rutgers Biomedical and Health Sciences</title>
+
+    <!-- Included CSS Files -->
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+    <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+    <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+
+	<!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon-sun.ico" />
+
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
+    <script type="text/javascript" src="includes/js/templates.js"></script>
+    <!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
+    <!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+    <script type="text/javascript" src="includes/js/rbhs.js"></script>
+
+</head>
+<body>
+	<div class="row" id="headrow">
+	<div class="twelve columns" >
+        <!-- Includes Header -->
+        <!--#include virtual="includes/header.html" -->
+        <!-- Includes Navigation -->
+        <!--#include virtual="includes/nav.html" -->
+    </div>
+    </div>
+
+    <div class="row" id="contentrow">
+    <div id="shifting" class="twelve columns bg-white">
+
+    <div id="submain" class="nine push-three mobile-four columns">
+        <!-- Top Banner Area
+        ====================== -->
+        <div class="row">
+        <div class="twelve columns"><br />
+        </div>
+        </div>
+        <br />
+        <div class="row">
+        <div id="context" class="eight mobile-four columns">
+            <h1 id="page-title">Clinical Research Organization: Clinical Trials</h1>
+                <p>Rutgers <a href="http://cro.rbhs.rutgers.edu" target="_blank">Clinical Research Organization</a>
+connects industry, patients, and academic collaborators with the university's academic resources. Annually, Rutgers supports approximately 350 clinical trials, including industry-sponsored and our own investigator-initiated studies. In total, more than 200 principal investigators are currently conducting clinical trials in more than 50 therapeutic areas dedicated to moving forward discovery in drugs, biologics, devices, preventive and therapeutic strategies, behavioral research, and other interventions to improve human life. </p>
+            <h2>Advantages</h2>
+                <p>The Rutgers Biomedical and Health Sciences (RBHS) Clinical Research Organization offers key advantages:</p>
+
+                    <ul>
+                        <li>Access to RBHS schools, centers, and units; to two principal teaching hospitals (Robert Wood Johnson University Hospital and University Hospital); to two university hospitals (Hackensack University Medical Center and University Medical Center at Princeton); and to numerous clinical affiliates statewide.</li>
+                        <li>Depth of medical research and clinical expertise&mdash;more than 200 principal investigators</li>
+                        <li>Full array of core services: clinical lab and analytical services, imaging facilities, data management and analysis</li>
+                        <li>Well-developed management skills of all trial phases, including trial design, clinical and medical safety monitoring, recruitment, regulatory affairs</li>
+                        <li>Breadth of basic and clinical research activity in all major therapeutic areas</li>
+                        <li>Statewide centers of excellence, among them:</li>
+<ul>
+  <li><a href="http://www.cinj.org" target="_blank">Cancer Institute of New Jersey</a>&mdash;the only National Cancer Institute-designated comprehensive cancer center in New Jersey</li>
+                        <li><a href="http://njms.rutgers.edu/cancercenter/" target="_blank">New Jersey Medical School-University Hospital Cancer Center</a>, one of only 14 National Cancer Institute-designated Minority-Based Community Clinical Oncology Programs </li></ul>
+                    </ul>
+
+          <h2>Connect with Us</h2>
+                <ul>
+                  <li><a href="http://cro.rbhs.rutgers.edu/collaborators/sponsors.html" target="_blank">Information for Industry Collaborators</a></li>
+                  <li><a href="http://cro.rbhs.rutgers.edu/investigators/researchers.html" target="_blank">Information about Our Researchers/Investigators</a></li>
+                  <li><a href="http://cro.rbhs.rutgers.edu/volunteers/patients.html" target="_blank">Information for Participants/Interested Volunteers</a></li>
+                  <li><a href="http://cro.rbhs.rutgers.edu/investigators/internal/" target="_blank">Clinical Trials Resources for Rutgers Investigators</a></li>
+                  <li><a href="http://cro.rbhs.rutgers.edu/findclinicaltrial.html" target="_blank">Find a Clinical Trial</a>
+                  </li>
+                </ul>
+              <p>Companies wishing to conduct a clinical trial with an experienced investigator or to gain access to resources to support analysis or help initiating a project can contact the <a href="mailto:cro@cro.rbhs.rutgers.edu">Clinical Research Organization</a>. We will match you with an investigator or the appropriate individuals.
+        </div><!-- #end-of-main-content-area -->
+
+        <!-- Right Sidebar
+        ====================== -->
+        <div id="side_bar" class="four mobile-four columns">
+        <ul>
+            <!-- Panel One -->
+            <li>
+            <h2>Center Watch: Profiles of RBHS Schools Offering Clinical Trials</h2>
+                <p>Four Rutgers Biomedical and Health Sciences (RBHS) units are profiled on <a href="http://CenterWatch.com" target="_blank">CenterWatch.com</a>.</p>
+                <ul>
+                    <li><a href="http://www.centerwatch.com/news-resources/research-centers/profile-details.aspx?ProfileID=2285" target="_blank">Cancer Institute of New Jersey</a></li>
+                    <li><a href="http://www.centerwatch.com/news-resources/research-centers/profile-details.aspx?ProfileID=2253" target="_blank">New Jersey Medical School</a></li>
+                    <li><a href="http://www.centerwatch.com/news-resources/research-centers/profile-details.aspx?ProfileID=2255" target="_blank">Robert Wood Johnson Medical School</a></li>
+                    <li><a href="http://www.centerwatch.com/news-resources/research-centers/profile-details.aspx?ProfileID=2252" target="_blank">Rutgers School of Dental Medicine</a></li>
+                </ul></li></ul>
+
+     </div>
+        </div><!-- #end-of-right-sidebar -->
+
+    </div>
+
+
+    <!-- Includes Left Side Navigation -->
+    <!--#include virtual="includes/side_nav-research.html" -->
+     <!-- Second Section -->
+    <div class="panel padding">
+    <h2>Related</h2>
+    <div class="row">
+        <div class="twelve columns item-list">
+        <ul>
+            <li><a href="trials.shtml">Clinical Trials</a></li>
+        </ul>
+        </div>
+    </div>
+	</div>
+    </div>
+</div>
+
+    </div><!-- #end-of-all-content -->
+
+    <!-- Includes Footer -->
+    <!--#include virtual="includes/footer.html" -->
+
+    </div>
+</body>
+</html>

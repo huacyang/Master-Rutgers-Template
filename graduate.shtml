@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="description" content="Rutgers Biomedical and Health Sciences offers a wide variety of advanced education programs through its schools. More than 600 doctoral 
+    degrees are awarded each year by RBHS  schools, from the M.D. and D.M.D. to the doctor of physical therapy and the  Ph.D. Hundreds more master’s level degrees are awarded annually in such diverse fields as biomedical informatics, clinical nutrition, and nursing.">
+    <meta name="keywords" content="rutgers graduate school, student research at rutgers, rbhs graduate programs, rutgers advanced education programs, rutgers medical schools, rutgers dental school, rutgers graduate programs">
+	<title>Graduate Education | Rutgers Biomedical and Health Sciences</title>
+
+    <!-- Included CSS Files -->
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+    <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+    <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+
+	<!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon-sun.ico" />
+
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+        
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
+    <script type="text/javascript" src="includes/js/templates.js"></script>
+    <!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
+    <!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+    <script type="text/javascript" src="includes/js/rbhs.js"></script>
+
+</head>
+<body>
+	<div class="row" id="headrow">
+	<div class="twelve columns" >
+        <!-- Includes Header -->	
+        <!--#include virtual="includes/header.html" -->
+        <!-- Includes Navigation -->
+        <!--#include virtual="includes/nav.html" -->
+    </div>
+    </div>
+
+    <div class="row" id="contentrow">
+    <div id="shifting" class="twelve columns bg-white">
+    
+    <div id="submain" class="nine push-three mobile-four columns">
+        <!-- Top Banner Area
+        ====================== -->
+        <div class="row">
+        <div class="twelve columns"><br />
+        	<img src="images/academics_grad_1006_bnr.jpg" alt="Students helping patients in a classroom" title="Students helping patients in a classroom" />
+        </div>
+        </div>
+        <br />
+        <div class="row">
+        <div id="context" class="eight mobile-four columns">
+          <h1 id="page-title">Graduate Education</h1>
+                <p>Rutgers Biomedical and Health Sciences (RBHS) offers a wide variety of advanced education programs through its schools. More than 600 doctoral degrees are awarded each year by RBHS  schools, from the M.D. and D.M.D. to the doctor of physical therapy and the  Ph.D. Hundreds more master&rsquo;s level degrees are awarded annually in such diverse fields as biomedical informatics, clinical nutrition, and nursing.</p>
+<ul>
+            <li><a href="http://nursing.rutgers.edu/prospective_students/academic_programs" target="_blank">College of Nursing</a></li>
+                        <li><a href="http://pharmacy.rutgers.edu/content/masters_phd_programs" target="_blank">Ernest Mario School of Pharmacy</a></li>
+                        <li><a href="http://gsbs.rutgers.edu" target="_blank">Graduate School of Biomedical Sciences at Newark</a></li>
+                        <li><a href="http://gsbs.rutgers.edu" target="_blank">Graduate School of Biomedical Sciences at New Brunswick</a></li>
+                        <li><a href="http://njms.rutgers.edu" target="_blank">New Jersey Medical School</a></li>
+                        <li><a href="http://rwjms.rutgers.edu" target="_blank">Robert Wood Johnson Medical School</a></li>
+                        <li><a href="http://sdm.rutgers.edu" target="_blank">Rutgers School of Dental Medicine</a></li>
+                        <li><a href="http://shrp.rutgers.edu" target="_blank">School of Health Related Professions</a></li>
+                        <li><a href="http://sn.rutgers.edu" target="_blank">School of Nursing</a></li>
+                        <li><a href="http://sph.rutgers.edu" target="_blank">School of Public Health</a></li>
+          </ul>
+                
+            
+        </div><!-- #end-of-main-content-area -->
+        
+        <!-- Right Sidebar
+        ====================== -->
+      <div id="side_bar" class="four mobile-four columns">
+        <ul>
+            <!-- Panel One -->
+            <li>
+            <h2>A Leader to Guide the AMA&rsquo;s Medical Student Section</h2>
+                <p><a href="http://magazine.rutgers.edu/departments/winter-2013/on-the-banks/rx-for-medicine" target="_blank"><img src="images/LeeAnnRoberts_th.jpg" alt="LeAnne Roberts" title="LeAnne Roberts" style="float:left;" class="inline-left"/></a>Featured in <a href="http://magazine.rutgers.edu/departments/winter-2013/on-the-banks/rx-for-medicine" target="_blank"><em>Rutgers Magazine</em></a>, Rutgers alumna LeAnne Roberts CC&rsquo;07, a 2013 graduate of New Jersey Medical School, chairs the AMA&rsquo;s 48,000-member Medical Student Section.<br /><br />
+                &ldquo;We provide students with a platform to launch their profession,&rdquo; says Roberts. &ldquo;Whether they&rsquo;re thinking about becoming the best neurosurgeon in the country or going into policy and advocacy as a physician, we provide a training ground.&rdquo;</p>
+                
+            </li>
+			
+            <li>
+            <h2>Student Research at Rutgers</h2>
+                <p>Explore these resources to learn more about how students at Rutgers engage in research.</p>
+				<ul>
+					<li><a href="research.shtml">Rutgers Biomedical and Health Sciences Research Overview</a></li>
+					<li><a href="http://rutgers.edu/research/graduate-opportunities" target="_blank">Universitywide Graduate Student Research Overview</a></li>
+					<li><a href="http://rutgers.edu/health-sciences/clinical-research" target="_blank">Universitywide Health Sciences Research Overview</a></li>
+					<li><a href="http://rutgers.edu/research/undergraduate-opportunities" target="_blank">Universitywide Undergraduate Research Overview</a></li>
+				</ul>
+                
+            </li>
+        </ul>
+        </div>
+        </div> <!-- #end-of-right-sidebar -->
+    
+    </div>
+    
+    <!-- Includes Left Side Navigation -->
+    <!--#include virtual="includes/side_nav-academics.html" -->
+    <!-- Second Section -->
+    <div class="panel padding">
+    <h2>Related</h2>
+    <div class="row">
+        <div class="twelve columns item-list">
+        <ul>
+            <li><a href="admissions.shtml">Admissions</a></li>
+            <li><a href="http://www.rutgers.edu/academics/graduate-education" target="_blank">Universitywide Graduate Education</a></li>
+            <li><a href="http://rutgers.edu/health-sciences/overview" target="_blank">Universitywide Health Sciences Overview</li>
+            <li><a href="http://www.libraries.rutgers.edu" target="_blank">University Libraries</a></li>
+           
+        </ul>
+        </div>
+    </div>
+	</div> 
+    </div>
+</div>
+    
+    </div><!-- #end-of-all-content -->
+    
+    <!-- Includes Footer -->
+    <!--#include virtual="includes/footer.html" -->
+    
+    </div>
+</body>
+</html>

@@ -1,0 +1,132 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />    
+    <meta name="description" content="Rutgers Biomedical and Health Sciences internationally recognized faculty and expert staff provide care in nearly every specialty and subspecialty of medicine, dentistry, nursing, mental and behavioral health, and physical and rehabilitation science. Our university-based practice groups and centers unite health care providers in an academic environment that offers access to advanced technologies and leading-edge therapies and treatments with a compassionate, patient-centered focus.">
+    <meta name="keywords" content="rbhs faculty and clinical practices, rbhs major faculty and clinical practices, rutgers faculty and clinical practices, François-Xavier Bagnoud Center Ambulatory Care Program, University Dental Associates practice, rbhs dental practices, newark therapy services, Cardiovascular Institute of New Jersey practices, rutgers based practice groups and centers, rbhs based practice groups">
+	<title>Faculty and Clinical Practices | Rutgers Biomedical and Health Sciences</title>
+    
+    <!-- Included CSS Files -->
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+    <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+    <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+
+	<!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon-sun.ico" />
+	
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+        
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
+    <script type="text/javascript" src="includes/js/templates.js"></script>
+    <!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
+    <!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+    <script type="text/javascript" src="includes/js/rbhs.js"></script>
+
+</head>
+<body>
+	<div class="row" id="headrow">
+	<div class="twelve columns" >
+        <!-- Includes Header -->	
+        <!--#include virtual="includes/header.html" -->
+        <!-- Includes Navigation -->
+        <!--#include virtual="includes/nav.html" -->
+    </div>
+    </div>
+
+    <div class="row" id="contentrow">
+    <div id="shifting" class="twelve columns bg-white">
+    
+    <div id="submain" class="nine push-three mobile-four columns">
+        <!-- Top Banner Area
+        ====================== -->
+        <div class="row">
+        <div class="twelve columns"><br />
+        	<img src="images/patientcare_comm_720_.jpg" alt="Student working on a patients teeth" title="Student working on a patient's teeth" />
+        </div>
+        </div>
+        <br />
+        <div class="row">
+        <div id="context-large" class="twelve mobile-four columns">
+            <h1 id="page-title">Faculty and Clinical Practices</h1>
+                <p>At Rutgers, you will find internationally recognized faculty and expert staff who provide care in nearly every specialty and subspecialty of medicine, dentistry, nursing, mental and behavioral health, and physical and rehabilitation science. Our university-based practice groups and centers unite health care providers in an academic environment that offers you access to advanced technologies and leading-edge therapies and treatments with a compassionate, patient-centered focus. Below are our major faculty and clinical practices. You can also explore <a href="schools.shtml">Rutgers Biomedical and Health Sciences (RBHS) schools and colleges</a> to learn about additional offerings.</p>
+            <p><a href="http://cinj.org" target="_blank" class="subhead">Cancer Institute of New Jersey</a><br />
+The Cancer Institute of New Jersey is the state&rsquo;s only National Cancer Institute (NCI)-designated Comprehensive Cancer Center, a coveted NCI-designation held by only 41 institutes nationwide and granted competitively to institutions characterized by scientific excellence and the ability to bring research discoveries to patients. The institute delivers advanced comprehensive care for adults and children, including access to clinical trials; conducts cutting-edge cancer research; transforms discoveries into clinical practice; and provides education and outreach regarding cancer prevention, detection, and treatment.</p> 
+
+<p><a href="http://rwjms.rutgers.edu/cvinj" target="_blank" class="subhead">Cardiovascular Institute of New Jersey</a><br />
+The institute and its clinical partner, Robert Wood Johnson University Hospital, advance the medical standards of high-quality patient care through the full range of inpatient and outpatient services. 
+This partnership, which encompasses the Heart Center of New Jersey, facilitates comprehensive inpatient care for individuals treated at the Cardiovascular Institute of New Jersey. The Heart Center&rsquo;s modern 24-hour catheterization laboratories provide noninvasive, invasive, and interventional procedures, including a complete array of testing from evaluation to cardiovascular surgery. The cardiac catheterization laboratories have one of the largest clinical volumes in the country.</p>
+<p><a href="http://sdm.rutgers.edu/patients/index.html" target="_blank" class="subhead">University Dental Associates</a><br />
+  University Dental Associates offers a wide range of dental care in one location, making the practice unique. The dentists provide preventive, diagnostic and restorative care, along with esthetic (cosmetic) dentistry.</p> 
+
+<p><a href="http://eohsi.rutgers.edu/content/eohsi_clinical_center" target="_blank" class="subhead">Environmental and Occupational Health Sciences Institute Clinical Center</a><br />
+The center is New Jersey's leading facility for workplace health. Its team of nationally known occupational physicians, psychologists, nurses, social workers, and industrial hygienists develop innovative services to meet the health needs of area businesses.</p>
+
+<p><a href="http://fxbcenter.org/healthservices.html" target="_blank" class="subhead">Fran&ccedil;ois-Xavier Bagnoud Center Ambulatory Care Program</a><br />
+The center&rsquo;s clinical HIV program provides community-based, comprehensive, and coordinated health care, HIV testing, and care to infants and children who are HIV-exposed, including 24-hour, on-call physician services.</p> 
+
+<p><a href="http://www.njneurosurgeons.com" target="_blank" class="subhead">Neurological Institute of New Jersey</a><br />This leading neurosurgery practice offers a full range of brain and spinal care employing the most advanced technology and techniques.</p>
+
+<p><a href="http://shrp.rutgers.edu/dept/PT/north/clinical_services/index.html" target="_blank" class="subhead">Newark Therapy Services</a><br />
+Newark Therapy Services provides physical and occupational services to students with special needs. The practice offers evaluations, individual and group treatment, preschool programming and educational presentations to school staff. The clinicians have faculty appointments in the Graduate Physical Therapy Program.</p> 
+
+<p><a href="http://njms.rutgers.edu/patient_care/index.cfm" target="_blank" class="subhead">New Jersey Medical School Faculty Practice</a><br />
+The practice provides clinical care in a variety of inpatient and outpatient settings and offers expertise in specialty areas including infectious diseases, oncology, cardiovascular science, otolaryngology, neurological and visual sciences, and trauma.</p> 
+
+<p><a href="http://umg.rwjms.rutgers.edu/Public/index.html" target="_blank" class="subhead">Robert Wood Johnson Medical Group</a><br />
+The Robert Wood Johnson Medical Group, one of the largest multispecialty groups in New Jersey, is composed of approximately 500 physicians with expertise in more than 200 subspecialty clinical programs, providing a broad spectrum of advanced specialty care. The group is dedicated to providing the highest quality medical care. In support of the education, research, patient care, and community outreach missions of Robert Wood Johnson Medical School, respect and compassion for patients in a safe and efficient manner is our priority.</p> 
+
+<p><a href="http://ubhc.rutgers.edu" target="_blank" class="subhead">University Behavioral Health Care</a><br />
+University Behavioral Health Care (UBHC) provides services across New Jersey ranging from case management and outpatient psychotherapy to crisis interventions, and acute and chronic care. UBHC offers all levels of mental health and substance abuse services throughout New Jersey.</p>
+ 
+<p><a href="http://web.njms.rutgers.edu/ntbcweb/services/clinicalservices.html" target="_blank" class="subhead">Global Tuberculosis Institute, Waymon C. Lattimore Practice</a><br />
+The practice is designated by the New Jersey Department of Health and Senior Services as a Regional Tuberculosis (TB) Clinic, serving Essex and Union counties. The practice also accepts referrals statewide for patients with multidrug resistance and complex medical management problems. Pulmonary and infectious disease specialists provide adult and pediatric medical care. Clients are assigned to a multidisciplinary health care team based on their geographic location. HIV counseling and testing is also available to clients of the practice. </p>
+
+        </div><!-- #end-of-main-content-area -->
+        
+        <!-- Right Sidebar
+        ====================== -->
+        <!--<div id="side_bar" class="four mobile-four columns">
+        </div>-->
+        </div><!-- #end-of-right-sidebar -->
+    
+    </div>
+    
+    <!-- Includes Left Side Navigation -->
+    <!--#include virtual="includes/side_nav-care.html" -->
+     <!-- Second Section -->
+    <!--<div class="panel padding">
+    <h2>Related</h2>
+    <div class="row">
+        <div class="twelve columns item-list">
+        <ul>
+            <li><a href="#">Before You Apply</a></li>
+            <li><a href="#">Application Guidelines</a></li>
+            <li><a href="#">Supporting Materials</a></li>
+            <li><a href="#">Check your Status</a></li>
+            <li><a href="#">What's Next?</a></li>
+        </ul>
+        </div>
+    </div>
+	</div> -->
+    </div>
+</div>
+    
+    </div><!-- #end-of-all-content -->
+    
+    <!-- Includes Footer -->
+    <!--#include virtual="includes/footer.html" -->
+    
+    </div>
+</body>
+</html>

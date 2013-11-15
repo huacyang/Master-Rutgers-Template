@@ -1,0 +1,115 @@
+/* Landscape.css - Anthony Scognamiglio 5/14/2013 */
+/* Targets tablets in landscape mode to display Twitter Bootstrap Collapsible Menu */
+
+.navbar-inner {
+    background-color: #13417c !important; 
+    background-image: none;
+    background-repeat: no-repeat;
+    filter: none;
+    padding:0 !important;
+    border: 1px solid #000000;
+}
+
+.navbar .btn-navbar {
+    padding:15px 10px;
+    margin-right:0;
+
+}
+.navbar .btn {
+    margin-top:0;
+    margin-left:0;
+}
+.navbar-inner .btn-navbar {
+    background: black;
+}
+
+.navbar .btn-navbar:hover {
+    background: black;
+    color:black;    
+}
+
+.navbar .btn-navbar:focus, .navbar .btn-navbar:active {
+    background: black;
+    color:black;    
+}
+
+#rotate    {  
+    -webkit-transform:rotate(90deg);
+    -moz-transform:rotate(90deg);
+    -o-transform:rotate(90deg);
+    /* filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1.5); */
+    -ms-transform:rotate(90deg);
+
+}
+
+.icon-custom-search {
+    color: #fffafe;
+    background: url('../img/search_bg.png') no-repeat;
+    height: 43px;
+    padding-left: 46px;
+}
+
+.custom-collapse-btn {
+    border-radius: 0 !important;
+    -webkit-border-radius:0 !important;
+    -moz-border-radius:0 !important;
+}
+
+.nav-collapse.collapse {
+    background-color: #000000;
+}
+
+.navbar .nav > li {
+    line-height: 16px;
+}
+
+.nav-collapse .nav > li > a:hover {
+    background-color:#000000;
+}
+.nav-collapse .nav > li > a {
+    text-shadow:none;
+}
+
+#nav-menu-left {
+    width:49%;
+    float:left;
+    border-right: 1px solid #808080;
+    margin-top: 20px;
+}
+
+#nav-menu-right {
+    width:50%;
+    float:left;
+    margin-top: 20px;
+}
+
+#nav-menu-left > li > a {
+    color: #ffffff;
+}
+
+#nav-menu-right > li > a {
+    color:#85b3e5;
+    font-weight: normal;
+}
+
+#nav-menu-right > li > a > img {
+    padding-right:10px;
+}
+
+#nav-copyright-text {
+    clear:both;
+}
+#nav-copyright-text a {
+    color: #666666;
+    font-weight: bold;
+    padding: 10px;
+}
+
+#nav-copyright-text {
+    text-align: center; 
+}
+
+#nav-copyright-text a:hover{
+    text-align: center;
+    text-decoration: none;
+}

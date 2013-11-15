@@ -1,0 +1,120 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="description" content="Rutgers Biomedical and Health Sciences residencies and fellowships are offered in a wide variety of fields. Graduate medical education programs enable RBHS to provide the highest quality medical care to our patients while supporting our mission of educating future generations of physicians to serve with the highest standards of professionalism.">
+    <meta name="keywords" content="rbhs graduate medical education, residencies, fellowships, rbhs graduate dental medicine, rutgers medical schools, rutgers dental school, rutgers dental school, student research at rutgers ">
+	<title>Graduate Medical Education | Rutgers Biomedical and Health Sciences</title>
+
+    <!-- Included CSS Files -->
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+    <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+    <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+
+	<!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon-sun.ico" />
+
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
+    <script type="text/javascript" src="includes/js/templates.js"></script>
+    <!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
+    <!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+    <script type="text/javascript" src="includes/js/rbhs.js"></script>
+
+</head>
+<body>
+	<div class="row" id="headrow">
+	<div class="twelve columns" >
+        <!-- Includes Header -->
+        <!--#include virtual="includes/header.html" -->
+        <!-- Includes Navigation -->
+        <!--#include virtual="includes/nav.html" -->
+    </div>
+    </div>
+
+    <div class="row" id="contentrow">
+    <div id="shifting" class="twelve columns bg-white">
+
+    <div id="submain" class="nine push-three mobile-four columns">
+        <!-- Top Banner Area
+        ====================== -->
+        <div class="row">
+        <div class="twelve columns"><br />
+        	<img src="images/academics_gradmed_589_.jpg" alt="Three students and their teacher in a lab" title="Three students and their teacher in a lab" />
+        </div>
+        </div>
+        <br />
+        <div class="row">
+        <div id="context" class="twelve mobile-four columns">
+            <h1 id="page-title">Graduate Medical Education</h1>
+                <p>Graduate medical education programs enable Rutgers Biomedical and Health Sciences to provide the highest quality medical care to our patients while supporting our mission of educating future generations of physicians to serve with the highest standards of professionalism. Residencies and fellowships are offered in a wide variety of fields.</p>
+
+          <ul>
+                        <li><a href="http://njms.rutgers.edu/education/post_grad/gme/index.cfm" target="_blank">New Jersey Medical School Graduate Medical Education</a></li>
+                        <li><a href="http://rwjms.rutgers.edu/education/gme" target="_blank">Robert Wood Johnson Medical School Graduate Medical Education</a></li>
+                        <li><a href="http://sdm.rutgers.edu/students/current/postdoctoral/index.html" target="_blank">Rutgers School of Dental Medicine</a></li>
+                    </ul>
+
+
+        </div><!-- #end-of-main-content-area -->
+         <!-- Right Sidebar
+        ====================== -->
+       <div id="side_bar" class="four mobile-four columns">
+        <ul>
+
+            <li>
+            <h2>Student Research at Rutgers</h2>
+                <p>Explore these resources to learn more about how students at Rutgers engage in research.</p>
+				<ul>
+					<li><a href="research.shtml">Rutgers Biomedical and Health Sciences Research Overview</a></li>
+					<li><a href="http://rutgers.edu/research/graduate-opportunities" target="_blank">Universitywide Graduate Student Research Overview</a></li>
+					<li><a href="http://rutgers.edu/health-sciences/clinical-research" target="_blank">Universitywide Health Sciences Research Overview</a></li>
+					<li><a href="http://rutgers.edu/research/undergraduate-opportunities" target="_blank">Universitywide Undergraduate Research Overview</a></li>
+				</ul>
+
+            </li>
+        </ul>
+        </div><!-- #end-of-right-sidebar -->
+        </div>
+
+    </div>
+
+    <!-- Includes Left Side Navigation -->
+    <!--#include virtual="includes/side_nav-academics.html" -->
+    <!-- Second Section -->
+    <div class="panel padding">
+    <h2>Related</h2>
+    <div class="row">
+        <div class="twelve columns item-list">
+        <ul>
+            <li><a href="http://njms.rutgers.edu/education/post_grad/gme/program_directors_and_chairs.htm" target="_blank">Graduate Medical, Dental and Podiatry Education Programs Sponsored by Rutgers New Jersey Medical School</a></li>
+            <li><a href="http://rwjms.rutgers.edu/education/GME/residency_fellowship.html" target="_blank">Residence and Fellowship Programs at Robert Wood Johnson Medical School</a></li>
+            <li><a href="http://www.libraries.rutgers.edu" target="_blank">University Libraries</a></li>
+
+        </ul>
+        </div>
+    </div>
+	</div>
+    </div>
+</div>
+
+    </div><!-- #end-of-all-content -->
+
+    <!-- Includes Footer -->
+    <!--#include virtual="includes/footer.html" -->
+
+    </div>
+</body>
+</html>

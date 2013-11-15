@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="description" content="Incoming inaugural chancellor for Rutgers Biomedical and Health Sciences Brian L. Strom is a renowned epidemiologist and award-winning teacher and clinician.">
+    <meta name="keywords" content="rbhs chancellor, brian strom, rutgers health sciences, rbhs leadership">
+    
+	<title>About Interim Chancellor Christopher J. Molloy | Rutgers Biomedical and Health Sciences</title>
+
+    <!-- Included CSS Files -->
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+    <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+    <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+
+	<!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon-sun.ico" />
+
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+        
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
+    <script type="text/javascript" src="includes/js/templates.js"></script>
+    <!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
+    <!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+    <script type="text/javascript" src="includes/js/rbhs.js"></script>
+
+</head>
+<body>
+	<div class="row" id="headrow">
+	<div id="header" class="twelve columns" >
+        <!-- Includes Header -->	
+        <!--#include virtual="includes/header.html" -->
+        <!-- Includes Navigation -->
+        <!--#include virtual="includes/nav.html" -->
+    </div>
+    </div>
+
+    <div class="row" id="contentrow">
+    <div id="shifting" class="twelve columns bg-white">
+    
+    <div id="submain" class="nine push-three mobile-four columns">
+        <!-- Top Banner Area
+        ====================== -->
+        <div class="row">
+        <div class="twelve columns"><br />
+        </div>
+        </div>
+        <br />
+        <div class="row">
+        <div id="context-large" class="twelve mobile-four columns">
+            <h1 id="page-title">About Interim Chancellor Christopher J. Molloy</h1>
+                <p>Prior to being named interim chancellor for Rutgers Biomedical and Health Sciences, Christopher J. Molloy served as Rutgers' interim provost for biomedical and health sciences and was the lead administrator for the Integration Management Office, responsible for the integration into Rutgers of most units of the former University of Medicine and Dentistry of New Jersey.</p>
+                <p>Molloy, who previously served as dean of Rutgers' Ernest Mario School of Pharmacy, is a molecular and cellular pharmacologist with extensive drug discovery, research, and management experience in the biopharmaceutical industry. His specific research interests have included the molecular mechanisms involved in inflammation and carcinogenesis, with an emphasis on the role of growth factors/cytokines and their intracellular signaling pathways in the control of tissue remodeling. Molloy has led numerous multidisciplinary drug discovery teams that have advanced new chemical entities from conception into human clinical trials in therapeutic areas such as inflammation, oncology, and cardiovascular disease.</p>
+                <p>Molloy received a Bachelor of Science degree in pharmacy at Rutgers in 1977. He went on to earn his Ph.D. from the joint Rutgers-UMDNJ Graduate Program in Toxicology. Subsequently, he was a postdoctoral fellow at the National Cancer Institute, National Institutes of Health. </p>
+                <p>Before returning to Rutgers in 2007, Molloy worked for Johnson & Johnson Pharmaceutical Research and Development L.L.C., where he served as a senior research fellow and team leader in the East Coast Research and Early Development unit. Molloy previously held senior positions with 3-Dimensional Pharmaceuticals Inc. and the Bristol-Myers Squibb Pharmaceutical Research Institute.</p>      
+            
+        </div><!-- #end-of-main-content-area -->
+        
+        <!-- Right Sidebar
+        ====================== -->
+        <!--<div id="side_bar" class="four mobile-four columns">
+        <ul>
+             // Panel One
+            <li>
+            <h2>TO BE DELETED</h2>
+                <p>TO BE DELETED</p>
+               
+            </li>
+            
+        </ul> 
+        </div>--><!-- #end-of-right-sidebar -->
+        </div>
+    
+    </div>
+    
+    <!-- Includes Left Side Navigation -->
+    <!--#include virtual="includes/side_nav-about.html" -->
+     <!-- Second Section -->
+    <!--<div class="panel padding">
+    <h2>Related</h2>
+    <div class="row">
+        <div class="twelve columns item-list">
+        <ul>
+            <li><a href="#">Before You Apply</a></li>
+            <li><a href="#">Application Guidelines</a></li>
+            <li><a href="#">Supporting Materials</a></li>
+            <li><a href="#">Check your Status</a></li>
+            <li><a href="#">What's Next?</a></li>
+        </ul>
+        </div>
+    </div>
+	</div> --> 
+    </div>
+</div>
+    
+    </div><!-- #end-of-all-content -->
+    
+    <!-- Includes Footer -->
+    <!--#include virtual="includes/footer.html" -->
+    
+    </div>
+</body>
+</html>

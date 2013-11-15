@@ -1,0 +1,162 @@
+#masthead,#top {
+	display: none;
+}
+
+#home-rite_sidebar {
+	width: 100%;
+	left: 15px;
+	position: relative;
+}
+
+#home-rite_sidebar .panel {
+	width: 100%;
+}
+
+#main {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+#mobile_header img {
+	padding-top: 5px;
+	float: right;
+}
+
+#shifting {
+	margin-top: -30px;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.shiftup_ex {
+	padding-top: 10px;
+}
+
+.top-bar {
+	height: 35px;
+	width: 100%;
+	padding-left: 0;
+}
+
+#mobile_header {
+	height: 35px;
+	background: url(../img/banner_red.jpg) no-repeat scroll #cb062c;
+	background-position: left center;
+	background-size: 520px 50px;
+	-webkit-background-size: 520px 50px;
+}
+
+#side_nav .wrapper h2 {
+	margin-left: 0;
+}
+
+#submain {
+	padding-bottom: 0;
+}
+
+#side_nav {
+	padding-left: 50px;
+}
+
+/* Quick Links Full Width on Tablet */
+#side_nav .wrapper {
+	width: 100%;
+}
+
+#side_nav .nav-bar {
+	max-width: 100%;
+}
+
+/* End Full Width */
+
+#side_bar-home .bullets-green li {
+	display: block;
+}
+
+.row {
+	width: 100%;
+	max-width: 100%;
+}
+
+#navigation ul.dropdown li.long,#navigation ul.dropdown li.long a,#navigation ul.dropdown li.long:hover {
+	margin-bottom: -10px;
+}
+
+.top-bar ul > li.has-dropdown .dropdown li.active a {
+	color: #FFF;
+	background: #7D756B;
+}
+
+.top-bar ul > li.has-dropdown.moved .back.title h5 a {
+	font-size: 27px;
+}
+
+/*  HIDE THE Quick Links
+#side_nav {
+	display: none;
+} */
+
+.top-bar ul > li.has-dropdown .dropdown li:hover a {
+	color: #FFF;
+}
+
+#side_bar-home .bullets-green li a {
+	margin-left: 0;
+}
+
+.top-bar {
+	padding-left: 0;
+}
+
+element.style {
+	float: none;
+}
+
+img.inline-left {
+	max-width: 250px;
+}
+
+#headrow {
+	max-width: none;
+	position: relative;
+	z-index: 2000;
+
+}
+
+#contentrowhome {
+	margin-top: 30px;
+}
+
+
+#contentrow {
+	margin-top: 30px;
+}
+
+#home-rite_sidebar .panel img { margin-bottom: 5px; float: left; margin-right: 5px; }
+
+
+#mobile_menu {
+	background: #3c3c3c !important;
+	color: #F4D970 !important;
+}
+
+.hov a:hover {
+	background: #3c3c3c !important;
+}
+
+#side_bar-home {
+	max-width: 100%;
+	margin-top: 0;
+}
+
+#zone-user ul.menu li a {
+	font-size: 11px;
+}
+
+#zone-user-wrapper {
+	background: none;
+}
+
+#home-rite_sidebar img {
+	margin-left: 0px !important;
+}

@@ -1,0 +1,150 @@
+@charset  utf-8;
+
+/* CSS Document */
+#masthead,#top {
+	display: none;
+}
+
+#home-rite_sidebar {
+	width: 100%;
+}
+
+#home-rite_sidebar .panel {
+	width: 100%;
+}
+
+#main {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+#mobile_header img {
+	padding-top: 5px;
+	float: right;
+}
+
+#shifting {
+	margin-top: 0;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.top-bar {
+	height: 35px;
+	width: 100%;
+	padding-left: 0;
+}
+
+#mobile_header {
+	height: 35px;
+	background: url(../img/banner_red-mobile.jpg) no-repeat scroll 0 0 #d71339;
+	background-size: 368px 35px;
+}
+
+#side_nav .wrapper h2 {
+	margin-left: 0;
+}
+
+#submain {
+	padding-bottom: 0;
+}
+
+#side_nav {
+	padding-left: 50px;
+}
+
+/* Quick Links Full Width on Mobile */
+#side_nav .wrapper {
+	width: 100%;
+}
+
+#side_nav .nav-bar {
+	max-width: 100%;
+}
+
+/* End Full Width */
+
+#side_bar-home .bullets-green li {
+	display: block;
+}
+
+.row {
+	width: 100%;
+	max-width: 100%;
+}
+
+.top-bar ul > li.has-dropdown .dropdown li.active a {
+	color: #FFF;
+	background: #7D756B;
+}
+
+.top-bar ul > li.has-dropdown.moved .back.title h5 a {
+	font-size: 27px;
+}
+
+/*  HIDE THE Quick Links
+#side_nav {
+	display: none;
+}  */
+#side_bar-home .bullets-green li a {
+	margin-left: 0;
+}
+
+#navigation ul.dropdown li.long,#navigation ul.dropdown li.long a,#navigation ul.dropdown li.long:hover {
+	margin-bottom: 8px;
+}
+
+#navigation ul.dropdown li.long {
+	margin-bottom: -10px;
+}
+
+#context ul, #context-large ul {
+margin-left: 24px;
+}
+
+#home-rite_sidebar .panel img { width: 50% !important; margin-bottom: 5px; float: left; margin-right: 5px; }
+
+#contentrowhome {
+	position:relative;
+	margin-top: -30px;
+}
+
+#side_bar-home {
+	max-width: 100%;
+	margin-top: 0;
+}
+
+/* Top Nav CSS */
+
+#zone-user ul.menu {
+	width: 100%;
+}
+
+#zone-user ul.menu li {
+	width: 33.33%;
+	border-bottom: 1px solid #7D756B;
+	border-right: 1px solid #7D756B;
+	text-align: center;
+}
+
+#zone-user ul.menu li:nth-child(3n) {
+	border-right: none;
+}
+
+#region-user-first {
+margin: 0 0 10px 0;
+float: none;
+}
+
+#region-user-second {
+	margin-bottom: 8px;
+}
+
+#zone-user #block-menu-menu-sliver {
+margin-top: 0px;
+}
+
+#zone-user-wrapper {
+	padding-top: 0;
+	background: none;
+}

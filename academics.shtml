@@ -1,0 +1,157 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="description" content="The nine schools of Rutgers Biomedical and Health Sciences comprise New Jersey’s largest and most influential constellation of academic institutions devoted to medicine, dentistry, advanced health-related sciences, pharmacy, public health, nursing, and the full spectrum of allied health careers. ">
+    <meta name="keywords" content="the nine schools of rbhs, the schools of rbhs, rbhs principle teaching hospitals, rbhs clinical affiliates, rbhs faculty and clinical practices, top research library systems, rbhs community health, dual and joint degree programs at rbhs">
+	<title>Academics Overview | Rutgers Biomedical and Health Sciences</title>
+
+    <!-- Included CSS Files -->
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+    <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+    <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+
+	<!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon-sun.ico" />
+
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
+    <script type="text/javascript" src="includes/js/templates.js"></script>
+    <!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
+    <!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+    <script type="text/javascript" src="includes/js/rbhs.js"></script>
+
+</head>
+<body>
+	<div class="row" id="headrow">
+	<div class="twelve columns" >
+        <!-- Includes Header -->
+        <!--#include virtual="includes/header.html" -->
+        <!-- Includes Navigation -->
+        <!--#include virtual="includes/nav.html" -->
+    </div>
+    </div>
+
+    <div class="row" id="contentrow">
+    <div id="shifting" class="twelve columns bg-white">
+
+    <div id="submain" class="nine push-three mobile-four columns">
+        <!-- Top Banner Area
+        ====================== -->
+        <div class="row">
+        <div class="twelve columns"><br />
+        	<img src="images/academics_010_931_980_bnr.jpg" alt="Students interacting with faculty in a classroom" title="Students interacting with faculty in a classroom" />
+        </div>
+        </div>
+        <br />
+        <div class="row">
+        <div id="context" class="eight mobile-four columns">
+            <h1 id="page-title">Academics Overview</h1>
+                <p>The <a href="schools.shtml">nine schools</a> of Rutgers Biomedical and Health Sciences (RBHS) collectively comprise New Jersey&rsquo;s largest and most influential constellation of academic institutions devoted to medicine, dentistry, advanced health-related sciences, pharmacy, public health, nursing, and the full spectrum of allied health careers. Our exciting programs are taught by top faculty in first-rate facilities at multiple locations throughout the state. When you study at an RBHS school, you join one of the most diverse health sciences student bodies in the nation and tap into the abundant resources of the broader Rutgers, a leading national research university.</p>
+
+<p>RBHS schools offer the following degrees and certificates:</p>
+<ul><li>M.D., D.M.D., Ph.D., D.C.N., D.N.P., D.C.L.S., D.P.T., Dr.P.H., post doctoral certificates</li>
+<li>M.S., M.B.S., M.S.N., M.P.H., master&rsquo;s, post master's certificates</li>
+<li>B.S., B.S.N., post baccalaureate certificates</li>
+<li>A.S., A.A.S., undergraduate certificates</li></ul>
+
+            <h2>Learning through Clinical Practice</h2>
+                <p>In addition to learning in our principal teaching hospitals, a key component of an RBHS education is your opportunity to learn in our own faculty practices, community health centers, clinical practices, and scores of other hospital and clinical affiliates.</p>
+
+            <h3>Principal Teaching Hospitals</h3>
+                <ul>
+<li>The principal teaching hospital of RBHS in Newark is <a href="http://www.theuniversityhospital.com" target="_blank">University Hospital</a>, northern New Jersey&rsquo;s only Level 1 Trauma Center and a vital health care resource for Newark and surrounding communities.</li>
+<li>The principal teaching hospital of RBHS in New Brunswick is <a href="http://www.rwjuh.edu" target="_blank">Robert Wood Johnson University Hospital</a>, which consistently ranks among the region&rsquo;s top hospitals.</li></ul>
+
+<h3>Faculty and Clinical Practices, Community Health</h3>
+               <ul>
+                  <li><a href="practices.shtml">Faculty and Clinical Practices</a></li>
+<li><a href="community.shtml">Community Health</a></li></ul>
+
+        </div><!-- #end-of-main-content-area -->
+
+        <!-- Right Sidebar
+        ====================== -->
+        <div id="side_bar" class="four mobile-four columns">
+        <ul>
+            <!-- Panel One -->
+
+            <li>
+            <h2>Dual and Joint Degree Programs</h2>
+                <p>The schools of Rutgers Biomedical and Health Sciences offer numerous dual&#150;and joint-degree programs with each other, with other schools within Rutgers, and with schools at other institutions. You will find information about dual- and joint-degree options when you explore individual school websites. <a href="schools.shtml">Learn more</a>.</p>
+
+            </li>
+            <!-- Panel Two -->
+            <li>
+            <h2>Libraries</h2>
+                <p><img src="images/0167-120710-RoyG_th.jpg" alt="Female student working on a laptop in the library" title="Female student working on a laptop in the library" style="float:left;" class="inline-left"/></br>
+With more than two dozen centers and reading rooms across our campuses, the Rutgers University Libraries rank among the nation&rsquo;s top research library systems. <a href="http://www.rutgers.edu/academics/libraries" target="_blank">Learn more</a>.</p>
+            </li>
+
+            <li>
+            <h2>Clinical Affiliates</h2>
+                <p>Rutgers Biomedical and Health Sciences (RBHS) units have relationships with hundreds of affiliated hospitals and clinics throughout the region. Explore each unit's website to learn more.</p>
+
+            <ul>
+				<li><a href="http://cinj.org/network-hospitals/cancer-institute-new-jersey-network" target="_blank">Cancer Institute of New Jersey</a></li>
+                <li><a href="http://nursing.rutgers.edu/" target="_blank">College of Nursing</a></li>
+                <li><a href="http://pharmacy.rutgers.edu/" target="_blank">Ernest Mario School of Pharmacy</a></li>
+                <li><a href="http://gsbs.rutgers.edu/" target="_blank">Graduate School of Biomedical Sciences</a></li>
+                <li><a href="http://njms.rutgers.edu/education/office_education/curriculum/affiliation.cfm" target="_blank">New Jersey Medical School</a></li>
+                <li><a href="http://sdm.rutgers.edu/" target="_blank">Rutgers School of Dental Medicine</a></li>
+                <li><a href="http://rwjms.rutgers.edu/patient_care/affiliated_hospitals.html" target="_blank">Robert Wood Johnson Medical School</a></li>
+                <li><a href="http://shrp.rutgers.edu/" target="_blank">School of Health Related Professions</a></li>
+                <li><a href="http://sn.rutgers.edu/" target="_blank">School of Nursing</a></li>
+                <li><a href="http://sph.rutgers.edu/" target="_blank">School of Public Health</a></li>
+                <li><a href="http://ubhc.rutgers.edu/" target="_blank">University Behavioral Health Care</a></li>
+			</ul>
+
+            </li>
+
+        </ul>
+        </div>
+        </div><!-- #end-of-right-sidebar -->
+
+    </div>
+
+    <!-- Includes Left Side Navigation -->
+    <!--#include virtual="includes/side_nav-academics.html" -->
+    <!-- Second Section -->
+    <div class="panel padding">
+    <h2>Related</h2>
+    <div class="row">
+        <div class="twelve columns item-list">
+        <ul>
+            <li><a href="http://www.rutgers.edu/academics/academics-rutgers" target="_blank">Academics Universitywide</a></li>
+			<li><a href="http://ethics.umdnj.edu" target="_blank">Ethics, Compliance & Corporate Integrity</a></li>
+            <li><a href="https://www.rutgers.edu/health-sciences/health-sciences-education" target="_blank">Health Sciences Education Universitywide</a></li>
+            <li><a href="http://www.rutgers.edu/about-rutgers/national-rankings" target="_blank">National Rankings</a></li>
+            <li><a href="http://www.libraries.rutgers.edu" target="_blank">University Libraries</a></li>
+
+        </ul>
+        </div>
+    </div>
+	</div>
+    </div>
+</div>
+
+    </div><!-- #end-of-all-content -->
+
+    <!-- Includes Footer -->
+    <!--#include virtual="includes/footer.html" -->
+
+    </div>
+</body>
+</html>

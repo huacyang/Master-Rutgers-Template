@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true" />
+<meta name="description" content="Directions to Rutgers at Somerset, Rutgers Biomedical and Health Sciences (RBHS), one of America’s largest, most comprehensive university-based centers for studying and improving human health and health care.">
+<meta name="keywords" content="rutgers,rutgers university,new jersey,college,education,new brunswick,biomedical health sciences,rbhs,medical education, dental education, nursing education,new jersey medical education">  
+<title>Rutgers at Somerset | Locations and Directions | Rutgers Biomedical and Health Sciences</title>
+
+<!-- Included CSS Files -->
+<link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+<link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+<link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+<!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+<!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="images/favicon-sun.ico" />
+
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+
+<!-- Included JavaScript Files -->
+<script type="text/javascript" src="includes/js/modernizr.js"></script>
+<script type="text/javascript" src="includes/js/jquery.js"></script>
+<script type="text/javascript" src="includes/js/jquery-json.js"></script>
+<script type="text/javascript" src="includes/js/templates.js"></script>
+<!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+<script type="text/javascript" src="includes/js/rbhs.js"></script>
+</head>
+<body>
+<div class="row" id="headrow">
+	<div id="header" class="twelve columns" > 
+		<!-- Includes Header --> 
+		<!--#include virtual="includes/header.html" --> 
+		<!-- Includes Navigation --> 
+		<!--#include virtual="includes/nav.html" --> 
+	</div>
+</div>
+<div class="row" id="contentrow">
+	<div id="shifting" class="twelve columns bg-white">
+		<div id="submain" class="nine push-three mobile-four columns"> 
+			<!-- Top Banner Area
+        ====================== -->
+			<div class="row">
+				<div class="twelve columns"></div>
+			</div>
+			<br />
+			<div class="row">
+				<div id="context-large" class="twelve mobile-four columns"> <a name="top"></a>
+					<h1 id="page-title">Rutgers at Somerset</h1>
+
+					<h3>Directions to the Rutgers Somerset Location</h3>
+					<h4 class="directionAddress">One Worlds Fair Drive<br/>Somerset, NJ 08873</h4>
+					<p class="directionAddress">Phone: 732-445-INFO (4636)</p><br/>
+
+					<h6>From Newark Airport and New Jersey Turnpike:</h6>
+					<ul>
+						<li>Take the New Jersey Turnpike South to Exit 10 (287 North). Follow directions below </li>
+					</ul>
+
+					<h6>* From Garden State Parkway (GSP):</h6>
+					<ul>
+						<li>South: Get off GSP at Exit 130 for Route 1 South. Stay to the right for exit to 287 North.* </li>
+					</ul>
+
+					<h6>From RTE 1-9 South/RTE 1 East and West:</h6>
+					<ul>
+						<li>* Follow signs to exit 287 North </li>
+					</ul>
+
+					<h6>Directions For 287 North:</h6>
+					<ul>
+						<li>Continue on 287 North to Exit 10. Take Route 527 South (Easton Ave) and travel 1/2 mile. Make a right onto Worlds Fair Drive to number One, which is the first building on the left. </li>
+					</ul>
+
+				</div>
+				<!-- #end-of-main-content-area --> 
+				
+				<!-- Right Sidebar
+        ====================== --> 
+				<!--  <div id="side_bar" class="four mobile-four columns">
+        <ul>
+            // Panel One 
+            <li>
+            <h2>TO BE DELETED</h2>
+                <p>TO BE DELETED</p>
+                
+            </li>
+        </ul>
+        </div>--><!-- #end-of-right-sidebar --> 
+			</div>
+		</div>
+		
+		<!-- Includes Left Side Navigation --> 
+		<!--#include virtual="includes/side_nav-about.html" --> 
+				<!-- Second Section -->
+				<div class="panel padding">
+					<h2>Related</h2>
+					<div class="row">
+						<div class="twelve columns item-list">
+							<ul>
+								<li><a href="http://www.rutgers.edu/visit-us/maps-directions" target="_blank">Maps and Directions</a></li>
+								<li><a href="http://www.rutgers.edu/visit-us/visit-rutgers" target="_blank">Visit Rutgers</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- #end-of-all-content --> 
+	
+	<!-- Includes Footer --> 
+	<!--#include virtual="includes/footer.html" --> 
+	
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="description" content="Find Rutgers Biomedical and Health Sciences' physicians, dentists, mental health professionals, and other health practitioners. Collectively, they comprise New Jersey’s largest network of patient-care providers.">
+    <meta name="keywords" content="rutgers patient care, find a rutgers physician, find a rutgers doctor, former umdnj patients, rbhs clinical affiliates, rbhs ethics and compliance, rbhs faculty and clinical practices, rbhs community health programs, rutgers community health programs, rutgers faculty and clinical practices, rbhs clinical trials, rutgers clinical trials, umdnj patients, rutgers mental health care help, rbhs mental healt professionals, find an rbhs mental health care provider, university behavioral health care providers, doctors at ubhc ">
+	<title>Physicians Referral Services | Rutgers Biomedical and Health Sciences</title>
+
+    <!-- Included CSS Files -->
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+    <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+    <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+
+	<!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon-sun.ico" />
+
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
+    <script type="text/javascript" src="includes/js/templates.js"></script>
+    <!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTi.js"></script><![endif]-->
+    <!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+    <script type="text/javascript" src="includes/js/rbhs.js"></script>
+
+</head>
+<body>
+	<div class="row" id="headrow">
+	<div class="twelve columns" >
+        <!-- Includes Header -->
+        <!--#include virtual="includes/header.html" -->
+        <!-- Includes Navigation -->
+        <!--#include virtual="includes/nav.html" -->
+    </div>
+    </div>
+
+    <div class="row" id="contentrow">
+    <div id="shifting" class="twelve columns bg-white">
+
+    <div id="submain" class="nine push-three mobile-four columns">
+        <!-- Top Banner Area
+        ====================== -->
+        <div class="row">
+        <div class="twelve columns"><br />
+        	<img src="images/patientcare_ref_serv_923_.jpg" alt="Two doctors in white coats in a discussion" title="Two doctors in white coats in a discussion" />
+        </div>
+        </div>
+        <br />
+        <div class="row">
+        <div id="context-large" class="twelve mobile-four columns">
+            <h1 id="page-title">Physician Referral Services</h1>
+                <p>Our physicians, dentists, mental health professionals, and other health practitioners collectively comprise New Jersey&rsquo;s largest network of patient-care providers. There are more than 1.7 million patient visits to our health care facilities annually, with 400 children receiving free dental care on &ldquo;Give Kids a Smile Day,&rdquo; 3,000 patients enrolled annually in clinical trials at the Cancer Institute of New Jersey, and more than one million patient consultations and medical procedures performed each year by Robert Wood Johnson Medical Group physicians alone.</p>
+            <h2>Find a Physician </h2>
+                <p>If you are in need of a primary care physician, dentist, or specialist near your home or office, our referral services make it easy to find the expert care you need. Physicians with expertise in hundreds of subspecialty clinical programs provide a full range of highly specialized services for children and adults. </p>
+                   <p><a href="http://www.cinj.org/physician-profile/search" target="_blank" class="subhead">Cancer Institute of New Jersey Physician Referral</a><br />
+The institute provides state-of-the-art cancer care for adults and children, providing access to the latest medicines and most advanced treatment options available. Our team of health care professionals helps the patient make appropriate decisions and approach his or her treatment with confidence.</p>
+ <p><a href="http://pluto.umdnj.edu/njmedphysicians/" target="_blank" class="subhead">New Jersey Faculty Practice Physician Referral at New Jersey Medical School</a><br />
+Employing state-of-the-art treatment tools and innovations, clinical care is provided in a variety of inpatient and outpatient settings. Our physicians focus on specialty areas of medicine&mdash;including infectious diseases, cardiovascular science, neurological and visual sciences, cancer, and trauma&mdash;to ensure that we are meeting a wide range of patient needs.</p>
+<p><a href="http://umg.rwjms.rutgers.edu/Public/directory/search.asp" target="_blank" class="subhead">Robert Wood Johnson Medical Group Physician Referral Service</a><br />
+Composed of approximately 500 physicians with expertise in more than 200 subspecialty clinical programs, the group is one of the largest multispecialty group practices in New Jersey. Our academic physicians provide a full range of highly specialized services for pediatric and adult populations.</p>
+<p><a href="http://sdm.rutgers.edu/patients/index.html" target="_blank" class="subhead">University Dental Associates at Rutgers School of Dental Medicine</a><br />
+Our doctors provide a wide range of dental care in one location, making the practice unique. The dentists provide preventive, diagnostic, and restorative care, along with a esthetic (cosmetic) dentistry. Using a team approach, all of the practitioners and specialists work together to provide coordinated, timely care.
+</p>
+<h2>Find Behavioral, Addiction, and Mental Health Practitioners</h2>
+<p><a href="http://ubhc.rutgers.edu/accesscenter/index.htm" target="_blank" class="subhead">University Behavioral Health Care</a><br />
+University Behavioral Health Care (UBHC) is statewide asset that offers a full continuum of behavioral and mental health and addiction services for children, adolescents, adults, and seniors. UBHC&rsquo;s behavioral professionals and support staff are dedicated to treatment, prevention, and education. UBHC is one of the largest providers of behavioral health care in the nation, with services offered in locations throughout New Jersey.</p>
+<p>Services include inpatient, outpatient, partial hospitalization, screening, crisis stabilization, family/caregiver support, community outreach and case management, research, prevention, and consultation, as well as government-funded and privately sponsored specialty initiatives.</p>
+
+
+        </div><!-- #end-of-main-content-area -->
+
+        <!-- Right Sidebar
+        ====================== -->
+        <!--<div id="side_bar" class="four mobile-four columns">
+        </div>-->
+        </div><!-- #end-of-right-sidebar -->
+
+    </div>
+
+    <!-- Includes Left Side Navigation -->
+    <!--#include virtual="includes/side_nav-care.html" -->
+     <!-- Second Section -->
+    <div class="panel padding">
+    <h2>Related</h2>
+    <div class="row">
+        <div class="twelve columns item-list">
+        <ul>
+            <li><a href="http://rutgers.edu/health-sciences/patient-care" target="_blank">Universitywide Health Sciences Patient Care</a></li>
+        </ul>
+        </div>
+    </div>
+	</div>
+    </div>
+</div>
+
+    </div><!-- #end-of-all-content -->
+
+    <!-- Includes Footer -->
+    <!--#include virtual="includes/footer.html" -->
+
+    </div>
+</body>
+</html>

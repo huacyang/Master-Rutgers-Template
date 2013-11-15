@@ -1,0 +1,163 @@
+.top-bar ul > li.has-dropdown .dropdown > li {
+	text-align:left;
+}
+.top-bar a {
+	color:white;
+}
+#home {
+	margin-right:25px;
+}
+#shifting {
+	margin-top:-30px;
+}
+
+li.has-dropdown:hover {
+	background: #7D756B !important;
+}
+
+li.has-dropdown > a:hover {
+	background: #7D756B !important;
+}
+
+#navigation li a:hover, #navigation li.has-dropdown:hover, #navigation li.has-dropdown li:hover a {
+	background-color:#565149;
+}
+#navigation li#home:hover, #navigation li#home:hover a {
+	background-color:#565149;
+	color:#F9DA6E;
+	text-decoration:none;
+	cursor:hand;
+}
+#navigation li#home {
+	padding-left:20px;
+	padding-right:20px;
+	margin-right:0px;
+}
+#navigation li.has-dropdown:hover li {
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#navigation li.has-dropdown li {
+}
+#navigation li.has-dropdown li a {
+	font-size:9px;
+}
+
+.top-bar ul li.active {
+background-color: #7D756B !important;
+}
+
+.top-bar ul li.active a {
+	color: #F4D96D !important;
+}
+
+.top-bar .active .dropdown li a {
+color: white !important;
+}
+
+
+
+
+
+#navigation UL.dropdown LI.long {
+	display: visible !important;
+	padding-bottom: 0px !important;
+	position: relative;
+	left: 0px;
+	height: 170%;
+	width: 208px;
+	margin-bottom: -4px !important;
+
+}
+
+#navigation UL.dropdown LI.long:hover {
+	padding-bottom: 0px !important;
+}
+
+#navigation UL.dropdown LI.long a {
+	display: visible !important;
+	width: 192px;
+
+}
+
+
+
+li.long a {
+	padding-bottom: 8px !important;
+	padding-top: 0 !important;
+	display: block;
+	width: 192px;
+
+}
+
+ul.dropdown .long {
+	padding-left:0;
+	position: relative;
+	left: -8px;
+	margin-bottom: 8px !important;
+	max-width: 208px !important;
+	height: 40px;
+
+
+}
+
+
+ul.dropdown .long a:hover {
+	padding:8px;
+
+}
+
+
+
+#sb_chancellor:hover {
+	background-color: #ebeee1 !important;
+}
+
+#sb_chancellor ul li, #sb_chancellor ul li a {
+
+	list-style: none !important;
+
+}
+
+#sb_chancellor a:hover, #sb_location a:hover {
+	border-right-color: #f7efc9 !important;
+	background-color: #f7efc9 !important;
+
+}
+
+#side_nav ul li.active ul li a:hover {
+background: url(../img/gray-square.gif) 0 11px no-repeat #f7efc9 !important;
+}
+
+
+li#sb_location.has-dropdown {
+	border: none !important;
+}
+
+#sb_chancellor #sb_info a:hover {
+	background-color: #f7efc9;
+	color: #b48c00;
+}
+
+#side_nav ul li a:hover {
+border-right-color: #f7efc9;
+background-color: #f7efc9;
+color: #b48c00;
+}
+
+.mobile-four .wrapper {
+	width: auto !important;
+}
+
+#nav-wrapper, #contentrow, #header, #mainhold {
+
+	max-width: 980px;
+}
+
+.row .three {
+	width: 24%;
+}
+
+#side_bar-home {
+	padding-left: 23px;
+}

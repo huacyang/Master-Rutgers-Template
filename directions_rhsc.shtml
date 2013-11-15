@@ -1,0 +1,141 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true" />
+<meta name="description" content="Directions to Rutgers Health Sciences Campus at Newark, Rutgers Biomedical and Health Sciences (RBHS), one of America’s largest, most comprehensive university-based centers for studying and improving human health and health care.">
+<meta name="keywords" content="rutgers,rutgers university,new jersey,college,education,new brunswick,biomedical health sciences,rbhs,medical education, dental education, nursing education,new jersey medical education">  
+<title>Rutgers Health Sciences Campus at Newark | Locations and Directions | Rutgers Biomedical and Health Sciences</title>
+
+<!-- Included CSS Files -->
+<link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+<link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+<link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+<!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+<!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="images/favicon-sun.ico" />
+
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+
+<!-- Included JavaScript Files -->
+<script type="text/javascript" src="includes/js/modernizr.js"></script>
+<script type="text/javascript" src="includes/js/jquery.js"></script>
+<script type="text/javascript" src="includes/js/jquery-json.js"></script>
+<script type="text/javascript" src="includes/js/templates.js"></script>
+<!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+<script type="text/javascript" src="includes/js/rbhs.js"></script>
+</head>
+<body>
+<div class="row" id="headrow">
+	<div id="header" class="twelve columns" > 
+		<!-- Includes Header --> 
+		<!--#include virtual="includes/header.html" --> 
+		<!-- Includes Navigation --> 
+		<!--#include virtual="includes/nav.html" --> 
+	</div>
+</div>
+<div class="row" id="contentrow">
+	<div id="shifting" class="twelve columns bg-white">
+		<div id="submain" class="nine push-three mobile-four columns"> 
+			<!-- Top Banner Area
+        ====================== -->
+			<div class="row">
+				<div class="twelve columns"></div>
+			</div>
+			<br />
+			<div class="row">
+				<div id="context-large" class="twelve mobile-four columns"> <a name="top"></a>
+					<h1 id="page-title">Rutgers Health Sciences at Newark</h1>
+
+					<h3>Directions to the Health Sciences Location</h3>
+					<h4 class="directionAddress">65 Bergen Street<br/>Newark, NJ 07107</h4>
+					<p class="directionAddress">Phone: 732-445-INFO (4636)</p>
+
+					<h6>From New Jersey Turnpike, North or South:</h6>
+					<ul>
+						<li>Take exit 15W to I-280 West to the Orange St./6th St. exit. Make the first right onto Orange St. and proceed one block to First St. Turn right and proceed about half a mile to West Market St., where First St. becomes Bergen St. Follow the parking directions below. *</li>
+					</ul>
+
+					<h6>From the Garden State Parkway, North or South:</h6>
+					<ul>
+						<li>Take exit 145 to I-280 East. Stay to the left to exit at First St. Turn right on First St. and continue across W. Market St., where First St. becomes Bergen St. Follow parking directions below.</li>
+					</ul>
+
+					<h6>Parking on the Newark Campus:</h6>
+					<ul>
+						<li>Take the first left after W. Market St. for the University&rsquo;s Administration Complex, low beige buildings, and metered parking in Lot 9.</li>
+						<li>Proceed straight on Bergen St. across 12th Ave. to parking for other Rutgers schools and units. Turn left about 500 feet beyond 12th Ave.; bear left for self-parking in DOC parking garage (hourly rates), bear right for valet parking at entrance to University Hospital.</li>
+						<li>Or continue straight on Bergen St. to the traffic light at South Orange Ave. Turn left and at the first light, turn left into the university complex and metered parking in Lot 1. *</li>
+					</ul>
+
+					<h6>From Route 78, East or West</h6>
+					<ul>
+						<li>Take Exit 56- Peddie Street- stay to the far right as you exit, make a left onto Hawthorne Street, proceed thru the traffic light on Jeliff to the second traffic light, make a right onto Bergen Street proceed approximately 2 miles on Bergen Street to SSB on left.</li>
+						<li>For metered parking in Lot 1, turn right on South Orange Ave., and take first left into the University Complex.</li>
+						<li>For valet parking or the Doctors Office Center parking garage, continue straight on Bergen St., University Hospital is on the right.</li>
+						<li>Proceed past the hospital and turn right at the Doctors Office Center sign. Bear left for self-parking in garage (hourly rates); bear right for valet parking at entrance to the hospital.</li>
+						<li>For parking near the Administration Complex continue straight on Bergen St. across 12th Ave. and take the first right into parking Lot 9 for metered parking.</li>
+					</ul>
+
+					<h6>From New York City:</h6>
+					<ul>
+						<li>Take the George Washington Bridge or the Lincoln Tunnel to NJ Turnpike to Exit 15W. Follow directions from the NJ Turnpike. Or take the Holland Tunnel to the NJ Turnpike (exit 14) to Route 78 W. Follow directions from Route 78 W.</li>
+					</ul>
+
+					<h6>* Mass Transit:</h6>
+					<ul>
+						<li>PATH and Amtrak rail lines and New Jersey Transit buses and trains serve Penn Station in downtown Newark, about a mile from the Rutgers campus. The #21, #31 and #34 buses stop at the campus. Buildings closest to those routes are: #31 (4,5,11,13); #34 (2,3,6,7,8,9,10,11,12) #21 (1,2,3). Taxi service is available to and from Penn Station and Newark International Airport.</li>
+					</ul>
+
+
+				</div>
+				<!-- #end-of-main-content-area --> 
+				
+				<!-- Right Sidebar
+        ====================== --> 
+				<!--  <div id="side_bar" class="four mobile-four columns">
+        <ul>
+            // Panel One 
+            <li>
+            <h2>TO BE DELETED</h2>
+                <p>TO BE DELETED</p>
+                
+            </li>
+        </ul>
+        </div>--><!-- #end-of-right-sidebar --> 
+			</div>
+		</div>
+		
+		<!-- Includes Left Side Navigation --> 
+		<!--#include virtual="includes/side_nav-about.html" --> 
+				<!-- Second Section -->
+				<div class="panel padding">
+					<h2>Related</h2>
+					<div class="row">
+						<div class="twelve columns item-list">
+							<ul>
+								<li><a href="http://www.rutgers.edu/visit-us/maps-directions" target="_blank">Maps and Directions</a></li>
+								<li><a href="http://www.rutgers.edu/visit-us/visit-rutgers" target="_blank">Visit Rutgers</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- #end-of-all-content --> 
+	
+	<!-- Includes Footer --> 
+	<!--#include virtual="includes/footer.html" --> 
+	
+</div>
+</body>
+</html>

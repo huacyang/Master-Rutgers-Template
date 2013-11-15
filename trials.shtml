@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="description" content="Clinical trials are scientific research studies designed to find better ways to treat or prevent diseases. Rutgers Biomedical and Health Sciences has clinical research at every school and campus, involving hundreds of researchers and thousands of patients.">
+    <meta name="keywords" content="clinical trials for cancer, rbhs clinical cancer trials, new jersey medical school clinical trials, Rutgers Clinical Research Organization, rbhs research studies, rutgers research studies, resources for rutgers investigators, rutgers clinical trials ">
+	<title>Clinical Trials | Rutgers Biomedical and Health Sciences</title>
+
+    <!-- Included CSS Files -->
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+    <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+    <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+
+	<!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon-sun.ico" />
+
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
+    <script type="text/javascript" src="includes/js/templates.js"></script>
+    <!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
+    <!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+    <script type="text/javascript" src="includes/js/rbhs.js"></script>
+
+</head>
+<body>
+	<div class="row" id="headrow">
+	<div class="twelve columns" >
+        <!-- Includes Header -->
+        <!--#include virtual="includes/header.html" -->
+        <!-- Includes Navigation -->
+        <!--#include virtual="includes/nav.html" -->
+    </div>
+    </div>
+
+    <div class="row" id="contentrow">
+    <div id="shifting" class="twelve columns bg-white">
+
+    <div id="submain" class="nine push-three mobile-four columns">
+        <!-- Top Banner Area
+        ====================== -->
+        <div class="row">
+        <div class="twelve columns"><br />
+        	<img src="images/patientcare_trials_122_.jpg" alt="Doctor talking to a female patient in a wheelchair" title="Doctor talking to a female patient in a wheelchair" />
+        </div>
+        </div>
+        <br />
+        <div class="row">
+        <div id="context" class="eight mobile-four columns">
+            <h1 id="page-title">Clinical Trials</h1>
+                <p>Clinical trials are scientific research studies designed to find better ways to treat or prevent diseases. Rutgers Biomedical and Health Sciences (RBHS) has clinical research at every school and campus, involving hundreds of researchers. The faculty at our two medical schools, dental school, nursing schools, and other allied health schools are dedicated to moving forward discovery in drugs, biologics, devices, preventive and therapeutic strategies, behavioral research, and other interventions to improve human life. RBHS supports more than 350 clinical trials a year.</p>
+            <h2>Start Here</h2>
+                <p><a href="http://cro.rbhs.rutgers.edu" target="_blank">The Rutgers Clinical Research Organization</a> is the gateway to RBHS&rsquo;s statewide clinical trial activities. Dedicated to effective collaboration between industry and academia to advance care and the boundaries of health care treatment, we partner with patients, industry, and practitioners to identify appropriate investigators and academic resources to meet patients&rsquo; needs. </p>
+
+                    <ul>
+                      <li><a href="http://cro.rbhs.rutgers.edu/volunteers/patients.html" target="_blank">Information for Participants/Interested Volunteers</a></li>
+                      <li><a href="http://cro.rbhs.rutgers.edu/collaborators/sponsors.html" target="_blank">Information for Industry Collaborators</a></li>
+                      <li><a href="http://cro.rbhs.rutgers.edu/investigators/researchers.html" target="_blank">Information for Researchers/Investigators</a></li>
+                      <li><a href="http://cro.rbhs.rutgers.edu/investigators/internal/" target="_blank">Resources for Rutgers Investigators</a></li>
+                    </ul>
+
+            <h2>Find Clinical Trials</h2>
+                <p>Clinical trials are research studies that require the participation of patients. Search our clinical trials database to find studies that can expand treatment options by providing access to the most promising therapies and advanced technologies. <a href="http://cro.rbhs.rutgers.edu/findclinicaltrial.html" target="_blank">Search now</a>.</p>
+
+                <h2>Clinical Trials In Depth</h2>
+                <p>Explore school, center, and institute websites to learn more about their clinical trial activities.</p>
+
+          <ul>
+                        <li><a href="schools.shtml">Schools and Colleges</a></li>
+                        <li><a href="institutes.shtml">Centers and Institutes</a></li>
+
+          </ul>
+
+        </div><!-- #end-of-main-content-area -->
+
+        <!-- Right Sidebar
+        ====================== -->
+        <div id="side_bar" class="four mobile-four columns">
+        <ul>
+            <!-- Panel One -->
+            <li>
+            <h2>Clinical Trials for Cancer</h2>
+                <p>As New Jersey&rsquo;s only National Cancer Institute (NCI)-designated comprehensive cancer center, the <a href="http://cinj.org" target="_blank">Cancer Institute of New Jersey</a> is able to provide access to clinical trials not available at other hospitals, clinics, or doctor&rsquo;s offices. The institute enrolls more than 3,000 patients in clinical trials &mdash; approximately 15 percent of all its new adult cancer patients.  Nationwide fewer than 5 percent of adult cancer patients participate in clinical trials. Among the institute&rsquo;s pediatric cancer patients, 70 percent are in clinical trials. <a href="http://www.cinj.org/clinical-trials/clinical-trials-overview" target="_blank">Learn more</a>.<br />
+<br />
+As one of only 14 National Cancer Institute-designated Minority-Based Community Clinical Oncology Programs, the <a href="http://njms.rutgers.edu/cancercenter/" target="_blank">New Jersey Medical School-University Hospital Cancer Center</a> is uniquely positioned to offer state-of-the-art clinical trials to patients through numerous active protocols in dozens of NCI-approved clinical trials. <a href="http://njms.rutgers.edu/cancercenter" target="_blank">Learn more</a>.</p>
+
+            </li>
+        </ul>
+        </div>
+        </div><!-- #end-of-right-sidebar -->
+
+    </div>
+
+    <!-- Includes Left Side Navigation -->
+    <!--#include virtual="includes/side_nav-care.html" -->
+     <!-- Second Section -->
+    <div class="panel padding">
+    <h2>Related</h2>
+    <div class="row">
+        <div class="twelve columns item-list">
+        <ul>
+            <li><a href="http://cro.rbhs.rutgers.edu" target="_blank">Rutgers Clinical Research Organization</a> </li>
+            <li><a href="http://cinj.org" target="_blank">Cancer Institute of New Jersey</a></li>
+            <li><a href="http://njms.rutgers.edu/cancercenter/" target="_blank">New Jersey Medical School-University Hospital Cancer Center</a></li>
+        </ul>
+        </div>
+    </div>
+	</div>
+    </div>
+</div>
+
+    </div><!-- #end-of-all-content -->
+
+    <!-- Includes Footer -->
+    <!--#include virtual="includes/footer.html" -->
+
+    </div>
+</body>
+</html>

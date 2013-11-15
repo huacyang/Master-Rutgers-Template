@@ -1,0 +1,291 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="description" content="Information for faculty and staff of Rutgers Biomedical and Health Sciences. ">
+    <meta name="keywords" content="rbhs faculty portals, myportal for rbhs faculty, rbhs myportal, rbhs myrutgers, information for rbhs faculty and staff, information for 
+rutgers medical school faculty and staff, information for rutgers dental school faculty and staff, rbhs calendars, parking and transportation for rbhs faculty and staff, computing services for rbhs faculty and staff, professsional development for rbhs faculty and staff, rbhs faculty and staff recreation, computing services for rbhs faculty and staff, infomation for rbhs faculty and staff, rbhs dining services, health and safety for rbhs faculty and staff, rbhs international services for faculty and staff, rbhs faculty affairs, rbhs key services for faculty and staff, information for legacy umdnj faculty and staff, teaching resources for rbhs faculty and staff, travel services for rbhs faculty and staff, travel services for legacy umdnj faculty and staff, information for legacy umdnj users, international services at rbhs, computer help for rbhs faculty and staff">
+	<title>Faculty & Staff | Rutgers Biomedical and Health Sciences</title>
+
+    <!-- Included CSS Files -->
+    <link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+    <link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+    <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+    <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+
+	<!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon-sun.ico" />
+
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+
+    <!-- Included JavaScript Files -->
+    <script type="text/javascript" src="includes/js/modernizr.js"></script>
+    <script type="text/javascript" src="includes/js/jquery.js"></script>
+    <script type="text/javascript" src="includes/js/jquery-json.js"></script>
+    <script type="text/javascript" src="includes/js/templates.js"></script>
+    <!--[if !IE]><!--><script type="text/javascript" src="includes/js/NOTie8.js"></script><!--<![endif]-->
+    <!--[if IE]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+    <script type="text/javascript" src="includes/js/rbhs.js"></script>
+
+</head>
+<body>
+	<div class="row" id="headrow">
+	<div class="twelve columns" >
+        <!-- Includes Header -->
+        <!--#include virtual="includes/header.html" -->
+        <!-- Includes Navigation -->
+        <!--#include virtual="includes/nav.html" -->
+    </div>
+    </div>
+
+    <div class="row" id="contentrow">
+    <div id="shifting" class="twelve columns bg-white">
+
+    <div id="submain" class="nine push-three mobile-four columns">
+        <!-- Top Banner Area
+        ====================== -->
+        <div class="row">
+        <div class="twelve columns"><br />
+        	<img src="images/info_for_862_607_CINJDay2_2033_bnr.jpg" alt="A male and two female faculty members" title="A male and two female faculty members" />
+        </div>
+        </div>
+        <br />
+        <div class="row">
+        <div id="context" class="eight mobile-four columns">
+            <h1 id="page-title">Faculty &amp; Staff</h1>
+
+            <p>RBHS Information for Faculty and Staff</p>
+                    <p><a href="#calendars">Calendars</a> | <a href="#computing">Computing Services</a> | <a href="#dining">Dining</a> | <a href="#ethics">Ethics</a> | <a href="#health">Health and Safety</a> | <a href="#international">International Faculty and Staff</a> | <a href="#keyservices">Key Services</a> | <a href="#meetingplanning">Meeting Planning</a> | <a href="#parking">Parking and Transportation</a> | <a href="#policies">Policies</a> | <a href="#development">Professional and Personal Development</a> | <a href="#recreation">Recreation</a> | <a href="#researchr">Research Resources</a> | <a href="#resources">Teaching Resources</a> | <a href="#travel">Travel</a></p>
+                    <h2 id="calendars">Calendars</h2>
+                    <h3>Academic Calendars</h3>
+                    <ul>
+                        <li><a href="http://www.newark.rutgers.edu/academic-calendar" target="_blank">College of Nursing</a></li>
+                        <li><a href="http://scheduling.rutgers.edu/calendar.shtml" target="_blank">Ernest Mario School of Pharmacy</a></li>
+                        <li><a href="http://njms.rutgers.edu/gsbs/current_students/course_information.htm" target="_blank">Graduate School of Biomedical Sciences (New Jersey Medical School)</a></li>
+                        <li><a href="http://rwjms.rutgers.edu/gsbs/student_affairs/index.html" target="_blank">Graduate School of Biomedical Sciences (Robert Wood Johnson Medical School)</a></li>
+                        <li><a href="http://rwjms.rutgers.edu/education/current_students/academics/preclerkship/index.html" target="_blank">Robert Wood Johnson Medical School</a></li>
+                        <li><a href="http://sdm.rutgers.edu/calendar/index.htm" target="_blank">Rutgers School of Dental Medicine</a></li>
+                        <li><a href="http://sn.rutgers.edu/studentsonly/calendar.htm" target="new">School of Nursing</a> </li>
+                        <li><a href="http://sph.rutgers.edu/academics/academic_calendar.html" target="_blank">School of Public Health</a></li>
+                        <li><a href="http://shrp.rutgers.edu/general/calendars/academic_calendar_new.html" target="_blank">School of Health Related Professions</a></li>
+                    </ul>
+                    <h3>Additional Calendars</h3>
+                    <ul>
+                        <li><a href="http://ruevents.rutgers.edu" target="_blank">University Events Calendar</a></li>
+                    </ul>
+
+                    <h2 id="computing">Computing Services</h2>
+                    <ul>
+                        <li><a href="http://netid.rutgers.edu/" target="_blank">NetID Management and Service Activation</a></li>
+                        <li><a href="http://rbhs.rutgers.edu/istweb/" target="_blank">Rutgers Biomedical and Health Sciences Information Services and Technologies</a></li>
+                        <li><a href="http://nbcs.rutgers.edu/helpdesk" target="_blank">New Brunswick Computing Services</a></li>
+                    </ul>
+                    <h2 id="dining">Dining</h2>
+                    <ul>
+                        <li><a href="http://food.rutgers.edu" target="_blank">Rutgers&ndash;New Brunswick</a></li>
+                        <li><a href="http://www.newark.rutgers.edu/where-eat" target="_blank">Rutgers&ndash;Newark</a></li>
+                    </ul>
+                    <h2 id="ethics">Ethics</h2>
+                    <ul>
+                        <li><a href="http://ethics.umdnj.edu" target="_blank">Rutgers Biomedical and Health Sciences Ethics, Compliance &amp; Corporate Integrity</a></li>
+                    </ul>
+                    <h2 id="health">Health and Safety</h2>
+                    <ul>
+                        <li><a href="http://myrehs.rutgers.edu" target="_blank">Accident Reporting</a></li>
+                        <li><a href="http://emergencymanagement.rutgers.edu" target="_blank">Office of Emergency Management</a></li>
+                        <li><a href="http://rehs.rutgers.edu/umdnj_transition_toolkit.html" target="_blank">Rutgers Health Sciences Transition Toolkit for Environmental, Health, and Safety</a></li>
+                        <li><a href="http://rupd.rutgers.edu" target="_blank">Rutgers University Police Department</a></li>
+                    </ul>
+                    <h2 id="international">International Faculty and Staff</h2>
+                    <ul>
+                        <li><a href="http://rbhs.rutgers.edu/internationalservices/" target="_blank">Rutgers Biomedical and Health Sciences International Services</a></li>
+                    </ul>
+                    <h2 id="keyservices">Key Services</h2>
+                    <ul>
+                        <li><a href="http://academiclaborrelations.rutgers.edu" target="_blank">Academic Labor Relations</a><br />
+                            (For employees in faculty positions at Rutgers)</li>
+                        <li><a href="http://rbhs.rutgers.edu/acadweb/FACULTYAFFAIRS/Index.html" target="_blank">Faculty Affairs</a><br />
+                        (For employees in legacy UMDNJ faculty positions at Rutgers)</li>
+                        <li>Facilities</li>
+                            <ul>
+                                <li><a href="http://facilities.rutgers.edu" target="_blank">University Facilities and Capital Planning</a></li>
+                                <li><a href="http://andromeda.rutgers.edu/~ppnewark" target="_blank">Rutgers&ndash;Newark</a></li>
+                            </ul>
+                        <li><a href="http://rupd.rutgers.edu" target="_blank">Public Safety</a></li>
+                        <li><a href="http://ucm.rutgers.edu/trademark-licensing/overview" target="_blank">Trademark Licensing</a></li>
+                        <li><a href="http://uhr.rutgers.edu" target="_blank">University Human Resources</a></li>
+                        <li><a href="http://www.libraries.rutgers.edu" target="_blank">University Libraries</a></li>
+                        <li><a href="http://ucm.rutgers.edu" target="_blank">University Communications and Marketing</a></li>
+                        <li><a href="http://identity.rutgers.edu" target="_blank">Visual Identity</a></li>
+                    </ul>
+
+                    <h2 id="meetingplanning">Meeting Planning</h2>
+                    <ul>
+                        <li><a href="http://adreview.rutgers.edu" target="_blank">Advertising Review</a></li>
+                        <li><a href="http://ucm.rutgers.edu/events-outreach/overview" target="_blank">Event Promotion</a></li>
+                        <li>Facilities</li>
+                            <ul>
+                                <li><a href="http://rutgers.tv" target="_blank">iTV Studios</a></li>
+                                <li><a href="http://food.rutgers.edu/catering-and-special-events" target="_blank">Rutgers Dining: Catering and Special Events</a></li>
+                            </ul>
+                        <li><a href="http://urwebsrv.rutgers.edu/exhibitkit/" target="_blank">Rutgers Exhibit Kit</a></li>
+                        <li><a href="http://ruicc.rutgers.edu" target="_blank">Rutgers University Inn and Conference Center</a></li>
+                    </ul>
+
+                    <h2 id="parking">Parking and Transportation</h2>
+                    <h3>Buses and Shuttles</h3>
+                    <ul>
+                        <li><a href="http://parktran.rutgers.edu/campusbuses.shtml" target="_blank">Rutgers&ndash;New Brunswick</a></li>
+                        <li><a href="http://rbhs.rutgers.edu/transweb/schedule/index.htm" target="_blank">Rutgers Health Sciences at Newark Shuttle Bus Schedule</a></li>
+                        <li><a href="http://publicsafety.newark.rutgers.edu/intercampus-shuttle" target="_blank">Rutgers&ndash;Newark Intercampus Shuttle</a></li>
+                    </ul>
+                    <h3>Parking Permits</h3>
+                    <ul>
+                        <li><a href="http://rudots.rutgers.edu" target="_blank">Rutgers&ndash;New Brunswick and Health Sciences at Newark Parking</a></li>
+                        <li><a href="http://nwkparking.rutgers.edu" target="_blank">Rutgers&ndash;Newark Parking</a></li>
+                    </ul>
+                    <h2 id="policies">Policies</h2>
+                    <ul>
+                        <li><a href="http://academicaffairs.rutgers.edu/additional-resources/rbhs-policies" target="_blank">Rutgers Biomedical and Health Sciences Polices</a></li>
+                        <li><a href="http://policies.rutgers.edu" target="_blank">Universitywide Policies</a></li>
+
+                    </ul>
+
+                    <h2 id="development">Professional and Personal Development</h2>
+                    <ul>
+                        <li><a href="http://ctaar.rutgers.edu" target="_blank">Center for Teaching Advancement and Assessment Research</a></li>
+                        <li><a href="http://continuingstudies.rutgers.edu" target="_blank">Division of Continuing Studies</a></li>
+                        <li><a href="https://sc-apps.rutgers.edu/edseries" target="_blank">Rutgers Education Series Classes</a></li>
+                        <li><a href="http://uhrapps.rutgers.edu/profdev/calendar.asp" target="_blank">University Human Resources Workshop Calendar</a></li>
+                    </ul>
+
+                    <h2 id="recreation">Recreation</h2>
+                    <ul>
+                        <li><a href="http://www1.recreation.rutgers.edu/Default.asp" target="_blank">Rutgers&ndash;New Brunswick Recreation</a></li>
+                        <li><a href="http://rutgersnewarkathletics.com/sports/2007/12/13/rec.aspx" target="_blank">Rutgers&ndash;Newark Recreation and Intramurals</a></li>
+                    </ul>
+
+                    <h2 id="researchr">Research Resources</h2>
+                    <ul>
+                        <li><a href="http://rbhs.rutgers.edu/hsweb/" target="_blank">Human Subjects Protection Program and Institutional Review Boards (IRBs)</a></li>
+                    </ul>
+
+                    <h2 id="resources">Teaching Resources</h2>
+                    <ul>
+                        <li><a href="http://onlinelearning.rutgers.edu" target="_blank">Center for Online and Hybrid Learning and Instructional Technology</a></li>
+                        <li><a href="http://ctaar.rutgers.edu" target="_blank">Center for Teaching Advancement and Assessment Research</a></li>
+                        <li><a href="http://meg.rbhs.rutgers.edu" target="_blank">Master Educators&rsquo; Guild</a></li>
+                        <li><a href="http://moodle.rbhs.rutgers.edu" target="_blank">Moodle</a></li>
+                        <li><a href="http://oirt.rutgers.edu" target="_blank">Office of Instructional and Research Technology</a></li>
+                        <li><a href="https://sakai.rutgers.edu/portal" target="_blank">Sakai</a></li>
+                        <li><a href="http://scheduling.rutgers.edu" target="_blank">Scheduling and Space Management</a></li>
+                    </ul>
+
+                    <h2 id="travel">Travel</h2>
+                    <ul>
+                        <li><a href="http://policies.rutgers.edu/4041-currentpdf" target="_blank">Business Meals Policy</a> [PDF]</li>
+                        <li><a href="http://rumaps.rutgers.edu" target="_blank">Campus Maps</a></li>
+                        <li><a href="http://riskmanagement.rutgers.edu/" target="_blank">Risk Management and Insurance</a></li>
+                        <li><a href="http://rbhs.rutgers.edu/internationalservices/f_1/travel_instructions.shtml" target="_blank">Rutgers Biomedical and Health Sciences International Services</a></li>
+                        <li><a href="http://global.rutgers.edu/services/travel" target="_blank">Rutgers Centers for Global Advancement and International Affairs</a></li>
+                        <li><a href="http://ua.rutgers.edu/accounts-payable/non-purchase-order-invoice-processing" target="_blank">Travel and Business Expense Reports (TABERS)</a></li>
+                    </ul>
+
+
+        </div><!-- #end-of-main-content-area -->
+
+        <!-- Right Sidebar
+        ====================== -->
+       <div id="side_bar" class="four mobile-four columns">
+        <ul>
+
+            <li>
+            <h2>Working Together</h2>
+                <p>A faculty and staff guide to help you understand and navigate the newly integrated Rutgers.</p>
+                <ul>
+                    <li><a href="http://urwebsrv.rutgers.edu/ebook/facstaffguide/WorkingTogetherFullGuide.pdf">Download a PDF of the full guide</a></li>
+                    <li><a href="http://urwebsrv.rutgers.edu/ebook/facstaffguide/">View an ebook of the full guide</a></li>
+                    <li><a href="http://urwebsrv.rutgers.edu/ebook/facstaffguide/WorkingTogetherReference.pdf">Download a PDF of the Quick Reference Guide</a></li>
+                </ul>
+            </li>
+
+            <li>
+            <h2>myUMDNJ Legacy Users</h2>
+                <p>If you are a faculty or staff member in a legacy UMDNJ position at Rutgers, you should note that myUMDNJ has been renamed <a href="https://myportal.rutgers.edu" target="_blank">myPortal</a>. You will now use myPortal to access your employee data and other services that you formerly viewed through myUMDNJ.</p>
+
+            </li>
+
+
+
+            <li>
+            <h2>International Services at Rutgers Biomedical and Health Sciences</h2>
+                <p>Serving the specialized needs of international students, faculty, staff, and their dependents, the Office of International Services is a valuable resource. Whether you are applying for or have an F-1, J-1, H-1B, or O-1 visa, have questions on your immigration status, or want more information on life in the United States, they can help. <a href="http://rbhs.rutgers.edu/internationalservices/" target="_blank">Learn more</a>.</p>
+
+            </li>
+
+            <li>
+            <h2>Get the Scoop</h2>
+                <p>The Faculty and Staff Bulletin is a great source of information on the latest happenings at Rutgers:</p>
+                <ul>
+                    <li>Announcements</li>
+                    <li>Appointments &amp; Retirements</li>
+                    <li>Awards &amp; Honors</li>
+                    <li>Campus Classifieds</li>
+                    <li>Gifts &amp; Grants</li>
+                    <li style="padding-bottom:0;">In Memorium</li>
+                </ul>
+                <p>Be sure to share your news with the Rutgers community using online <a href="http://bulletin.rutgers.edu/about-bulletin/guidelines" target="_blank">submission forms</a>. In addition to a weekly enewsletter, the bulletin provides a <a href="http://bulletin.rutgers.edu/" target="_blank">website</a> with the current news, submission guidelines, and an archive of previous issues.</p>
+
+
+            </li>
+
+            <li>
+            <h2>Got a Question?</h2>
+                <p>If you have a question, connect with <a href="http://ucm.rutgers.edu/about/ru-info" target="_blank">RU-info</a>. Staffed by Information Assistants, highly trained, service-oriented students, the referral center helps you find the answers you need about all things Rutgers. Call 732-445-INFO (4636).</p>
+
+            </li>
+        </ul>
+        </div><!-- #end-of-right-sidebar -->
+        </div>
+
+    </div>
+
+    <!-- Includes Left Side Navigation -->
+    <!--#include virtual="includes/side_nav-information.html" -->
+     <!-- Second Section -->
+  <div class="panel padding">
+    <h2>Related</h2>
+    <div class="row">
+        <div class="twelve columns item-list">
+        <ul>
+            <li><a href="http://academiclaborrelations.rutgers.edu" target="_blank">Academic Labor Relations</a></li>
+            <li><a href="http://rbhs.rutgers.edu/acadweb/FACULTYAFFAIRS/Index.html" target="_blank">Faculty Affairs</a></li>
+            <li><a href="http://www.rutgers.edu/information/information-faculty-staff" target="_blank">Universitywide Information for Faculty and Staff</a></li>
+            <li><a href="http://nb.rutgers.edu/information/information-faculty-staff" target="_blank">New Brunswick Campus Faculty and Staff</a></li>
+            <li><a href="http://www.newark.rutgers.edu/about-us/have-you-met-rutgers-newark/faculty" target="_blank">Newark Campus Faculty and Staff</a></li>
+			<li><a href="http://integration.rutgers.edu" target="_blank">Medical &amp; Health Sciences Restructuring</a></li>
+            <li><a href="http://my.rutgers.edu" target="_blank">myRutgers</a></li>
+            <li><a href="http://myportal.rutgers.edu" target="_blank">myPortal</a></li>
+
+        </ul>
+        </div>
+    </div>
+	</div>
+    </div>
+</div>
+
+    </div><!-- #end-of-all-content -->
+
+    <!-- Includes Footer -->
+    <!--#include virtual="includes/footer.html" -->
+
+    </div>
+</body>
+</html>

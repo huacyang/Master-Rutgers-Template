@@ -1,0 +1,167 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- Set the viewport width to device width for mobile -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="HandheldFriendly" content="true" />
+<meta name="description" content="Find essential information on how to apply to Rutgers Biomedical and Health Sciences schools and programs. ">
+<meta name="keywords" content="rbhs students, information for rbhs students, rbhs admissions hubs, rbhs degrees and certificates, rbhs schools and locations, rbhs schools, rbhs graduate medical education, rbhs medical education">
+
+<title>Prospective Students | Health - Rutgers Biomedical and Health Sciences</title>
+
+<!-- Included CSS Files -->
+<link type="text/css" rel="stylesheet" href="includes/css/templates.css" />
+<link type="text/css" rel="stylesheet" href="includes/css/class.css" />
+<link type="text/css" rel="stylesheet" href="includes/css/override.css" />
+<!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+<!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="images/favicon-sun.ico" />
+
+    <!-- Custom Tablet -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="includes/css/tablet.css" />
+   	<!-- Custom Mobile -->
+    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="includes/css/mobile.css" />
+
+<!-- Included JavaScript Files -->
+<script type="text/javascript" src="includes/js/modernizr.js"></script>
+<script type="text/javascript" src="includes/js/jquery.js"></script>
+<script type="text/javascript" src="includes/js/jquery-json.js"></script>
+<script type="text/javascript" src="includes/js/templates.js"></script>
+<!--[if !IE]><!--><script type="text/javascript" src="includes/js/NOTie8.js"></script><!--<![endif]-->
+<!--[if IE]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+<script type="text/javascript" src="includes/js/rbhs.js"></script>
+</head>
+<body>
+<div class="row" id="headrow">
+	<div class="twelve columns" >
+		<!-- Includes Header -->
+		<!--#include virtual="includes/header.html" -->
+		<!-- Includes Navigation -->
+		<!--#include virtual="includes/nav.html" -->
+	</div>
+</div>
+<div class="row" id="contentrow">
+	<div id="shifting" class="twelve columns bg-white">
+		<div id="submain" class="nine push-three mobile-four columns">
+			<!-- Top Banner Area
+        ====================== -->
+			<div class="row">
+				<div class="twelve columns"><br />
+					<img src="images/info_for_274_047_899_bnr.jpg" alt="Three students in various classroom settings" title="Three students in various classroom settings" /> </div>
+			</div>
+			<br />
+			<div class="row">
+				<div id="context-large" class="twelve mobile-four columns">
+					<h1 id="page-title">Prospective Students</h1>
+					<p>Find essential information on how to apply to Rutgers Biomedical and Health Sciences (RBHS) schools and programs. </p>
+					<h2>General Admissions Hubs</h2>
+					<p>These centralized hubs are a good place to start learning about admissions at Rutgers.</p>
+					<ul>
+						<li><a href="http://www.rutgers.edu/admissions/choosing-rutgers" target="_blank">Admissions overview portal</a></li>
+						<li><a href="http://gradstudy.rutgers.edu" target="_blank">Graduate and Professional Admissions</a></li>
+						<li><a href="http://admissions.rutgers.edu" target="_blank">Undergraduate Admissions</a></li>
+					</ul>
+					<h2>School-Specific Admissions Information</h2>
+					<p>Applications for most RBHS schools are handled directly by the schools, with some exceptions.</p>
+					<h3>Certificates, Undergraduate, Graduate Admissions</h3>
+					<ul>
+						<li><a href="http://nursing.rutgers.edu/academics/admission-requirements" target="_blank">College of Nursing</a></li>
+						<li><a href="http://pharmacy.rutgers.edu/content/prospective_students" target="_blank">Ernest Mario School of Pharmacy</a></li>
+						<li><a href="http://njms.rutgers.edu/gsbs/prospective_students/application_materials.htm" target="_blank">Graduate School of Biomedical Sciences (New Jersey Medical School)</a></li>
+						<li><a href="http://rwjms.rutgers.edu/education/gsbs/admissions/index.html" target="_blank">Graduate School of Biomedical Sciences (Robert Wood Johnson Medical School)</a></li>
+						<li><a href="http://njms.rutgers.edu/admissions/prospective/index.cfm" target="_blank">New Jersey Medical School</a></li>
+						<li><a href="http://rwjms.rutgers.edu/education/admissions/index.html" target="_blank">Robert Wood Johnson Medical School</a></li>
+						<li><a href="http://sdm.rutgers.edu/admissions/index.html" target="_blank">Rutgers School of Dental Medicine</a></li>
+						<li><a href="http://shrp.rutgers.edu/prospective_students/admissions/index.html" target="_blank">School of Health Related Professions</a></li>
+						<li><a href="http://sn.rutgers.edu/prospective/admissions.htm" target="_blank">School of Nursing</a></li>
+						<li><a href="http://sph.rutgers.edu/admissions/" target="_blank">School of Public Health</a></li>
+					</ul>
+					<h3>Graduate Medical Education</h3>
+					<ul>
+						<li><a href="http://njms.rutgers.edu/admissions/index.cfm" target="_blank">New Jersey Medical School</a></li>
+						<li><a href="http://rwjms.umdnj.edu/education/admissions/selection_process.html" target="_blank">Robert Wood Johnson Medical School</a></li>
+						<li><a href="http://sdm.rutgers.edu/admissions/application-procedure.htm" target="_blank">Rutgers School of Dental Medicine</a></li>
+					</ul>
+					<h2>RBHS Schools and Their Locations</h2>
+					<p>RBHS schools and their <a href="locations.shtml">locations</a>.</p>
+					<ul>
+						<li><a href="http://nursing.rutgers.edu" target="_blank">College of Nursing</a>: New Brunswick, Newark </li>
+						<li><a href="http://pharmacy.rutgers.edu" target="_blank">Ernest Mario School of Pharmacy</a>: Piscataway</li>
+						<li><a href="http://gsbs.rutgers.edu" target="_blank">Graduate School of Biomedical Sciences</a>: Piscataway, New Brunswick, Health Sciences at Newark</li>
+						<li><a href="http://njms.rutgers.edu" target="_blank">New Jersey Medical School</a>: Health Sciences at Newark</li>
+						<li><a href="http://rwjms.rutgers.edu" target="_blank">Robert Wood Johnson Medical School</a>: Piscataway, New Brunswick</li>
+						<li><a href="http://sdm.rutgers.edu" target="_blank">Rutgers School of Dental Medicine</a> Health Sciences at Newark, Stratford</li>
+						<li><a href="http://shrp.rutgers.edu" target="_blank">School of Health Related Professions</a>: Piscataway, Health Sciences at Newark, Scotch Plains, Stratford</li>
+						<li><a href="http://sn.rutgers.edu" target="_blank">School of Nursing</a>: Health Sciences at Newark, Stratford</li>
+						<li><a href="http://sph.rutgers.edu" target="_blank">School of Public Health</a>: Piscataway, Health Sciences at Newark, Stratford </li>
+					</ul>
+					<h2>Continuing Education</h2>
+					<p>Continuing education registration is though individual schools and, in some cases, through central portals.</p>
+					<ul>
+						<li><a href="http://ccoe.rbhs.rutgers.edu" target="_blank">Center for Continuing and Outreach Education</a></li>
+						<li><a href="http://lifelonglearning.rutgers.edu/" target="_blank">Division of Continuing Education</a></li>
+						<li><a href="http://nursing.rutgers.edu/professional-development" target="_blank">College of Nursing</a></li>
+						<li><a href="http://pharmacy.rutgers.edu/content/office_continuing_education" target="_blank">Ernest Mario School of Pharmacy</a></li>
+            <li><a href="http://rwjms.rutgers.edu/education/ccoe/index.html" target="_blank">Robert Wood Johnson Medical School</a></li>
+						<li><a href="http://sdm.rutgers.edu/CDE/" target="_blank">Rutgers School of Dental Medicine</a></li>
+						<li><a href="http://shrp.rutgers.edu/conted/index.html" target="_blank">School of Health Related Professions</a></li>
+						<li><a href="http://sn.rutgers.edu/cont_ed/index.html" target="_blank">School of Nursing</a></li>
+						<li><a href="http://ophp.umdnj.edu/" target="_blank">School of Public Health</a></li>
+					</ul>
+					<h2>Degrees and Certificates</h2>
+					<ul>
+						<li>M.D., D.M.D., Ph.D., D.C.N., D.N.P., D.C.L.S., D.P.T., Dr.P.H., postdoctoral certificates</li>
+						<li>M.S., M.B.S., M.S.N., M.P.H., master&rsquo;s, postmaster&rsquo;s certificates</li>
+						<li>B.S., B.S.N., postbaccalaureate certificates</li>
+						<li>A.S., A.A.S., and undergraduate certificates</li>
+					</ul>
+				</div>
+				<!-- #end-of-main-content-area -->
+
+				<!-- Right Sidebar
+        ====================== -->
+				<!--  <div id="side_bar" class="four mobile-four columns">
+        <ul>
+            // Panel One
+            <li>
+            <h2>TO BE DELETED</h2>
+                <p>TO BE DELETED</p>
+
+            </li>
+        </ul>
+        </div>--><!-- #end-of-right-sidebar -->
+			</div>
+		</div>
+
+		<!-- Includes Left Side Navigation -->
+		<!--#include virtual="includes/side_nav-information.html" -->
+				<!-- Second Section -->
+				<div class="panel padding">
+					<h2>Related</h2>
+					<div class="row">
+						<div class="twelve columns item-list">
+							<ul>
+								<li><a href="http://www.rutgers.edu/information/information-prospective-students" target="_blank">Universitywide Information for Prospective Students</a></li>
+								<li><a href="http://www.rutgers.edu/admissions/choosing-rutgers" target="_blank">Universitywide Admissions</a></li>
+								<li><a href="http://internationalservices.rutgers.edu" target="_blank">Center for Global Services</a></li>
+								<li><a href="http://rbhs.rutgers.edu/internationalservices/" target="_blank">Rutgers Biomedical and Health Sciences International Services</a></li>
+								<li><a href="http://studentaid.rutgers.edu" target="_blank">Financial Aid</a></li>
+								<li><a href="http://veterans.rutgers.edu" target="_blank">Veteran and Military Programs and Services</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- #end-of-all-content -->
+
+	<!-- Includes Footer -->
+	<!--#include virtual="includes/footer.html" -->
+
+</div>
+</body>
+</html>
