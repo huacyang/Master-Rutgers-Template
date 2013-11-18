@@ -380,23 +380,43 @@ ul.flyout li a,.nav-bar li ul li a {
 	margin-left: 70px;
 }
 
-#carouselnav {
-	float: right;
-	margin-right: -10px;
-}
-
-#carouselnav a {
-	margin-right: 5px;
-	width: 65px;
-	height: 29px;
-}
-
-#carouselnav.span3 {
-	width: 250px;
-}
-
 #home a:hover {
 	color: #f4d96d;
+}
+
+#home-banner-area {
+	height: 260px;
+	position: relative;
+	margin-left: -15px;
+	margin-right: -15px;
+	background-color: #675C58;
+}
+
+#home-banner-area div img {
+	padding-top: 17px;
+	padding-left: 2px;
+}
+
+#home-banner-area div.text-area {
+	top: 50%;
+	height: 10em;
+	margin-top: -4em;
+	margin-left: 475px;
+	position: absolute;
+}
+
+#home-banner-area h1 {
+	color:#F4D970;
+	font-family:Times, 'Times New Roman', serif;
+	font-size:26px;
+	font-weight:normal;
+	line-height:29px;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+
+#home-banner-area p {
+	color: #ffffff;	
 }
 
 #home-rite_sidebar .panel {
@@ -728,8 +748,6 @@ ul li.has-dropdown ul.dropdown li {
 	background-color: transparent;
 	border-width: 5px;
 	border-color: #FFF transparent transparent;
-/*margin-top:-10px;
-	height:15px;*/
 }
 
 .top-bar ul li.has-dropdown .dropdown li a {
@@ -901,7 +919,7 @@ img.inline-right {
 }
 
 div.alertmsglist{
-		margin-top:5px;
+	margin-top:5px;
 }
 
 div.alertmsglist li{
@@ -919,84 +937,83 @@ div.alertmsglist a{
 /* Search / Locations CSS */
 
 #zone-user-wrapper {
-border-bottom: none;
-padding: 4px 0;
-background: url(/images/header_bg.gif) no-repeat scroll 0 0 transparent;
-height: 32px;
+	border-bottom: none;
+	padding: 4px 0;
+	background: url(/images/header_bg.gif) no-repeat scroll 0 0 transparent;
+	height: 32px;
 }
 
 #zone-user #block-menu-menu-sliver {
-margin-top: 3px;
+	margin-top: 3px;
 }
 
 #zone-user ul.menu li {
-width: 50%;
-display: inline;
-position: relative;
-float: left;
-text-align: center;
-margin: 0;
-padding: 0;
-border-bottom: 1px solid white;
-box-sizing: border-box;
+	width: 50%;
+	display: inline;
+	position: relative;
+	float: left;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	border-bottom: 1px solid white;
+	box-sizing: border-box;
 }
 
 #zone-user ul.menu li {
-border-bottom: none;
-border-right: 1px solid #36312a;
-display: inline;
-float: left;
-margin: 0;
-padding: 0 4px;
-text-align: left;
-width: auto;
+	border-bottom: none;
+	border-right: 1px solid #36312a;
+	display: inline;
+	float: left;
+	margin: 0;
+	padding: 0 4px;
+	text-align: left;
+	width: auto;
 }
 
 textarea, select, input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"] {
-
--moz-border-radius: 0;
--webkit-border-radius: 0;
-border-radius: 0;
--webkit-box-sizing: border-box;
--moz-box-sizing: border-box;
-box-sizing: border-box;
--moz-background-clip: padding;
--webkit-background-clip: padding;
-background-clip: padding-box;
-background-color: #fff;
-border: 1px solid;
-border-color: #848484 #c1c1c1 #e1e1e1;
-color: #000;
-outline: 0;
-padding: 0px 3px;
-font-size: 13px;
-font-family: Arial,sans-serif;
-height: 1.8em;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding;
+	background-clip: padding-box;
+	background-color: #fff;
+	border: 1px solid;
+	border-color: #848484 #c1c1c1 #e1e1e1;
+	color: #000;
+	outline: 0;
+	padding: 0px 3px;
+	font-size: 13px;
+	font-family: Arial,sans-serif;
+	height: 1.8em;
 }
 
 #rusearchbox {
-width: 150px;
+	width: 150px;
 }
 
 #rusearch {
-height: 18px;
+	height: 18px;
 }
 
 select {
-background-image: url(/images/select-arrow.gif);
-background-repeat: no-repeat;
-background-position: right center;
-margin-right: 0;
-padding-right: 0;
+	background-image: url(/images/select-arrow.gif);
+	background-repeat: no-repeat;
+	background-position: right center;
+	margin-right: 0;
+	padding-right: 0;
 }
 
 #rusearchbutton {
-background: url(/images/magnifying-glass.png) no-repeat center;
-border: none;
-height: 18px;
-padding: 0;
-text-indent: -9999px;
-width: 22px;
+	background: url(/images/magnifying-glass.png) no-repeat center;
+	border: none;
+	height: 18px;
+	padding: 0;
+	text-indent: -9999px;
+	width: 22px;
 }
 
 #region-user-second input, #region-user-second select {
@@ -1005,28 +1022,26 @@ width: 22px;
 }
 
 #rusearchbox, #rusearchselect {
-font-size: 10px;
+	font-size: 10px;
 }
 
 input, button, select, textarea {
-margin: 0;
-vertical-align: middle;
+	margin: 0;
+	vertical-align: middle;
 }
 
-
-
 #rusearchselect, #rusearchselect option {
-background-color: #E5BF78;
-width: 75px;
-line-height: 1.2em;
--webkit-appearance: none;
+	background-color: #E5BF78;
+	width: 75px;
+	line-height: 1.2em;
+	-webkit-appearance: none;
 }
 
 #zone-user ul.menu a {
-border: none;
-padding: 4px;
-color: #36312a;
-font-size: 12px;
+	border: none;
+	padding: 4px;
+	color: #36312a;
+	font-size: 12px;
 }
 
 #zone-user ul.menu a:hover {
@@ -1076,38 +1091,12 @@ box-shadow: #06f 0 0 7px;
 z-index: 1;
 }
 
-#carouselnav a {
-	cursor: pointer;
-}
-
 #region-user-first ul.menu {
 	margin-bottom: 0;
 }
 
 #zone-user-wrapper {
 background: url(http://rbhs.rutgers.edu/images/header_bg.gif) no-repeat scroll 0 0 transparent;
-}
-
-.carousel-inner h4 {
-	margin: 8px 0;
-	margin-bottom: 14px;
-}
-
-.carousel-inner a, .carousel-inner a:visited  {
-color: #333;
-}
-
-.carousel-inner a:hover, .carousel-inner a:active {
-	color: #f9cc33;
-	text-decoration: underline;
-}
-
-.carousel-inner p {
-line-height: 1.5em;
-}
-
-#carouselnav {
-	margin-top: 12px;
 }
 
 .publication {

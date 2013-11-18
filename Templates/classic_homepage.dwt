@@ -13,7 +13,6 @@
 <title>Home | Rutgers Biomedical and Health Sciences</title>
 <!-- TemplateEndEditable -->
 <!-- Included CSS Files -->
-<link type="text/css" rel="stylesheet" href="../includes/css/bootstrap.css" />
 <link type="text/css" rel="stylesheet" href="../includes/css/templates.css" />
 <link type="text/css" rel="stylesheet" href="../includes/css/class.css" />
 <link type="text/css" rel="stylesheet" href="../includes/css/override.css" />
@@ -35,7 +34,6 @@
 <script type="text/javascript" src="../includes/js/jquery.js"></script>
 <script type="text/javascript" src="../includes/js/jquery-json.js"></script>
 <script type="text/javascript" src="../includes/js/templates.js"></script>
-<script type="text/javascript" src="../includes/js/bootstrap.js"></script>
 <!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
 <!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
 <script type="text/javascript" src="../includes/js/home.js"></script>
@@ -57,18 +55,14 @@
     ====================== -->
 <div class="row" id="contentrowhome">
 	<div class="twelve columns">
-		<div id="slideshow_area" class="shiftup hide-for-small">
-			<!-- Image Slider -->
-			<div id="carousel_img" class="carousel slide span9">
-				<div id="image" class="carousel-inner"></div>
-			</div>
-			<!-- Content Slider -->
-			<div id="content_area" class="span3">
-				<div id="content_inner" class="carousel slide span3">
-					<div id="content" class="carousel-inner"></div>
-				</div>
-				<div id="carouselnav" class="carousel-nav span3"></div>
-			</div>
+		<div id="home-banner-area" class="shiftup hide-for-small">
+        	<div class="six columns">
+        		<img src="http://placehold.it/443x225&text=Image%20[443x225]" />
+           </div>
+           <div class="six columns text-area">
+           	<h1>The Classic Layout</h1>
+            	<p>This flexible, simple layout adds a homepage top feature and homepage top image elements to the layout. It allows for more than one section of text.</p>
+           </div>
 		</div>
 		<!-- Mobile Slider -->
 		<div class="row">
@@ -81,16 +75,15 @@
 
 <div class="row" style="position:static;">
 	<div class="twelve columns shiftup_ex bg-white" id="mainhold">
-
-		<!-- ########################## -->
+    
+        <!-- ########################## -->
         <!-- TO SHOW CAMPUS STATUS REMOVE -->
         <!-- style="display:none;" on line below -->
-
-		<div class="alertmsgbox" style="display:none;">
-        	<!-- START ALERT MESSAGE HEADER -->
-        	
+		 <div class="alertmsgbox" style="display:none;">
+            <!-- #start-alert-message-header -->
             <div class="alertmsgheader">Campus Status Update</div>
-            <!-- END ALERT MESSAGE HEADER -->
+            <!-- #end-alert-message-header -->
+            
             <p><!--#include virtual="../emergencyindex.txt" --></p>
             <!-- START LINKS TO CAMPUSES -->
             <!-- <div class="item-list alertmsglist">
@@ -106,48 +99,24 @@
         <!-- ########################## -->
         <!-- END EMERGENCY INFO BOX -->
 
-		<!-- Main Content
+		 <!-- Main Content
         ====================== -->
 		<div id="main" class="six push-three columns"><br />
-			<h1 class="title">Leading the Way in Academic Health Care:<br />
-				Rutgers Biomedical and Health Sciences</h1>
-			<p>With the establishment of Rutgers Biomedical and Health Sciences, Rutgers&mdash;already a leading national research university&mdash;now stands as one of America&rsquo;s largest, most comprehensive university-based centers for studying and improving human health and health care.</p>
-			<p>As we advance medical innovation, provide direct patient care informed by the latest research findings, and educate a full complement of health care professionals, Rutgers is equipped as never before to transform lives.</p>
-			<p>For Rutgers and the region, the advantages of having a highly regarded health care division attached to The State University of New Jersey are considerable as we</p>
-			<ul>
-				<li>draw more top-flight faculty and students;</li>
-				<li>deepen our research collaborations;</li>
-				<li>optimize the coordination of health care for residents;</li>
-				<li>accelerate economic growth; and</li>
-				<li>attract even greater public and private support.</li>
-			</ul>
-			<p>It&rsquo;s a brilliant new era for medical education, research, and practice in New Jersey.</p>
-			<h2>Schools and Units</h2>
-			<p>Rutgers Biomedical and Health Sciences, headed by a chancellor reporting directly to Rutgers&rsquo; president, is the umbrella organization for the following schools and units:</p>
-			<ul>
-				<li><a href="http://cinj.org" target="_blank">Cancer Institute of New Jersey</a>
-				<li><a href="http://www3.cabm.rutgers.edu/" target="_blank">Center for Advanced Biotechnology and Medicine</a>
+			<h1 class="title">Main Homepage Text</h1>
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 
-				<li><a href="http://eohsi.rutgers.edu/" target="_blank">Environmental and Occupational Health Sciences Institute</a>
-				<li><a href="http://pharmacy.rutgers.edu/" target="_blank">Ernest Mario School of Pharmacy</a>
-				<li><a href="http://gsbs.rutgers.edu/" target="_blank">Graduate School of Biomedical Sciences</a>
-				<li><a href="http://www.ihhcpar.rutgers.edu/" target="_blank">Institute for Health, Health Care Policy and Aging Research</a>
-                <li>Medical Schools
-                  <ul>
-                	<li><a href="http://njms.rutgers.edu/" target="_blank">New Jersey Medical School</a></li>
-                    <li><a href="http://rwjms.rutgers.edu/" target="_blank">Robert Wood Johnson Medical School</a></li>
-                </ul>
-				<li>Nursing Schools
-                <ul>
-					<li><a href="http://nursing.rutgers.edu/" target="_blank">College of Nursing</a></li>
-                    <li><a href="http://sn.rutgers.edu/" target="_blank">School of Nursing</a>
-                </ul>
-				<li><a href="http://sdm.rutgers.edu/" target="_blank">Rutgers School of Dental Medicine</a>
-				<li><a href="http://shrp.rutgers.edu/" target="_blank">School of Health Related Professions</a>
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
 
-				<li><a href="http://sph.rutgers.edu/" target="_blank">School of Public Health</a>
-				<li><a href="http://ubhc.rutgers.edu/" target="_blank">University Behavioral Health Care</a>
-			</ul>
+			<p>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</p>
+            
+			<ul>
+				<li>Donec quam felis,</li>
+				<li>ultricies nec, pellentesque eu,</li>
+				<li>pretium quis, sem.</li>
+           </ul>
+           
+           <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <a href="#" target="_blank">Read more</a>.</p>
+           
 		</div>
 		<!-- #end-of-main-content-area -->
 
@@ -155,76 +124,36 @@
         ====================== -->
 		<div class="three push-three columns" id="rightsidebar">
 			<div id="home-rite_sidebar" class="row"><br />
-				<!-- Panel One -->
-				
+            
 				<div class="panel padding">
 					<div class="row">
 						<div class="twelve columns">
-							<h2 class="title">Common Fungal Foot Cream Shows Promise Against HIV</h2>
+							<h2 class="title">Additional Feature</h2>
 						</div>
 						<div class="twelve padding">
-							<p><a href="http://www.scientificamerican.com/article.cfm?id=foot-cream-kills-hiv-by-tricking-ce-2013-09" target="_blank"><em>Scientific American</em></a> reports that "in a study performed at Rutgers New Jersey Medical School, not only does the drug Ciclopirox completely eradicate infectious HIV from cell cultures, but unlike today's most cutting-edge antiviral treatments, the virus doesn't bounce back when the drug is withheld. This means it may not require a lifetime of use to keep HIV at bay."</p>
+							<img src="http://placehold.it/234x146&text=Image%20[234x146]" alt="Brian L. Strom, Chancellor">
+							<p>This short blurb of text serves as a great place to highlight information. For interest, you can add photos, video, or audio to this space. You can have more than one sidebar.</p>
 						</div>
 					</div>
 				</div>
-
-				<div class="panel padding">
-					<div class="row">
-						<div class="twelve columns">
-							<h2 class="title">Inaugural Chancellor Appointed</h2>
-						</div>
-						<div class="twelve padding">
-							<img src="http://news.rutgers.edu/sites/medrel/files/inline-img/Brian%20Strom2.jpg" alt="Brian L. Strom, Chancellor" style="max-width: 165px;margin-left: 20px;">
-							<p>Brian L. Strom is the inaugural chancellor of Rutgers Biomedical and Health Sciences effective November 1, 2013. Strom is an internationally recognized scholar, an award-winning educator, and an eminent clinical epidemiologist. <!--<a href="http://news.rutgers.edu/news-release/brian-l-strom-become-inaugural-chancellor-rutgers-biomedical-and-health-sciences-dec-2/20130718#.UelFU469V7N">Learn more</a>.--></p>
-						</div>
-					</div>
-				</div>
-
-				<!--<div class="panel padding">
-		            <div class="row">
-		                <div class="twelve columns">
-		                    <h2 class="title">Interim Chancellor Molloy</h2>
-		                </div>
-		                <div class="twelve padding">
-		                    <img src="images/CMalloy_208x140.jpg" alt="Christopher J. Molloy, Interim Chancellor" style="max-width:208px;">
-		                    <p>Christopher J. Molloy, interim chancellor of Rutgers Biomedical and Health Sciences. Molloy had been serving as Rutgers' interim provost for biomedical and health sciences and as lead administrator for the Integration Management Office. <a href="http://news.rutgers.edu/news-release/christopher-molloy-serve-interim-chancellor-rutgers-biomedical-and-health-sciences#.UdB2VY5dLJy" target="_blank">Learn more.</a></p>
-		                </div>
-		            </div>
-            	</div>-->
-				<div class="panel padding">
-					<div class="row">
-						<div class="twelve columns">
-							<h2 class="title">Patient Care</h2>
-							<p>Our university-based practice groups and centers unite health care professionals in providing services in nearly every specialty and subspecialty of medicine, dentistry, nursing, mental and behavioral health, and physical and rehabilitation science. At Rutgers, our goal is to help you achieve your optimal level of health and wellness. <a href="http://rbhs.rutgers.edu/care.shtml" target="_blank">Learn more</a>.</p>
-						</div>
-					</div>
-				</div>
-
-
-
+                
 			</div>
 		</div>
 		<!-- #end-of-right-sidebar -->
 
-		<!-- Includes Left Sidebar -->
+		<!-- Left Sidebar
+        ====================== -->
 		<div id="side_bar-home" class="three pull-nine mobile-four columns padding">
 			<div class="row">
 				<!-- First Section -->
 				<div class="ten columns end padding">
 					<h2 class="title">Quick Links</h2>
 					<ul class="bullets-green">
-                    	<li><a href="http://myportal.rutgers.edu" target="_blank">myPortal</a></li>
-						<li><a href="../admissions.shtml">Admissions</a></li>
-						<!-- <li><a href="http://cinj.org" target="_blank">Cancer Institute of New Jersey</a></li> -->
-						<li><a href="../trials.shtml">Clinical Trials</a></li>
-						<!-- <li><a href="http://ethics.rbhs.rutgers.edu/">Ethics and Compliance</a></li> -->
-						<li><a href="../referral.shtml">Find a Physician</a></li>
-						<li><a href="http://libraries.rutgers.edu/health">Health Sciences Libraries</a></li>
-						<li><a href="http://www.rutgers.edu/health-sciences/overview" target="_blank">Health Sciences Universitywide</a></li>
-						<!-- <li><a href="schools.shtml">Schools and Colleges</a></li> -->
-						<!-- <li><a href="http://ubhc.rutgers.edu" target="_blank">University Behavioral Health Care</a></li> -->
-						<li><a href="http://academicaffairs.rutgers.edu/additional-resources/rbhs-policies" target="_blank">Rutgers Biomedical and Health Sciences Policies</a></li>
-						<li><a href="http://support.rutgers.edu/RBHS" target="_blank">Giving to Rutgers Biomedical and Health Sciences</a></li>
+                    	<li><a href="#" target="_blank">First Link</a></li>
+                    	<li><a href="#" target="_blank">Second Link</a></li>
+                    	<li><a href="#" target="_blank">Third Link</a></li>
+                    	<li><a href="#" target="_blank">Fourth Link</a></li>
+                    	<li><a href="#" target="_blank">Fifth Link</a></li>
 					</ul>
 				</div>
 				<!-- Second Section -->
