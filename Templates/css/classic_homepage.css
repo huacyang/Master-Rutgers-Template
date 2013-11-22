@@ -1,0 +1,42 @@
+/* For Template Design View */
+
+/* ===========
+ * Banner Area
+ * =========== */
+#masthead {
+	margin: 0px 0px 0px 0px !important;
+	width: 980px !important;
+	height: 85px !important;
+}
+
+#header {
+	width: 980px !important;
+}
+
+#forms {
+	width: 270px !important;
+}
+
+/* ===========
+ * Header Area
+ * =========== */
+#contentrowhome {
+	
+}
+
+/* =================
+ * Left Sidebar Area
+ * ================= */
+ 
+ 
+/* ==================
+ * Right Sidebar Area
+ * ================== */
+#home-rite_sidebar img {
+	width: 208px !important;
+	height: 146px !important;
+}
+
+/* =================
+ * Main Content Area
+ * ================= */

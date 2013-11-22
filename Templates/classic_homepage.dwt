@@ -16,6 +16,8 @@
 <link type="text/css" rel="stylesheet" href="../includes/css/templates.css" />
 <link type="text/css" rel="stylesheet" href="../includes/css/class.css" />
 <link type="text/css" rel="stylesheet" href="../includes/css/override.css" />
+<link type="text/css" rel="stylesheet" href="css/classic_homepage.css" />
+
 <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
 <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
 
@@ -57,7 +59,7 @@
 	<div class="twelve columns">
 		<div id="home-banner-area" class="shiftup hide-for-small">
         	<div class="six columns">
-        		<img src="http://placehold.it/443x225&text=Image%20[443x225]" />
+        		<img src="../includes/img/443x225.jpg" />
            </div>
            <div class="six columns text-area">
            	<h1>The Classic Layout</h1>
@@ -131,7 +133,7 @@
 							<h2 class="title">Additional Feature</h2>
 						</div>
 						<div class="twelve padding">
-							<img src="http://placehold.it/234x146&text=Image%20[234x146]" alt="Brian L. Strom, Chancellor">
+							<img src="../includes/img/234x146.jpg" alt="Brian L. Strom, Chancellor">
 							<p>This short blurb of text serves as a great place to highlight information. For interest, you can add photos, video, or audio to this space. You can have more than one sidebar.</p>
 						</div>
 					</div>
