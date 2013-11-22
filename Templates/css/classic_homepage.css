@@ -4,39 +4,86 @@
  * Banner Area
  * =========== */
 #masthead {
-	margin: 0px 0px 0px 0px !important;
-	width: 980px !important;
+	margin: 0 0 0 0 !important;
+	width: 990px;
 	height: 85px !important;
 }
 
 #header {
-	width: 980px !important;
+	width: 1040px !important;
 }
 
 #forms {
-	width: 270px !important;
+	width: 270px;
+	margin-top: -40px;
+}
+
+#nav-wrapper {
+	margin-top: -41px;	
+	height: 30px;
+	width: 1012px;
 }
 
 /* ===========
  * Header Area
  * =========== */
 #contentrowhome {
-	
+	/*
+	margin-top:30px;
+	*/
+}
+
+#home-banner-area img {
+	width: 443px !important;
+	height: 225 !important;	
+	margin-top: 0px;
+}
+
+#home-banner-area .text-area {
+	margin-left: -70px !important;
+	margin-top: -65px !important;
 }
 
 /* =================
  * Left Sidebar Area
  * ================= */
- 
+#side_bar-home {
+	width: 150px;
+	margin-top: -3px;
+	margin-left: 0px;
+}
  
 /* ==================
  * Right Sidebar Area
  * ================== */
+#rightsidebar {
+	width: 210px;
+	margin-left: 20px;
+}
+
+#home-rite_sidebar .panel {
+	width:210px;	
+}
+
 #home-rite_sidebar img {
-	width: 208px !important;
-	height: 146px !important;
+	width: 214px !important;
+	height: 146px;
+}
+
+#home-rite_sidebar p {
+	width: 215px;	
 }
 
 /* =================
  * Main Content Area
  * ================= */
+#mainhold {
+	width: 1010px;
+	height: 600px;
+	margin-top: -78px;
+}
+
+#main {
+	width: 520px;	
+	margin-left: -30px;
+}

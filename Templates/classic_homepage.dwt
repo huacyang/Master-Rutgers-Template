@@ -57,16 +57,16 @@
     ====================== -->
 <div class="row" id="contentrowhome">
 	<div class="twelve columns">
-		<div id="home-banner-area" class="shiftup hide-for-small">
-        	<div class="six columns">
-        		<img src="../includes/img/443x225.jpg" />
-           </div>
-           <div class="six columns text-area">
-           	<h1>The Classic Layout</h1>
-            	<p>This flexible, simple layout adds a homepage top feature and homepage top image elements to the layout. It allows for more than one section of text.</p>
-           </div>
-		</div>
-		<!-- Mobile Slider -->
+	  <div id="home-banner-area" class="shiftup hide-for-small">
+	    <div id="home-banner-area2" class="shiftup hide-for-small">
+	      <div class="six columns"><img src="../includes/img/443x225.jpg" /></div>
+	      <div class="six columns text-area">
+	        <h1>The Classic Layout</h1>
+	        <p>This flexible, simple layout adds a homepage top feature and homepage top image elements to the layout. It allows for more than one section of text.</p>
+          </div>
+        </div>
+	  </div>
+	  <!-- Mobile Slider -->
 		<div class="row">
 			<div id="shifting" class="show-for-small twelve columns"> </div>
 		</div>
