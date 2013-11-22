@@ -42,7 +42,6 @@
 
 .bg-brown {
 	background-color:#675C58;
-	height:240px;
 }
 
 .bg-white {
@@ -89,7 +88,7 @@
 }
 
 .shiftup_ex {
-	margin-top:-35px;
+	margin-top:-15px;
 }
 
 .shift-header {
