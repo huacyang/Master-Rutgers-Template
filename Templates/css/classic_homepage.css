@@ -4,13 +4,12 @@
  * Banner Area
  * =========== */
 #masthead {
-	margin: 0 0 0 0 !important;
 	width: 990px;
-	height: 85px !important;
+	margin-left: 0px;
 }
 
 #header {
-	width: 1040px !important;
+	width: 1040px;
 }
 
 #forms {
@@ -19,7 +18,7 @@
 }
 
 #nav-wrapper {
-	margin-top: -41px;	
+	margin-top: -40px;	
 	height: 30px;
 	width: 1012px;
 }
@@ -28,15 +27,18 @@
  * Header Area
  * =========== */
 #contentrowhome {
-	/*
-	margin-top:30px;
-	*/
+	margin-top:0px;
+}
+
+#home-banner-area {
+	height: 255px;
 }
 
 #home-banner-area img {
-	width: 443px !important;
-	height: 225 !important;	
-	margin-top: 0px;
+	width: 443px;
+	height: 225px;	
+	margin-top: -16px;
+	padding: 0x;
 }
 
 #home-banner-area .text-area {
@@ -68,6 +70,7 @@
 #home-rite_sidebar img {
 	width: 214px !important;
 	height: 146px;
+	padding: 0px;
 }
 
 #home-rite_sidebar p {

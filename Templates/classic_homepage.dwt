@@ -47,7 +47,85 @@
 <div class="row" id="headrow">
 	<div class="twelve columns" >
 		<!-- Includes Header -->
-		<!--#include virtual="../includes/header.html" -->
+        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-XXXXX-X']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<div id="header" class="row">
+    <!--<div id="top">   
+        <div id="hleft">
+            <ul class="shift-header">
+                <li class="first"><a href="http://www.rutgers.edu">Rutgers Home</a></li>
+                <li><a href="http://www.nb.rutgers.edu">New Brunswick</a></li>
+                <li><a href="http://www.newark.rutgers.edu">Newark</a></li>
+                <li class="last"><a href="http://www.camden.rutgers.edu">Camden</a></li>
+            </ul>
+        </div>
+        <div id="hright">
+    		<a href="http://search.rutgers.edu" target="_blank">University Search</a>
+        </div>
+	</div>-->
+    <div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix">  
+          <div id="zone-user" class="zone zone-user clearfix container-12">
+            <div class="grid-7 region region-user-first" id="region-user-first">
+          <div class="region-inner region-user-first-inner">
+            <div class="block block-menu block-menu-sliver block-menu-menu-sliver odd block-without-title" id="block-menu-menu-sliver" style="">
+          <div class="block-inner clearfix">
+                        
+            <div class="content clearfix">
+              <ul class="menu"><li class="first leaf"><a href="http://www.rutgers.edu" title="">Rutgers Home</a></li>
+        <li class="leaf"><a href="http://nb.rutgers.edu" target="_blank">New Brunswick</a></li>
+        <li class="leaf"><a href="http://rbhs.rutgers.edu" target="_blank">RBHS</a></li>
+        <li class="leaf"><a href="http://www.newark.rutgers.edu/" target="_blank">Newark</a></li>
+        <li class="leaf"><a href="http://www.camden.rutgers.edu/" target="_blank">Camden</a></li>
+        <li class="last leaf verylast"><a href="http://onlinelearning.rutgers.edu/" target="_blank">Online</a></li>
+        </ul>    </div>
+          </div>
+        </div>  </div>
+        </div><div class="grid-5 region region-user-second" id="region-user-second">
+          <div class="region-inner region-user-second-inner">
+            <div class="block block-ru-menu-toggle block-ru-menu-toggle block-ru-menu-toggle-ru-menu-toggle odd block-without-title" id="block-ru-menu-toggle-ru-menu-toggle">
+          <div class="block-inner clearfix">
+                        
+            <div class="content clearfix">
+              <div id="menu-toggle"><a id="menu-toggle-link" href="#">Menu</a></div>    </div>
+          </div>
+        </div><div class="block block-ru-search block-rusearch block-ru-search-rusearch even block-without-title" id="block-ru-search-rusearch">
+          <div class="block-inner clearfix">
+                        
+            <div class="content clearfix">
+        <div id="forms"> 
+        <form action="http://search.rutgers.edu/rbhs-search.html" method="GET" name="rusearch" id="rusearch" target="_blank">
+          <input alt="Search term" id="rusearchbox" name="q" size="15" type="text" value="SEARCH" onblur="this.value = (this.value == \'\' ? \'SEARCH\' : this.value);" onclick="this.value = (this.value == \'SEARCH\' ? \'\' : this.value);" onfocus="this.select()">
+          <select id="rusearchselect" onchange="RUSearchSubmitAlter(this.value)">
+            <option value="http://search.rutgers.edu/rbhs-search.html">RBHS</option>
+            <option value="http://search.rutgers.edu/web.html">Websites</option>
+            <option value="http://search.rutgers.edu/people.html">People</option>
+            <option value="http://search.rutgers.edu/events.html">Events</option>
+            <option value="http://search.rutgers.edu/buildings.html">Buildings</option>            
+          </select>
+          <input alt="Submit" id="rusearchbutton" type="submit" value="SEARCH">
+        </form>
+        </div>
+            </div>
+          </div>
+        </div>  </div>
+        </div>  </div>
+    </div>
+
+   <div id="masthead"><a href="index.shtml"><img src="http://www.rutgers.edu/sites/www.rutgers.edu/themes/core_base/images/clear.gif" style="width:26%;height:100%;"></a></div>
+</div>
+
 		<!-- Includes Navigation -->
 		<!--#include virtual="../includes/nav.html" -->
 	</div>
@@ -59,11 +137,12 @@
 	<div class="twelve columns">
 	  <div id="home-banner-area" class="shiftup hide-for-small">
 	    <div id="home-banner-area2" class="shiftup hide-for-small">
-	      <div class="six columns"><img src="../includes/img/443x225.jpg" /></div>
+	      <div class="six columns"><!-- TemplateBeginEditable name="Main Feature Area Image" --><img src="../includes/img/443x225.jpg" /><!-- TemplateEndEditable --></div>
 	      <div class="six columns text-area">
-	        <h1>The Classic Layout</h1>
+	        <h1><!-- TemplateBeginEditable name="Main Feature Area Title" -->The Classic Layout<!-- TemplateEndEditable --></h1>
+	        <!-- TemplateBeginEditable name="Main Feature Area Text" -->
 	        <p>This flexible, simple layout adds a homepage top feature and homepage top image elements to the layout. It allows for more than one section of text.</p>
-          </div>
+	        <!-- TemplateEndEditable --></div>
         </div>
 	  </div>
 	  <!-- Mobile Slider -->
@@ -104,22 +183,18 @@
 		 <!-- Main Content
         ====================== -->
 		<div id="main" class="six push-three columns"><br />
-			<h1 class="title">Main Homepage Text</h1>
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-
-			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
-
-			<p>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</p>
-            
-			<ul>
-				<li>Donec quam felis,</li>
-				<li>ultricies nec, pellentesque eu,</li>
-				<li>pretium quis, sem.</li>
-           </ul>
-           
-           <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <a href="#" target="_blank">Read more</a>.</p>
-           
-		</div>
+			<h1 class="title"><!-- TemplateBeginEditable name="Main Content Area Title" -->Main Homepage Text<!-- TemplateEndEditable --></h1>
+			<!-- TemplateBeginEditable name="Main Content Area Text" -->
+			<p>Lorem ipsum dolor sit amet, consectetuer adipicing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
+            <p>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</p>
+            <ul>
+              <li>Donec quam felis,</li>
+              <li>ultricies nec, pellentesque eu,</li>
+              <li>pretium quis, sem.</li>
+            </ul>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <a href="#" target="_blank">Read more</a>.</p>
+			<!-- TemplateEndEditable --></div>
 		<!-- #end-of-main-content-area -->
 
 		<!-- Right Sidebar
@@ -129,13 +204,12 @@
             
 				<div class="panel padding">
 					<div class="row">
-						<div class="twelve columns">
-							<h2 class="title">Additional Feature</h2>
-						</div>
-						<div class="twelve padding">
-							<img src="../includes/img/234x146.jpg" alt="Brian L. Strom, Chancellor">
-							<p>This short blurb of text serves as a great place to highlight information. For interest, you can add photos, video, or audio to this space. You can have more than one sidebar.</p>
-						</div>
+						<div class="twelve columns"><!-- TemplateBeginEditable name="Right Sidebar Region Title" -->
+                        <h2 class="title">Additional Feature</h2>
+                        <!-- TemplateEndEditable --></div>
+						<div class="twelve padding"><!-- TemplateBeginEditable name="Right Sidebar Region Image" --><img src="../includes/img/234x146.jpg" alt="Brian L. Strom, Chancellor"><!-- TemplateEndEditable --><!-- TemplateBeginEditable name="Right Sidebar Region Text" -->
+						  <p>This short blurb of text serves as a great place to highlight information. For interest, you can add photos, video, or audio to this space. You can have more than one sidebar.</p>
+						<!-- TemplateEndEditable --></div>
 					</div>
 				</div>
                 
@@ -149,14 +223,16 @@
 			<div class="row">
 				<!-- First Section -->
 				<div class="ten columns end padding">
-					<h2 class="title">Quick Links</h2>
+					<h2 class="title"><!-- TemplateBeginEditable name="Left Sidebar Region Title" -->Quick Links<!-- TemplateEndEditable --></h2>
 					<ul class="bullets-green">
-                    	<li><a href="#" target="_blank">First Link</a></li>
-                    	<li><a href="#" target="_blank">Second Link</a></li>
-                    	<li><a href="#" target="_blank">Third Link</a></li>
-                    	<li><a href="#" target="_blank">Fourth Link</a></li>
-                    	<li><a href="#" target="_blank">Fifth Link</a></li>
-					</ul>
+					  <!-- TemplateBeginEditable name="Left Sidebar Region Links" -->
+					    <li><a href="#" target="_blank">First Link</a></li>
+					    <li><a href="#" target="_blank">Second Link</a></li>
+					    <li><a href="#" target="_blank">Third Link</a></li>
+					    <li><a href="#" target="_blank">Fourth Link</a></li>
+					    <li><a href="#" target="_blank">Fifth Link</a></li>
+				      <!-- TemplateEndEditable -->
+				  </ul>
 				</div>
 				<!-- Second Section -->
 				<!--<div class="ten columns end padding socialmedia">
