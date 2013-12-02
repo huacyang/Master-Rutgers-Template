@@ -4,22 +4,32 @@
  * Banner Area
  * =========== */
 #masthead {
-	width: 990px;
-	margin-left: 0px;
+	width: 1040px;
+	padding: 0px;
+	float: left;
 }
 
 #header {
-	width: 1040px;
+	width: 1040px;	
+}
+
+#block-menu-menu-sliver {
+	width: 500px;	
+}
+
+#block-ru-search-rusearch {
+	margin-left: 20px;
 }
 
 #forms {
 	width: 270px;
-	margin-top: -40px;
 }
 
 #nav-wrapper {
+	/*
 	margin-top: -40px;	
 	height: 30px;
+	*/
 	width: 1012px;
 }
 
@@ -27,11 +37,13 @@
  * Header Area
  * =========== */
 #contentrowhome {
-	margin-top:0px;
+	margin-top: 20px;
 }
 
 #home-banner-area {
+	/*
 	height: 255px;
+	*/
 }
 
 #home-banner-area img {
@@ -69,8 +81,9 @@
 
 #home-rite_sidebar img {
 	width: 214px !important;
-	height: 146px;
+	height: 146px !important;
 	padding: 0px;
+	margin: 0px;
 }
 
 #home-rite_sidebar p {
