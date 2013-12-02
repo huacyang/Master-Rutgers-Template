@@ -142,8 +142,8 @@
                 <div class="twelve columns"><!-- TemplateBeginEditable name="Right Sidebar Region Title" -->
                   <h2 class="title">Additional Feature</h2>
                 <!-- TemplateEndEditable --></div>
-                <div class="twelve padding"><!-- TemplateBeginIf cond="_document['Right Sidebar Region Image (optional)']" --> <img src="../includes/img/234x146.jpg" alt="Brian L. Strom, Chancellor"> <!-- TemplateEndIf --><!-- TemplateBeginEditable name="Right Sidebar Region Text" -->
-                  <p>This short blurb of text serves as a great place to highlight information. For interest, you can add photos, video, or audio to this space. You can have more than one sidebar.</p>
+                <div class="twelve padding"><!-- TemplateBeginIf cond="_document['Right Sidebar Region Image (optional)']" --><!-- TemplateBeginEditable name="Right Sidebar Region Image" --><img src="../includes/img/234x146.jpg" alt="Brian L. Strom, Chancellor"><!-- TemplateEndEditable --><!-- TemplateEndIf --><!-- TemplateBeginEditable name="Right Sidebar Region Text" -->
+                <p>This short blurb of text serves as a great place to highlight information. For interest, you can add photos, video, or audio to this space. You can have more than one sidebar.</p>
                 <!-- TemplateEndEditable --></div>
               </div>
             </div>
@@ -159,13 +159,9 @@
 			  <div class="ten columns end padding">
 				<h2 class="title"><!-- TemplateBeginEditable name="Left Sidebar Region Title" -->Quick Links<!-- TemplateEndEditable --></h2>
 				  <ul class="bullets-green">
-<!-- TemplateBeginEditable name="Left Sidebar Region Links" -->
-		      <li><a href="#" target="_blank">First Link</a></li>
-		      <li><a href="#" target="_blank">Second Link</a></li>
-		      <li><a href="#" target="_blank">Third Link</a></li>
-		      <li><a href="#" target="_blank">Fourth Link</a></li>
-		      <li><a href="#" target="_blank">Fifth Link</a></li>
-		      <!-- TemplateEndEditable -->
+				    <!-- TemplateBeginRepeat name="Left Sidebar" --><!-- TemplateBeginEditable name="Left Sidebar Region Links" -->
+				      <li><a href="#" target="_blank">Quick Link (Click repeat to duplicate)</a></li>
+				      <!-- TemplateEndEditable --><!-- TemplateEndRepeat -->
 			    </ul>
 			  </div>
 				<!-- Second Section -->
