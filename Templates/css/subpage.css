@@ -1,0 +1,63 @@
+/* Subpage Template Design View */
+
+
+/* == Banner Area == */
+#headrow{
+	width:987px;
+}
+
+#masthead {
+	width: 987px;
+	height: 85px !important;
+}
+
+#header {
+	width: 1040px !important;
+}
+
+#forms {
+	width: 500px;
+	margin-top: -40px;
+}
+
+ul.menu {
+	width:450px;
+}
+
+/* == End fo Banner Area == */
+
+/* == Start of Content == */
+
+#contentrow {
+	
+	width:980px;
+}
+
+#submain {
+	width:754px;
+}
+
+#submain #context{
+	padding-top:50px;
+	width:50%;	
+}
+
+/* == End of Content == */
+
+/* == Start of Right Side Bar == */
+
+#side_bar {
+	margin-top:0;
+	padding-top:50px;
+	width:40%;	
+}
+
+/* == End of Right Side Bar == */
+
+/* == Start of Left Side Bar == */
+
+#side_nav{
+	margin-right:0px !important;
+}
+
+/* == End of Left Side Bar == */

@@ -13,10 +13,11 @@
 <title>Home | Rutgers Biomedical and Health Sciences</title>
 <!-- TemplateEndEditable -->
 <!-- Included CSS Files -->
-<link type="text/css" rel="stylesheet" href="../includes/css/bootstrap.css" />
 <link type="text/css" rel="stylesheet" href="../includes/css/templates.css" />
 <link type="text/css" rel="stylesheet" href="../includes/css/class.css" />
 <link type="text/css" rel="stylesheet" href="../includes/css/override.css" />
+<link type="text/css" rel="stylesheet" href="../includes/css/templates/subpage.css" />
+
 <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
 <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
 
@@ -35,7 +36,6 @@
 <script type="text/javascript" src="../includes/js/jquery.js"></script>
 <script type="text/javascript" src="../includes/js/jquery-json.js"></script>
 <script type="text/javascript" src="../includes/js/templates.js"></script>
-<script type="text/javascript" src="../includes/js/bootstrap.js"></script>
 <!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
 <!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
 <script type="text/javascript" src="../includes/js/home.js"></script>
@@ -47,50 +47,102 @@
 <div class="row" id="headrow">
 	<div class="twelve columns" >
 		<!-- Includes Header -->
-		<!--#include virtual="../includes/header.html" -->
+        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-XXXXX-X']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<div id="header" class="row">
+    <!--<div id="top">   
+        <div id="hleft">
+            <ul class="shift-header">
+                <li class="first"><a href="http://www.rutgers.edu">Rutgers Home</a></li>
+                <li><a href="http://www.nb.rutgers.edu">New Brunswick</a></li>
+                <li><a href="http://www.newark.rutgers.edu">Newark</a></li>
+                <li class="last"><a href="http://www.camden.rutgers.edu">Camden</a></li>
+            </ul>
+        </div>
+        <div id="hright">
+    		<a href="http://search.rutgers.edu" target="_blank">University Search</a>
+        </div>
+	</div>-->
+    <div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix">  
+          <div id="zone-user" class="zone zone-user clearfix container-12">
+            <div class="grid-7 region region-user-first" id="region-user-first">
+          <div class="region-inner region-user-first-inner">
+            <div class="block block-menu block-menu-sliver block-menu-menu-sliver odd block-without-title" id="block-menu-menu-sliver" style="">
+          <div class="block-inner clearfix">
+                        
+            <div class="content clearfix">
+              <ul class="menu"><li class="first leaf"><a href="http://www.rutgers.edu" title="">Rutgers Home</a></li>
+        <li class="leaf"><a href="http://nb.rutgers.edu" target="_blank">New Brunswick</a></li>
+        <li class="leaf"><a href="http://rbhs.rutgers.edu" target="_blank">RBHS</a></li>
+        <li class="leaf"><a href="http://www.newark.rutgers.edu/" target="_blank">Newark</a></li>
+        <li class="leaf"><a href="http://www.camden.rutgers.edu/" target="_blank">Camden</a></li>
+        <li class="last leaf verylast"><a href="http://onlinelearning.rutgers.edu/" target="_blank">Online</a></li>
+        </ul>    </div>
+          </div>
+        </div>  </div>
+        </div><div class="grid-5 region region-user-second" id="region-user-second">
+          <div class="region-inner region-user-second-inner">
+            <div class="block block-ru-menu-toggle block-ru-menu-toggle block-ru-menu-toggle-ru-menu-toggle odd block-without-title" id="block-ru-menu-toggle-ru-menu-toggle">
+          <div class="block-inner clearfix">
+                        
+            <div class="content clearfix">
+              <div id="menu-toggle"><a id="menu-toggle-link" href="#">Menu</a></div>    </div>
+          </div>
+        </div><div class="block block-ru-search block-rusearch block-ru-search-rusearch even block-without-title" id="block-ru-search-rusearch">
+          <div class="block-inner clearfix">
+                        
+            <div class="content clearfix">
+        <div id="forms"> 
+        <form action="http://search.rutgers.edu/rbhs-search.html" method="GET" name="rusearch" id="rusearch" target="_blank">
+          <input alt="Search term" id="rusearchbox" name="q" size="15" type="text" value="SEARCH" onblur="this.value = (this.value == \'\' ? \'SEARCH\' : this.value);" onclick="this.value = (this.value == \'SEARCH\' ? \'\' : this.value);" onfocus="this.select()">
+          <select id="rusearchselect" onchange="RUSearchSubmitAlter(this.value)">
+            <option value="http://search.rutgers.edu/rbhs-search.html">RBHS</option>
+            <option value="http://search.rutgers.edu/web.html">Websites</option>
+            <option value="http://search.rutgers.edu/people.html">People</option>
+            <option value="http://search.rutgers.edu/events.html">Events</option>
+            <option value="http://search.rutgers.edu/buildings.html">Buildings</option>            
+          </select>
+          <input alt="Submit" id="rusearchbutton" type="submit" value="SEARCH">
+        </form>
+        </div>
+            </div>
+          </div>
+        </div>  </div>
+        </div>  </div>
+    </div>
+
+   <div id="masthead"><a href="index.shtml"><img src="http://www.rutgers.edu/sites/www.rutgers.edu/themes/core_base/images/clear.gif" style="width:26%;height:100%;"></a></div>
+</div>
+
 		<!-- Includes Navigation -->
 		<!--#include virtual="../includes/nav.html" -->
 	</div>
 </div>
 
-<!-- Slideshow
-    ====================== -->
-<div class="row" id="contentrowhome">
-	<div class="twelve columns">
-		<div id="slideshow_area" class="shiftup hide-for-small">
-			<!-- Image Slider -->
-			<div id="carousel_img" class="carousel slide span9">
-				<div id="image" class="carousel-inner"></div>
-			</div>
-			<!-- Content Slider -->
-			<div id="content_area" class="span3">
-				<div id="content_inner" class="carousel slide span3">
-					<div id="content" class="carousel-inner"></div>
-				</div>
-				<div id="carouselnav" class="carousel-nav span3"></div>
-			</div>
-		</div>
-		<!-- Mobile Slider -->
-		<div class="row">
-			<div id="shifting" class="show-for-small twelve columns"> </div>
-		</div>
-		<br />
-	</div>
-</div>
-<!-- #end-of-slideshow -->
-
+<p>&nbsp;</p>
 <div class="row" style="position:static;">
 	<div class="twelve columns shiftup_ex bg-white" id="mainhold">
-
-		<!-- ########################## -->
+    
+        <!-- ########################## -->
         <!-- TO SHOW CAMPUS STATUS REMOVE -->
         <!-- style="display:none;" on line below -->
-
-		<div class="alertmsgbox" style="display:none;">
-        	<!-- START ALERT MESSAGE HEADER -->
-        	
+		 <div class="alertmsgbox" style="display:none;">
+            <!-- #start-alert-message-header -->
             <div class="alertmsgheader">Campus Status Update</div>
-            <!-- END ALERT MESSAGE HEADER -->
+            <!-- #end-alert-message-header -->
+            
             <p><!--#include virtual="../emergencyindex.txt" --></p>
             <!-- START LINKS TO CAMPUSES -->
             <!-- <div class="item-list alertmsglist">
@@ -106,127 +158,110 @@
         <!-- ########################## -->
         <!-- END EMERGENCY INFO BOX -->
 
-		<!-- Main Content
+		 <!-- Main Content
         ====================== -->
 		<div id="main" class="six push-three columns"><br />
-			<h1 class="title">Leading the Way in Academic Health Care:<br />
-				Rutgers Biomedical and Health Sciences</h1>
-			<p>With the establishment of Rutgers Biomedical and Health Sciences, Rutgers&mdash;already a leading national research university&mdash;now stands as one of America&rsquo;s largest, most comprehensive university-based centers for studying and improving human health and health care.</p>
-			<p>As we advance medical innovation, provide direct patient care informed by the latest research findings, and educate a full complement of health care professionals, Rutgers is equipped as never before to transform lives.</p>
-			<p>For Rutgers and the region, the advantages of having a highly regarded health care division attached to The State University of New Jersey are considerable as we</p>
+		  <h1 class="title"><!-- TemplateBeginEditable name="Main Content Area Title" -->Standard Page<!-- TemplateEndEditable --></h1>
+			<!-- TemplateBeginEditable name="Main Content Area Text" -->
+           <p>
+           	There is no new content.
+           </p>
+			<ul style="list-style-type: none;">
+            	<li>
+                Need a page that keeps the focus on the information itself? Then a standard page is a good choice. This template works well for most sites' subpages.
+               </li>
+               <li>
+               While this page doesn't feature a large image at the top, you can embed images in the page itself, add sidebars (with or without images), put in galleries of photos, or add video clips.
+               </li>
+           </ul>
+			<h2>Heading Options</h2>
+			<p>Even if you just stick to text, you have a number of ways to change the text formatting to give structure and clarity to the page. Using different-sized headers reinforces your organization of the material.</p>
+			<h2>Heading Size 2</h2>
+			<h3>HEADING SIZE 3</h3>
+			<h4>Heading Size 4<br>
+			   </h4>
+			<h2>Other Types of Formatting</h2>
+			<p>The standard text style for Rutgers' websites is FONT and SIZE. You can create bulleted lists, like this one that displays other formatting options:</p>
 			<ul>
-				<li>draw more top-flight faculty and students;</li>
-				<li>deepen our research collaborations;</li>
-				<li>optimize the coordination of health care for residents;</li>
-				<li>accelerate economic growth; and</li>
-				<li>attract even greater public and private support.</li>
-			</ul>
-			<p>It&rsquo;s a brilliant new era for medical education, research, and practice in New Jersey.</p>
-			<h2>Schools and Units</h2>
-			<p>Rutgers Biomedical and Health Sciences, headed by a chancellor reporting directly to Rutgers&rsquo; president, is the umbrella organization for the following schools and units:</p>
-			<ul>
-				<li><a href="http://cinj.org" target="_blank">Cancer Institute of New Jersey</a>
-				<li><a href="http://www3.cabm.rutgers.edu/" target="_blank">Center for Advanced Biotechnology and Medicine</a>
-
-				<li><a href="http://eohsi.rutgers.edu/" target="_blank">Environmental and Occupational Health Sciences Institute</a>
-				<li><a href="http://pharmacy.rutgers.edu/" target="_blank">Ernest Mario School of Pharmacy</a>
-				<li><a href="http://gsbs.rutgers.edu/" target="_blank">Graduate School of Biomedical Sciences</a>
-				<li><a href="http://www.ihhcpar.rutgers.edu/" target="_blank">Institute for Health, Health Care Policy and Aging Research</a>
-                <li>Medical Schools
-                  <ul>
-                	<li><a href="http://njms.rutgers.edu/" target="_blank">New Jersey Medical School</a></li>
-                    <li><a href="http://rwjms.rutgers.edu/" target="_blank">Robert Wood Johnson Medical School</a></li>
-                </ul>
-				<li>Nursing Schools
-                <ul>
-					<li><a href="http://nursing.rutgers.edu/" target="_blank">College of Nursing</a></li>
-                    <li><a href="http://sn.rutgers.edu/" target="_blank">School of Nursing</a>
-                </ul>
-				<li><a href="http://sdm.rutgers.edu/" target="_blank">Rutgers School of Dental Medicine</a>
-				<li><a href="http://shrp.rutgers.edu/" target="_blank">School of Health Related Professions</a>
-
-				<li><a href="http://sph.rutgers.edu/" target="_blank">School of Public Health</a>
-				<li><a href="http://ubhc.rutgers.edu/" target="_blank">University Behavioral Health Care</a>
-			</ul>
-		</div>
+			  <li><strong>Bolded Text</strong></li>
+			  <li><em>Italicized Text</em></li>
+			  <li>Strike Through</li>
+			  <li><u>Underlined Text—avoid using because viewer might think it is a link!</u></li>
+			  <li>Special Characters: á, ñ, @, ¾, ►, %, etc.</li>
+		    </ul>
+			<p>&nbsp;</p>
+			<!-- TemplateEndEditable --></div>
 		<!-- #end-of-main-content-area -->
-
-		<!-- Right Sidebar
+<!-- Right Sidebar
         ====================== -->
-		<div class="three push-three columns" id="rightsidebar">
+		<!--<div class="three push-three columns" id="rightsidebar">
 			<div id="home-rite_sidebar" class="row"><br />
-				<!-- Panel One -->
-				
+            
 				<div class="panel padding">
 					<div class="row">
-						<div class="twelve columns">
-							<h2 class="title">Common Fungal Foot Cream Shows Promise Against HIV</h2>
-						</div>
-						<div class="twelve padding">
-							<p><a href="http://www.scientificamerican.com/article.cfm?id=foot-cream-kills-hiv-by-tricking-ce-2013-09" target="_blank"><em>Scientific American</em></a> reports that "in a study performed at Rutgers New Jersey Medical School, not only does the drug Ciclopirox completely eradicate infectious HIV from cell cultures, but unlike today's most cutting-edge antiviral treatments, the virus doesn't bounce back when the drug is withheld. This means it may not require a lifetime of use to keep HIV at bay."</p>
-						</div>
+						<div class="twelve columns"><!-- TemplateBeginEditable name="Right Sidebar Region Title" --
+                        <h2 class="title">Additional Feature</h2>
+                        <!-- TemplateEndEditable --</div>
+						<div class="twelve padding"><!-- TemplateBeginEditable name="Right Sidebar Region Image" --<img src="../includes/img/234x146.jpg" alt="Brian L. Strom, Chancellor"><!-- TemplateEndEditable --<!-- TemplateBeginEditable name="Right Sidebar Region Text" --
+						  <p>This short blurb of text serves as a great place to highlight information. For interest, you can add photos, video, or audio to this space. You can have more than one sidebar.</p>
+						<!-- TemplateEndEditable --</div>
 					</div>
 				</div>
-
-				<div class="panel padding">
-					<div class="row">
-						<div class="twelve columns">
-							<h2 class="title">Inaugural Chancellor Appointed</h2>
-						</div>
-						<div class="twelve padding">
-							<img src="http://news.rutgers.edu/sites/medrel/files/inline-img/Brian%20Strom2.jpg" alt="Brian L. Strom, Chancellor" style="max-width: 165px;margin-left: 20px;">
-							<p>Brian L. Strom is the inaugural chancellor of Rutgers Biomedical and Health Sciences effective November 1, 2013. Strom is an internationally recognized scholar, an award-winning educator, and an eminent clinical epidemiologist. <!--<a href="http://news.rutgers.edu/news-release/brian-l-strom-become-inaugural-chancellor-rutgers-biomedical-and-health-sciences-dec-2/20130718#.UelFU469V7N">Learn more</a>.--></p>
-						</div>
-					</div>
-				</div>
-
-				<!--<div class="panel padding">
-		            <div class="row">
-		                <div class="twelve columns">
-		                    <h2 class="title">Interim Chancellor Molloy</h2>
-		                </div>
-		                <div class="twelve padding">
-		                    <img src="images/CMalloy_208x140.jpg" alt="Christopher J. Molloy, Interim Chancellor" style="max-width:208px;">
-		                    <p>Christopher J. Molloy, interim chancellor of Rutgers Biomedical and Health Sciences. Molloy had been serving as Rutgers' interim provost for biomedical and health sciences and as lead administrator for the Integration Management Office. <a href="http://news.rutgers.edu/news-release/christopher-molloy-serve-interim-chancellor-rutgers-biomedical-and-health-sciences#.UdB2VY5dLJy" target="_blank">Learn more.</a></p>
-		                </div>
-		            </div>
-            	</div>-->
-				<div class="panel padding">
-					<div class="row">
-						<div class="twelve columns">
-							<h2 class="title">Patient Care</h2>
-							<p>Our university-based practice groups and centers unite health care professionals in providing services in nearly every specialty and subspecialty of medicine, dentistry, nursing, mental and behavioral health, and physical and rehabilitation science. At Rutgers, our goal is to help you achieve your optimal level of health and wellness. <a href="http://rbhs.rutgers.edu/care.shtml" target="_blank">Learn more</a>.</p>
-						</div>
-					</div>
-				</div>
-
-
-
+                
 			</div>
-		</div>
-		<!-- #end-of-right-sidebar -->
+		</div>-->
+        <div id="side_bar" class="three push-three columns">
+        <ul>
+            <!-- Panel One -->
+            <li>
+            <h2><!-- TemplateBeginEditable name="Right Side Bar Title 1" -->Always an Option: The Sidebar<!-- TemplateEndEditable --></h2>
+                <div id="template_right_container"><p id="item1_paragraph">
+                <!-- TemplateBeginEditable name="Right Sidebar  Item1" --> You always have the option of adding a sidebar to your subpages. These short text boxes automatically appear on the right-side of the page, and serve as a great place to highlight information.
+For interest, you can add photos, video, or audio to sidebars.<!-- TemplateEndEditable --></p>
+                <h6><!-- TemplateBeginEditable name="Sub Title" -->See It in Action: Sidebars<!-- TemplateEndEditable --></h6>
+<ul>
+<li><a href="schools.shtml"><!-- TemplateBeginEditable name="Link" -->U.S. News & World Report "Best Graduate School" sidebar on the Graduate School of Eduction website<!-- TemplateEndEditable --><</a>     
+</li></ul>
+</div>
 
-		<!-- Includes Left Sidebar -->
-		<div id="side_bar-home" class="three pull-nine mobile-four columns padding">
+            </li>
+			<li>
+				<h2><!-- TemplateBeginEditable name="Right Side Bar Title 2" -->Write for the Web<!-- TemplateEndEditable --></h2>
+				<p><!-- TemplateBeginEditable name="Right Sidebar  Item2" -->Tailor your message to the medium of the web.
+Use short sentences and paragraphs,
+Keep your language straighforward and friendly.
+Speak directly to the viewer.
+Learn how to make your writing sparkle by taking the Rutgers Communication Certificate course "Writing for the Web."<a href="#">Learn more</a>.<!-- TemplateEndEditable --></p>
+			</li>
+        </ul></div>
+</div>
+        </div>
+		<!-- #end-of-right-sidebar -->
+        
+		<!-- Left Sidebar
+        ====================== -->
+		<div id="side_bar-home" class="three pull-nine columns">
 			<div class="row">
 				<!-- First Section -->
 				<div class="ten columns end padding">
-					<h2 class="title">Quick Links</h2>
-					<ul class="bullets-green">
-                    	<li><a href="http://myportal.rutgers.edu" target="_blank">myPortal</a></li>
-						<li><a href="../admissions.shtml">Admissions</a></li>
-						<!-- <li><a href="http://cinj.org" target="_blank">Cancer Institute of New Jersey</a></li> -->
-						<li><a href="../trials.shtml">Clinical Trials</a></li>
-						<!-- <li><a href="http://ethics.rbhs.rutgers.edu/">Ethics and Compliance</a></li> -->
-						<li><a href="../referral.shtml">Find a Physician</a></li>
-						<li><a href="http://libraries.rutgers.edu/health">Health Sciences Libraries</a></li>
-						<li><a href="http://www.rutgers.edu/health-sciences/overview" target="_blank">Health Sciences Universitywide</a></li>
-						<!-- <li><a href="schools.shtml">Schools and Colleges</a></li> -->
-						<!-- <li><a href="http://ubhc.rutgers.edu" target="_blank">University Behavioral Health Care</a></li> -->
-						<li><a href="http://academicaffairs.rutgers.edu/additional-resources/rbhs-policies" target="_blank">Rutgers Biomedical and Health Sciences Policies</a></li>
-						<li><a href="http://support.rutgers.edu/RBHS" target="_blank">Giving to Rutgers Biomedical and Health Sciences</a></li>
-					</ul>
-				</div>
+                <h2 class="title"><!-- TemplateBeginEditable name="Left Sidebar Region Title" -->Explore Subpages<!-- TemplateEndEditable --></h2>
+                <ul >
+                
+                	 <li style="list-style-type: none;"><!-- TemplateBeginEditable name="Left Sidebar List Item1" -->Subpage Overview<!-- TemplateEndEditable --></li>
+                   <li style="list-style-type: none;">
+                   <!-- TemplateBeginEditable name="Left Sidebar List Item2" -->Landing Pages<!-- TemplateEndEditable --></li>
+                   <li style="background-color:beige;list-style-type: none;"><font color="red"><!-- TemplateBeginEditable name="Left Sidebar List Item3" -->Standard Pages<!-- TemplateEndEditable --></font>
+                    <ul class="bullets-green">
+					  <!-- TemplateBeginEditable name="Left Sidebar List Item 3 Sublist" -->
+					    <li><a href="#" target="_blank">Pages with Sidebar and Images</a></li>
+					    <li><a href="#" target="_blank">Pages with Tables</a></li>
+					    <li><a href="#" target="_blank">Pages with text only</a></li>
+				      <!-- TemplateEndEditable -->
+				 	 </ul>
+                   </li>
+                   <li style="list-style-type: none;"><!-- TemplateBeginEditable name="Left Sidebar List Item4" -->Specialized Pages<!-- TemplateEndEditable --></li>
+				  </ul>
+				</div></div>
 				<!-- Second Section -->
 				<!--<div class="ten columns end padding socialmedia">
 				<h2 class="title">Follow Us</h2>
