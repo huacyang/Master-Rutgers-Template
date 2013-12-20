@@ -1,185 +1,186 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<!-- Set the viewport width to device width for mobile -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<meta name="HandheldFriendly" content="true" />
-<meta name="description" content="With the establishment of Rutgers Biomedical and Health Sciences, Rutgers—already a leading national research university—now stands as one of America’s largest, most comprehensive university-based centers for studying and improving human health and health care.">
-<meta name="keywords" content="rbhs schools and colleges, academic health care, rutgers medical schools, rutgers patient care, Cancer Institute of New Jersey, rbhs health sciences, rutgers biomedical and health sciences, health sciences at Rutgers, rbhs, Rutgers school of dental medicine, leading national research university">
-<!-- title -->
-<!-- TemplateBeginEditable name="doctitle" -->
-<title>Home | Rutgers Biomedical and Health Sciences</title>
-<!-- TemplateEndEditable -->
-<!-- Included CSS Files -->
-<link type="text/css" rel="stylesheet" href="../includes/css/templates.css" />
-<link type="text/css" rel="stylesheet" href="../includes/css/class.css" />
-<link type="text/css" rel="stylesheet" href="../includes/css/override.css" />
-<!-- TemplateBeginEditable name="templateCSS" -->
-<link type="text/css" rel="stylesheet" href="../includes/css/classic_homepage.css" />
-<!-- TemplateEndEditable -->
-<!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
-<!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
-<!-- Favicon -->
-<link rel="shortcut icon" href="../images/favicon-sun.ico" />
-<!-- Hide Bootstrap
-<link type="text/css" rel="stylesheet" media="only screen and (max-width: 1100px)" href="includes/css/hide.css" />-->
-<!-- Custom Tablet -->
-<link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="../includes/css/tablet.css" />
-<!-- Custom Mobile -->
-<link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="../includes/css/mobile.css" />
-<!-- Included JavaScript Files -->
-<script type="text/javascript" src="../includes/js/modernizr.js"></script>
-<script type="text/javascript" src="../includes/js/jquery.js"></script>
-<script type="text/javascript" src="../includes/js/jquery-json.js"></script>
-<script type="text/javascript" src="../includes/js/templates.js"></script>
-<!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
-<!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
-<script type="text/javascript" src="../includes/js/home.js"></script>
-<script type="text/javascript" src="../includes/js/rbhs.js"></script>
-<!-- TemplateBeginEditable name="head" -->
-<!-- TemplateEndEditable -->
-<!-- TemplateParam name="Right Sidebar Region Image (optional)" type="boolean" value="true" -->
-<!-- TemplateParam name="Right Sidebar Region Image" type="boolean" value="true" -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="description" content="With the establishment of Rutgers Biomedical and Health Sciences, Rutgers—already a leading national research university—now stands as one of America’s largest, most comprehensive university-based centers for studying and improving human health and health care.">
+	<meta name="keywords" content="rbhs schools and colleges, academic health care, rutgers medical schools, rutgers patient care, Cancer Institute of New Jersey, rbhs health sciences, rutgers biomedical and health sciences, health sciences at Rutgers, rbhs, Rutgers school of dental medicine, leading national research university">
+	
+	<!-- title -->
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Homepage | Classic</title>
+	<!-- TemplateEndEditable -->
+	
+	<!-- Included CSS Files -->
+	<link type="text/css" rel="stylesheet" href="../includes/css/templates.css" />
+	<link type="text/css" rel="stylesheet" href="../includes/css/class.css" />
+	<link type="text/css" rel="stylesheet" href="../includes/css/override.css" />
+	<!-- TemplateBeginEditable name="templateCSS" -->
+	<link type="text/css" rel="stylesheet" href="../includes/css/classic_homepage.css" />
+	<!-- TemplateEndEditable -->
+	<!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+	<!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="../images/favicon-sun.ico" />
+	<!-- Custom Tablet -->
+	<link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="../includes/css/tablet.css" />
+	<!-- Custom Mobile -->
+	<link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="../includes/css/mobile.css" />
+	
+	<!-- Included JavaScript Files -->
+	<script type="text/javascript" src="../includes/js/modernizr.js"></script>
+	<script type="text/javascript" src="../includes/js/jquery.js"></script>
+	<script type="text/javascript" src="../includes/js/jquery-json.js"></script>
+	<script type="text/javascript" src="../includes/js/templates.js"></script>
+	<!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
+	<!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+	<script type="text/javascript" src="../includes/js/home.js"></script>
+	<script type="text/javascript" src="../includes/js/rbhs.js"></script>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		// Change "UA-XXXXX-X" to the actual Google Analytics account number 
+		_gaq.push(['_setAccount', 'UA-XXXXX-X']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+	<!-- TemplateParam name="Right Sidebar: Image (optional)" type="boolean" value="true" -->
+	<!-- TemplateParam name="Right Sidebar: Image" type="boolean" value="true" -->
 </head>
 <body>
-<div class="row" id="headrow">
-<div class="twelve columns" >
-<!-- Includes Header -->
-<script type="text/javascript">
+	<div class="row" id="headrow">
+	<div class="twelve columns" >
 
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-XXXXX-X']);
-_gaq.push(['_trackPageview']);
+	<!-- Includes Header -->
+	<!--#include virtual="../includes/header.html" -->
+	<!-- Includes Navigation -->
+	<!--#include virtual="../includes/nav.html" -->
+	</div>
+	</div>
 
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+	<!-- Banner Area
+	====================== -->
+	<div class="row" id="contentrowhome">
+	<div class="twelve columns">
+		<div id="home-banner-area" class="shiftup hide-for-small">
+		<div id="home-banner-area2" class="shiftup hide-for-small">
+			<div class="six columns">
+				<!-- TemplateBeginEditable name="Main Feature: Image" -->
+				<img src="../includes/img/443x225.jpg" />
+				<!-- TemplateEndEditable --></div>
+			<div class="six columns text-area">
+				<h1><!-- TemplateBeginEditable name="Main Feature: Title" -->The Classic Layout<!-- TemplateEndEditable --></h1>
+				<!-- TemplateBeginEditable name="Main Feature: Text Area" -->
+				<p>This flexible, simple layout adds a homepage top feature and homepage top image elements to the layout. It allows for more than one section of text.</p>
+				<!-- TemplateEndEditable -->
+			</div>
+		</div>
+		</div>
+		<br />
+	</div>
+	</div><!-- #end-of-banner-area -->
 
-</script>
+	<div class="row" style="position:static;">
+	<div class="twelve columns shiftup_ex bg-white" id="mainhold">
+		<!-- ############################ -->
+		<!-- TO SHOW CAMPUS STATUS REMOVE THE FOLLOWING ON LINE BELOW: style="display:none;" -->
+		<div class="alertmsgbox" style="display:none;">
+			<!-- #start-alert-message-header -->
+			<div class="alertmsgheader">Campus Status Update</div>
+			<!-- #end-alert-message-header -->
 
-<!-- Includes Header -->
-<!--#include virtual="../includes/header.html" -->
-<!-- Includes Navigation -->
-<!--#include virtual="../includes/nav.html" -->
-</div>
-</div>
+			<p><!--#include virtual="../emergencyindex.txt" --></p>
+			<!--
+			<div class="item-list alertmsglist">
+			<ul>
+				<li><a href="" target="_blank">Link 1</a></li>
+				<li><a href="" target="_blank">Link 2</a></li>
+				<li><a href="" target="_blank">Link 3</a></li>
+			</ul>
+			</div>-->
+		</div><!-- #end-of-emergency-info-box -->
+		<!-- ############################ -->
 
-<!-- Slideshow
-====================== -->
-<div class="row" id="contentrowhome">
-<div class="twelve columns">
-<div id="home-banner-area" class="shiftup hide-for-small">
-<div id="home-banner-area2" class="shiftup hide-for-small">
-<div class="six columns"><!-- TemplateBeginEditable name="Main Feature Area Image" --><img src="../includes/img/443x225.jpg" /><!-- TemplateEndEditable --></div>
-<div class="six columns text-area">
-<h1><!-- TemplateBeginEditable name="Main Feature Area Title" -->The Classic Layout<!-- TemplateEndEditable --></h1>
-<!-- TemplateBeginEditable name="Main Feature Area Text" -->
-<p>This flexible, simple layout adds a homepage top feature and homepage top image elements to the layout. It allows for more than one section of text.</p>
-<!-- TemplateEndEditable --></div>
-</div>
-</div>
-<!-- Mobile Slider -->
-<div class="row">
-<div id="shifting" class="show-for-small twelve columns"> </div>
-</div>
-<br />
-</div>
-</div>
-<!-- #end-of-slideshow -->
+		<!-- Main Content
+		====================== -->
+		<div id="main" class="six push-three columns"><br />
+			<h1 class="title"><!-- TemplateBeginEditable name="Main Content: Title" -->Main Homepage Text<!-- TemplateEndEditable --></h1>
+			<!-- TemplateBeginEditable name="Main Content: Text Area" -->
+			<p>Lorem ipsum dolor sit amet, consectetuer adipicing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
+			<p>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</p>
+			<ul>
+				<li>Donec quam felis,</li>
+				<li>ultricies nec, pellentesque eu,</li>
+				<li>pretium quis, sem.</li>
+			</ul>
+			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <a href="#" target="_blank">Read more</a>.</p>
+			<!-- TemplateEndEditable -->
+		</div>
+		<!-- #end-of-main-content-area -->
 
-<div class="row" style="position:static;">
-<div class="twelve columns shiftup_ex bg-white" id="mainhold">
+		<!-- Right Sidebar
+		====================== -->
+		<div class="three push-three columns" id="rightsidebar">
+		<div id="home-rite_sidebar" class="row"><br />
+			<!-- TemplateBeginRepeat name="Right Sidebar" -->
+			<div class="panel padding">
+			<div class="row">
+				<div class="twelve columns">
+					<!-- TemplateBeginEditable name="Right Sidebar: Title" -->
+					<h2 class="title">Additional Feature</h2>
+					<!-- TemplateEndEditable -->
+				</div>
+				<div class="twelve padding">
+					<!-- TemplateBeginIf cond="_document['Right Sidebar: Image (optional)']" --><!-- TemplateBeginEditable name="Right Sidebar: Image" --><img src="../includes/img/234x146.jpg" alt="Brian L. Strom, Chancellor"><!-- TemplateEndEditable --><!-- TemplateEndIf --><!-- TemplateBeginEditable name="Right Sidebar: Text Area" -->
+					<p>This short blurb of text serves as a great place to highlight information. For interest, you can add photos, video, or audio to this space. You can have more than one sidebar.</p>
+					<!-- TemplateEndEditable -->
+				</div>
+			</div>
+			</div>
+			<!-- TemplateEndRepeat -->
+		</div>
+		</div><!-- #end-of-right-sidebar -->
 
-<!-- ########################## -->
-<!-- TO SHOW CAMPUS STATUS REMOVE -->
-<!-- style="display:none;" on line below -->
-<div class="alertmsgbox" style="display:none;">
-<!-- #start-alert-message-header -->
-<div class="alertmsgheader">Campus Status Update</div>
-<!-- #end-alert-message-header -->
+		<!-- Left Sidebar
+		====================== -->
+		<div id="side_bar-home" class="three pull-nine mobile-four columns padding">
+		<div class="row">
+			<!-- Quick Link Section -->
+			<div class="ten columns end padding">
+				<h2 class="title"><!-- TemplateBeginEditable name="Left Sidebar: Quick Link Title" -->Quick Links<!-- TemplateEndEditable --></h2>
+				<ul class="bullets-green">
+					<!-- TemplateBeginRepeat name="Quick Link" --><!-- TemplateBeginEditable name="Left Sidebar: Quick Link" -->
+					<li><a href="#" target="_blank">Quick Link (Click repeat to duplicate)</a></li>
+					<!-- TemplateEndEditable --><!-- TemplateEndRepeat -->
+				</ul>
+			</div>
+			<!-- Social Media Section -->
+			<!--
+			<div class="ten columns end padding socialmedia">
+				<h2 class="title">Follow Us</h2>
+				<ul>
+					<li><a href="#"><img src="includes/img/facebook.jpg" />Facebook</a></li>
+					<li><a href="#"><img src="includes/img/twitter.jpg" />Twitter</a></li>
+				</ul>
+			</div>
+			-->
+		</div>
+		</div><!-- #end-of-left-sidebar -->
+		
+	</div>
+	</div><!-- #end-of-all-content -->
 
-<p><!--#include virtual="../emergencyindex.txt" --></p>
-<!-- START LINKS TO CAMPUSES -->
-<!-- <div class="item-list alertmsglist">
-<ul>
-<li><a href="" target="_blank">Link 1</a></li>
-<li><a href="" target="_blank">Link 2</a></li>
-<li><a href="" target="_blank">Link 3</a></li>
-</ul>
-</div>-->
-<!-- END LINKS TO CAMPUSES -->
-
-</div>
-<!-- ########################## -->
-<!-- END EMERGENCY INFO BOX -->
-
-<!-- Main Content
-====================== -->
-<div id="main" class="six push-three columns"><br />
-<h1 class="title"><!-- TemplateBeginEditable name="Main Content Area Title" -->Main Homepage Text<!-- TemplateEndEditable --></h1>
-<!-- TemplateBeginEditable name="Main Content Area Text" -->
-<p>Lorem ipsum dolor sit amet, consectetuer adipicing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
-<p>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</p>
-<ul>
-<li>Donec quam felis,</li>
-<li>ultricies nec, pellentesque eu,</li>
-<li>pretium quis, sem.</li>
-</ul>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <a href="#" target="_blank">Read more</a>.</p>
-<!-- TemplateEndEditable --></div>
-<!-- #end-of-main-content-area -->
-
-<!-- Right Sidebar
-====================== --><!-- TemplateBeginRepeat name="Right Sidebar" -->
-<div class="three push-three columns" id="rightsidebar">
-<div id="home-rite_sidebar" class="row"><br />
-<div class="panel padding">
-<div class="row">
-<div class="twelve columns"><!-- TemplateBeginEditable name="Right Sidebar Region Title" -->
-<h2 class="title">Additional Feature</h2>
-<!-- TemplateEndEditable --></div>
-<div class="twelve padding"><!-- TemplateBeginIf cond="_document['Right Sidebar Region Image (optional)']" --><!-- TemplateBeginEditable name="Right Sidebar Region Image" --><img src="../includes/img/234x146.jpg" alt="Brian L. Strom, Chancellor"><!-- TemplateEndEditable --><!-- TemplateEndIf --><!-- TemplateBeginEditable name="Right Sidebar Region Text" -->
-<p>This short blurb of text serves as a great place to highlight information. For interest, you can add photos, video, or audio to this space. You can have more than one sidebar.</p>
-<!-- TemplateEndEditable --></div>
-</div>
-</div>
-</div>
-</div>
-<!-- TemplateEndRepeat --><!-- #end-of-right-sidebar -->
-
-<!-- Left Sidebar
-====================== -->
-<div id="side_bar-home" class="three pull-nine mobile-four columns padding">
-<div class="row">
-<!-- First Section -->
-<div class="ten columns end padding">
-<h2 class="title"><!-- TemplateBeginEditable name="Left Sidebar Region Title" -->Quick Links<!-- TemplateEndEditable --></h2>
-<ul class="bullets-green">
-<!-- TemplateBeginRepeat name="Left Sidebar" --><!-- TemplateBeginEditable name="Left Sidebar Region Links" -->
-<li><a href="#" target="_blank">Quick Link (Click repeat to duplicate)</a></li>
-<!-- TemplateEndEditable --><!-- TemplateEndRepeat -->
-</ul>
-</div>
-<!-- Second Section -->
-<!--<div class="ten columns end padding socialmedia">
-<h2 class="title">Follow Us</h2>
-<ul>
-<li><a href="#"><img src="includes/img/facebook.jpg" />Facebook</a></li>
-<li><a href="#"><img src="includes/img/twitter.jpg" />Twitter</a></li>
-</ul>
-</div> -->
-</div>
-</div>
-</div>
-</div>
-<!-- #end-of-all-content -->
-
-<!-- Includes Footer -->
-<!--#include virtual="../includes/footer.html" -->
-
+	<!-- Includes Footer -->
+	<!--#include virtual="../includes/footer.html" -->
 </body>
 </html>

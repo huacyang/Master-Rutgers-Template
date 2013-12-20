@@ -1,222 +1,201 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<!-- Set the viewport width to device width for mobile -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<meta name="HandheldFriendly" content="true" />
-<meta name="description" content="With the establishment of Rutgers Biomedical and Health Sciences, Rutgers—already a leading national research university—now stands as one of America’s largest, most comprehensive university-based centers for studying and improving human health and health care.">
-<meta name="keywords" content="rbhs schools and colleges, academic health care, rutgers medical schools, rutgers patient care, Cancer Institute of New Jersey, rbhs health sciences, rutgers biomedical and health sciences, health sciences at Rutgers, rbhs, Rutgers school of dental medicine, leading national research university">
-<!-- title -->
-<!-- TemplateBeginEditable name="doctitle" -->
-<title>Subpage | Rutgers Biomedical and Health Sciences</title>
-<!-- TemplateEndEditable -->
-<!-- Included CSS Files -->
-<link type="text/css" rel="stylesheet" href="../includes/css/templates.css" />
-<link type="text/css" rel="stylesheet" href="../includes/css/class.css" />
-<link type="text/css" rel="stylesheet" href="../includes/css/override.css" />
-<!-- TemplateBeginEditable name="templateCSS" -->
-<link type="text/css" rel="stylesheet" href="../includes/css/standard_subpage.css" />
-<!-- TemplateEndEditable -->
-<!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
-<!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
-<!-- Favicon -->
-<link rel="shortcut icon" href="../images/favicon-sun.ico" />
-<!-- Hide Bootstrap
-    <link type="text/css" rel="stylesheet" media="only screen and (max-width: 1100px)" href="includes/css/hide.css" />-->
-<!-- Custom Tablet -->
-<link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="../includes/css/tablet.css" />
-<!-- Custom Mobile -->
-<link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="../includes/css/mobile.css" />
-<!-- Included JavaScript Files -->
-<script type="text/javascript" src="../includes/js/modernizr.js"></script>
-<script type="text/javascript" src="../includes/js/jquery.js"></script>
-<script type="text/javascript" src="../includes/js/jquery-json.js"></script>
-<script type="text/javascript" src="../includes/js/templates.js"></script>
-<!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
-<!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
-<script type="text/javascript" src="../includes/js/home.js"></script>
-<script type="text/javascript" src="../includes/js/rbhs.js"></script>
-<!-- TemplateBeginEditable name="head" -->
-<!-- TemplateEndEditable -->
-<!-- TemplateParam name="Right Sidebar Region Image (optional)" type="boolean" value="true" -->
-<!-- TemplateParam name="Right Sidebar Region Image" type="boolean" value="true" -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="description" content="With the establishment of Rutgers Biomedical and Health Sciences, Rutgers—already a leading national research university—now stands as one of America’s largest, most comprehensive university-based centers for studying and improving human health and health care.">
+	<meta name="keywords" content="rbhs schools and colleges, academic health care, rutgers medical schools, rutgers patient care, Cancer Institute of New Jersey, rbhs health sciences, rutgers biomedical and health sciences, health sciences at Rutgers, rbhs, Rutgers school of dental medicine, leading national research university">
+	
+	<!-- title -->
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Subpage | Standard</title>
+	<!-- TemplateEndEditable -->
+
+	<!-- Included CSS Files -->
+	<link type="text/css" rel="stylesheet" href="../includes/css/templates.css" />
+	<link type="text/css" rel="stylesheet" href="../includes/css/class.css" />
+	<link type="text/css" rel="stylesheet" href="../includes/css/override.css" />
+	<!-- TemplateBeginEditable name="templateCSS" -->
+	<link type="text/css" rel="stylesheet" href="../includes/css/standard_subpage.css" />
+	<!-- TemplateEndEditable -->
+	<!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
+	<!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="../images/favicon-sun.ico" />
+	<!-- Custom Tablet -->
+	<link type="text/css" rel="stylesheet" media="only screen and (max-width: 979px)" href="../includes/css/tablet.css" />
+	<!-- Custom Mobile -->
+	<link type="text/css" rel="stylesheet" media="only screen and (max-width: 400px)" href="../includes/css/mobile.css" />
+	
+	<!-- Included JavaScript Files -->
+	<script type="text/javascript" src="../includes/js/modernizr.js"></script>
+	<script type="text/javascript" src="../includes/js/jquery.js"></script>
+	<script type="text/javascript" src="../includes/js/jquery-json.js"></script>
+	<script type="text/javascript" src="../includes/js/templates.js"></script>
+	<!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
+	<!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
+	<script type="text/javascript" src="../includes/js/home.js"></script>
+	<script type="text/javascript" src="../includes/js/rbhs.js"></script>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-XXXXX-X']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+	<!-- TemplateParam name="Right Sidebar: Image (optional)" type="boolean" value="true" -->
+	<!-- TemplateParam name="Right Sidebar: Image" type="boolean" value="true" -->
 </head>
 <body>
-<div class="row" id="headrow">
+	<div class="row" id="headrow">
 	<div class="twelve columns" >
-		<!-- Includes Header -->
-        <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-XXXXX-X']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
 		<!-- Includes Header -->
 		<!--#include virtual="../includes/header.html" -->
 		<!-- Includes Navigation -->
 		<!--#include virtual="../includes/nav.html" -->
 	</div>
-</div>
+	</div>
 
-<!-- Slideshow
-    ====================== -->
-<div class="row" id="contentrowhome">
+	<!-- Banner Area
+	====================== -->
+	<div class="row" id="contentrowhome">
 	<div class="twelve columns">
 		<br />
 	</div>
-</div>
-<!-- #end-of-slideshow -->
+	</div>
+	<!-- #end-of-banner-area -->
 
-<div class="row" style="position:static;">
+	<div class="row" style="position:static;">
 	<div class="twelve columns shiftup_ex bg-white" id="mainhold">
-    
-        <!-- ########################## -->
-        <!-- TO SHOW CAMPUS STATUS REMOVE -->
-        <!-- style="display:none;" on line below -->
-		 <div class="alertmsgbox" style="display:none;">
-            <!-- #start-alert-message-header -->
-            <div class="alertmsgheader">Campus Status Update</div>
-            <!-- #end-alert-message-header -->
-            
-            <p><!--#include virtual="../emergencyindex.txt" --></p>
-            <!-- START LINKS TO CAMPUSES -->
-            <!-- <div class="item-list alertmsglist">
-             	<ul>
-                	<li><a href="" target="_blank">Link 1</a></li>
-                	<li><a href="" target="_blank">Link 2</a></li>
-                	<li><a href="" target="_blank">Link 3</a></li>
-                </ul>
-            </div>-->
-            <!-- END LINKS TO CAMPUSES -->
-        
-        </div>
-        <!-- ########################## -->
-        <!-- END EMERGENCY INFO BOX -->
+		<!-- ############################ -->
+		<!-- TO SHOW CAMPUS STATUS REMOVE THE FOLLOWING ON LINE BELOW: style="display:none;" -->
+		<div class="alertmsgbox" style="display:none;">
+			<!-- #start-alert-message-header -->
+			<div class="alertmsgheader">Campus Status Update</div>
+			<!-- #end-alert-message-header -->
 
-		 <!-- Main Content
-        ====================== -->
-	  <div id="main" class="six push-three columns"><br />
+			<p><!--#include virtual="../emergencyindex.txt" --></p>
+			<!--
+			<div class="item-list alertmsglist">
+			<ul>
+				<li><a href="" target="_blank">Link 1</a></li>
+				<li><a href="" target="_blank">Link 2</a></li>
+				<li><a href="" target="_blank">Link 3</a></li>
+			</ul>
+			</div>-->
+		</div><!-- #end-of-emergency-info-box -->
+		<!-- ############################ -->
+
+		<!-- Main Content
+		====================== -->
+		<div id="main" class="six push-three columns"><br />
 			<!-- TemplateBeginEditable name="Main Content: Title" --><h1 class="title">Standard Page</h1><!-- TemplateEndEditable -->
 			<!-- TemplateBeginEditable name="Main Content: Text Area" -->
-           <p>
-           	There is no new content.
-           </p>
+			<p>There is no new content.</p>
 			<ul style="list-style-type: none;">
-            	<li>
-                Need a page that keeps the focus on the information itself? Then a standard page is a good choice. This template works well for most sites' subpages.
-               </li>
-               <li>
-               While this page doesn't feature a large image at the top, you can embed images in the page itself, add sidebars (with or without images), put in galleries of photos, or add video clips.
-               </li>
-           </ul>
+				<li>Need a page that keeps the focus on the information itself? Then a standard page is a good choice. This template works well for most sites' subpages.</li>
+				<li>While this page doesn't feature a large image at the top, you can embed images in the page itself, add sidebars (with or without images), put in galleries of photos, or add video clips.</li>
+			</ul>
 			<h2>Heading Options</h2>
 			<p>Even if you just stick to text, you have a number of ways to change the text formatting to give structure and clarity to the page. Using different-sized headers reinforces your organization of the material.</p>
 			<h2>Heading Size 2</h2>
 			<h3>HEADING SIZE 3</h3>
-			<h4>Heading Size 4<br>
-			   </h4>
+			<h4>Heading Size 4<br></h4>
 			<h2>Other Types of Formatting</h2>
 			<p>The standard text style for Rutgers' websites is FONT and SIZE. You can create bulleted lists, like this one that displays other formatting options:</p>
 			<ul>
-			  <li><strong>Bolded Text</strong></li>
-			  <li><em>Italicized Text</em></li>
-			  <li>Strike Through</li>
-			  <li><u>Underlined Text—avoid using because viewer might think it is a link!</u></li>
-			  <li>Special Characters: á, ñ, @, ¾, ►, %, etc.</li>
-		    </ul>
+				<li><strong>Bolded Text</strong></li>
+				<li><em>Italicized Text</em></li>
+				<li>Strike Through</li>
+				<li><u>Underlined Text—avoid using because viewer might think it is a link!</u></li>
+				<li>Special Characters: á, ñ, @, ¾, ►, %, etc.</li>
+			</ul>
 			<p>&nbsp;</p>
-			<!-- TemplateEndEditable --></div>
-		<!-- #end-of-main-content-area -->
+			<!-- TemplateEndEditable -->
+		</div><!-- #end-of-main-content-area -->
 
 		<!-- Right Sidebar
-        ====================== --><!-- TemplateBeginRepeat name="Right Sidebar: Title" -->
-        <div class="three push-three columns" id="rightsidebar">
-          <div id="home-rite_sidebar" class="row"><br />
-            <div class="panel padding">
-              <div class="row">
-                <div class="twelve columns"><!-- TemplateBeginEditable name="Right Side: Title" -->
-                <h2 class="title">Always an Option: The Sidebar</h2>
-                <!-- TemplateEndEditable --></div>
-                <div class="twelve padding"> 
-                <!-- TemplateBeginIf cond="_document['Right Sidebar: Image (optional)']" --><!-- TemplateBeginEditable name="Right Sidebar: Image (optional)" --><img src="" alt=""><!-- TemplateEndEditable --><!-- TemplateEndIf -->
-                <!-- Panel One -->
-                <!-- TemplateBeginEditable name="Right Sidebar: Text Area" --> 
-                <div id="template_right_container">
-                    <p id="item1_paragraph">
-                    You always have the option of adding a sidebar to your subpages. These short text boxes automatically appear on the 						right-side of the page, and serve as a great place to highlight information.
-    					For interest, you can add photos, video, or audio to sidebars.
-                    </p>
-          
-                    <ul>
-                        <h6>See It in Action: Sidebars</h6>
-                        <li>
-                                <a href="schools.shtml">
-                                U.S. News & World Report "Best Graduate School" sidebar on the Graduate School of Eduction website
-                             </a>     
-                        </li>
-                    </ul>
-                </div>
-
-            <!-- TemplateEndEditable -->
-            
-            </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- TemplateEndRepeat --><!-- #end-of-right-sidebar -->
+		====================== -->
+		<div class="three push-three columns" id="rightsidebar">
+		<div id="home-rite_sidebar" class="row"><br />
+			<!-- TemplateBeginRepeat name="Right Sidebar" -->
+			<div class="panel padding">
+			<div class="row">
+				<div class="twelve columns">
+					<!-- TemplateBeginEditable name="Right Side: Title" -->
+					<h2 class="title">Always an Option: The Sidebar</h2>
+					<!-- TemplateEndEditable -->
+				</div>
+				<div class="twelve padding"> 
+					<!-- TemplateBeginIf cond="_document['Right Sidebar: Image (optional)']" --><!-- TemplateBeginEditable name="Right Sidebar: Image" --><img src="" alt=""><!-- TemplateEndEditable --><!-- TemplateEndIf -->
+					<!-- Panel One -->
+					<!-- TemplateBeginEditable name="Right Sidebar: Text Area" --> 
+					<div id="template_right_container">
+						<p id="item1_paragraph">You always have the option of adding a sidebar to your subpages. These short text boxes automatically appear on the right-side of the page, and serve as a great place to highlight information. For interest, you can add photos, video, or audio to sidebars.</p>
+						<ul>
+						    <h6>See It in Action: Sidebars</h6>
+						    <li>
+								<a href="schools.shtml">U.S. News & World Report "Best Graduate School" sidebar on the Graduate School of Eduction website</a>     
+						    </li>
+						</ul>
+					</div>
+					<!-- TemplateEndEditable -->
+				</div>
+			</div>
+			</div>
+			<!-- TemplateEndRepeat -->
+		</div>
+		</div><!-- #end-of-right-sidebar -->
 
 		<!-- Left Sidebar
-        ====================== -->
+		====================== -->
 		<div id="side_bar-home" class="three pull-nine mobile-four columns">
-       		<div class="wrapper">
-            <!-- TemplateBeginEditable name="Left Sidebar: Title" --><h2>Quick Links</h2><!-- TemplateEndEditable -->
+		<div class="wrapper">
+			<!-- TemplateBeginEditable name="Left Sidebar: Quick Link Title" --><h2>Titan</h2><!-- TemplateEndEditable -->
 			<div class="row">
-				<!-- First Section -->
-			  <div class="ten columns end sidenav-shift">
-              <ul class="nav-bar vertical small">
-			  <!-- TemplateBeginRepeat name="Left Sidebar: Links" -->
-			  <!-- TemplateBeginEditable name="Left Sidebar: Links" -->
-                <li>Sidebar Link (Repeatable)</li>
-			  <!-- TemplateEndEditable -->
-			  <!-- TemplateEndRepeat -->
-              </ul>
-              </div>
-				
+				<!-- Quick Link Section -->
+				<div class="ten columns end sidenav-shift">
+				<ul class="nav-bar vertical small">
+					<!-- TemplateBeginRepeat name="Quick Link" -->
+					<!-- TemplateBeginEditable name="Left Sidebar: Quick Link" -->
+					<li style="list-style-type: none;">Quick Link (repeatable)</li> 
+					<!-- TemplateEndEditable -->
+					<!-- TemplateEndRepeat -->
+				</ul>
+				</div>
 			</div>
-            
-             <!-- Second Section -->
-   <div id="second_panel" class="panel padding">
-    <!-- TemplateBeginEditable name="Left Sidebar: Heading" --> <h2>Related</h2><!-- TemplateEndEditable -->
-    <div class="row">
-    <div class="twelve columns item-list">
-      <ul>
-      <!-- TemplateBeginRepeat name="Left Sidebar: Related Link" -->
-	  <!-- TemplateBeginEditable name="Left Sidebar: Related Link" -->
-        <li><a href="http://www.rutgers.edu/admissions/choosing-rutgers" target="_blank">Related Link (Repeatable)</a></li>
-	  <!-- TemplateEndEditable -->
-      <!-- TemplateEndRepeat -->
-      </ul>
-    </div>
-    </div>
-	</div>
-    </div>
+
+			<!-- Related Link Section -->
+			<div id="second_panel" class="panel padding">
+			<!-- TemplateBeginEditable name="Left Sidebar: Related Link Title" --> <h2>Related</h2><!-- TemplateEndEditable -->
+			<div class="row">
+				<div class="twelve columns item-list">
+				<ul>
+					<!-- TemplateBeginRepeat name="Related Link" -->
+					<!-- TemplateBeginEditable name="Left Sidebar: Related Link" -->
+					<li><a href="/" target="_blank">Related Link (repeatable)</a></li>
+					<!-- TemplateEndEditable -->
+					<!-- TemplateEndRepeat -->
+				</ul>
+				</div>
+			</div>
+			</div>
 		</div>
+		</div><!-- #end-of-left-sidebar -->
+
 	</div>
-</div>
-<!-- #end-of-all-content -->
+	</div><!-- #end-of-all-content -->
 
-<!-- Includes Footer -->
-<!--#include virtual="../includes/footer.html" -->
-
+	<!-- Includes Footer -->
+	<!--#include virtual="../includes/footer.html" -->
 </body>
 </html>
