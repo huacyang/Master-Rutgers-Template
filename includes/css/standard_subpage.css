@@ -1,4 +1,8 @@
-/* For Template Design View - curtosy of Hua Yang*/
+/* 
+ * For Template Design View: Standard Subpage.
+ *   This CSS is intended to be used for Dreamweaver's Design view only!
+ * @author: Alexio Mota
+ */
 
 /* ===========
  * Banner Area
@@ -74,17 +78,23 @@
 	margin-top: -3px;
 	margin-left: 0px;
 }
+
+#side_bar-home ul.nav-bar li {
+	list-style-type: none;
+}
+
 .wrapper {
 	margin-top:0px;
 	margin-left:0px;
 	width:150px;	
 }
+
 .sidenav-shift {
-width:150px;
+	width:150px;
 	margin-top:0px;
 	margin-left:0px;
 }
- 
+
 /* ==================
  * Right Sidebar Area
  * ================== */

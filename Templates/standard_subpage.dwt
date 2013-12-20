@@ -16,7 +16,7 @@
 <link type="text/css" rel="stylesheet" href="../includes/css/class.css" />
 <link type="text/css" rel="stylesheet" href="../includes/css/override.css" />
 <!-- TemplateBeginEditable name="templateCSS" -->
-<link type="text/css" rel="stylesheet" href="../includes/css/subpage.css" />
+<link type="text/css" rel="stylesheet" href="../includes/css/standard_subpage.css" />
 <!-- TemplateEndEditable -->
 <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
 <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
@@ -105,8 +105,8 @@
 		 <!-- Main Content
         ====================== -->
 	  <div id="main" class="six push-three columns"><br />
-			<!-- TemplateBeginEditable name="Main Content Area Title" --><h1 class="title">Standard Page</h1><!-- TemplateEndEditable -->
-			<!-- TemplateBeginEditable name="Main Content Area Text" -->
+			<!-- TemplateBeginEditable name="Main Content: Title" --><h1 class="title">Standard Page</h1><!-- TemplateEndEditable -->
+			<!-- TemplateBeginEditable name="Main Content: Text Area" -->
            <p>
            	There is no new content.
            </p>
@@ -138,18 +138,18 @@
 		<!-- #end-of-main-content-area -->
 
 		<!-- Right Sidebar
-        ====================== --><!-- TemplateBeginRepeat name="Right Sidebar" -->
+        ====================== --><!-- TemplateBeginRepeat name="Right Sidebar: Title" -->
         <div class="three push-three columns" id="rightsidebar">
           <div id="home-rite_sidebar" class="row"><br />
             <div class="panel padding">
               <div class="row">
-                <div class="twelve columns"><!-- TemplateBeginEditable name="Right Side Title" -->
+                <div class="twelve columns"><!-- TemplateBeginEditable name="Right Side: Title" -->
                 <h2 class="title">Always an Option: The Sidebar</h2>
                 <!-- TemplateEndEditable --></div>
                 <div class="twelve padding"> 
-                <!-- TemplateBeginIf cond="_document['Right Sidebar Region Image (optional)']" --><!-- TemplateBeginEditable name="Right Sidebar Region Image" --><img src="" alt=""><!-- TemplateEndEditable --><!-- TemplateEndIf -->
+                <!-- TemplateBeginIf cond="_document['Right Sidebar: Image (optional)']" --><!-- TemplateBeginEditable name="Right Sidebar: Image (optional)" --><img src="" alt=""><!-- TemplateEndEditable --><!-- TemplateEndIf -->
                 <!-- Panel One -->
-                <!-- TemplateBeginEditable name="Right Sidebar Content" --> 
+                <!-- TemplateBeginEditable name="Right Sidebar: Text Area" --> 
                 <div id="template_right_container">
                     <p id="item1_paragraph">
                     You always have the option of adding a sidebar to your subpages. These short text boxes automatically appear on the 						right-side of the page, and serve as a great place to highlight information.
@@ -179,35 +179,34 @@
         ====================== -->
 		<div id="side_bar-home" class="three pull-nine mobile-four columns">
        		<div class="wrapper">
-            <!-- TemplateBeginEditable name="Left Sidebar Title" --><h2>Titan</h2><!-- TemplateEndEditable -->
+            <!-- TemplateBeginEditable name="Left Sidebar: Title" --><h2>Quick Links</h2><!-- TemplateEndEditable -->
 			<div class="row">
 				<!-- First Section -->
 			  <div class="ten columns end sidenav-shift">
-              
-		<!-- TemplateBeginEditable name="Left Sidebar Content" -->
-                <ul class="nav-bar vertical small">
-                	 <li style="list-style-type: none;">Subpage Overview</li>
-                   <li style="list-style-type: none;">
-                   Landing Pages</li>
-                   <li style="list-style-type: none;">Specialized Pages</li>
-				  </ul>
-         <!-- TemplateEndEditable -->
-			  </div>
+              <ul class="nav-bar vertical small">
+			  <!-- TemplateBeginRepeat name="Left Sidebar: Links" -->
+			  <!-- TemplateBeginEditable name="Left Sidebar: Links" -->
+                <li>Sidebar Link (Repeatable)</li>
+			  <!-- TemplateEndEditable -->
+			  <!-- TemplateEndRepeat -->
+              </ul>
+              </div>
 				
 			</div>
             
              <!-- Second Section -->
    <div id="second_panel" class="panel padding">
-    <!-- TemplateBeginEditable name="Left Sidebar Second Panel Heading" --> <h2>Related</h2><!-- TemplateEndEditable -->
+    <!-- TemplateBeginEditable name="Left Sidebar: Heading" --> <h2>Related</h2><!-- TemplateEndEditable -->
     <div class="row">
-    <!-- TemplateBeginEditable name="Left Sidebar Second Panel Items" -->
-        <div class="twelve columns item-list">
-        <ul>
-            <li><a href="http://www.rutgers.edu/admissions/choosing-rutgers" target="_blank">Universitywide Admissions</a></li>
-            <li><a href="http://rutgers.edu/health-sciences/health-sciences-education" target="_blank">University Health Sciences Education</a></li>
-        </ul>
-        </div>
-        <!-- TemplateEndEditable -->
+    <div class="twelve columns item-list">
+      <ul>
+      <!-- TemplateBeginRepeat name="Left Sidebar: Related Link" -->
+	  <!-- TemplateBeginEditable name="Left Sidebar: Related Link" -->
+        <li><a href="http://www.rutgers.edu/admissions/choosing-rutgers" target="_blank">Related Link (Repeatable)</a></li>
+	  <!-- TemplateEndEditable -->
+      <!-- TemplateEndRepeat -->
+      </ul>
+    </div>
     </div>
 	</div>
     </div>
