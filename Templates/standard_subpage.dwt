@@ -56,7 +56,7 @@
 	<!-- TemplateParam name="Right Sidebar: Image" type="boolean" value="true" -->
 </head>
 <body>
-	<div class="row" id="headrow">
+	<div id="headrow" class="row">
 	<div class="twelve columns" >
 		<!-- Includes Header -->
 		<!--#include virtual="../includes/header.html" -->
@@ -65,132 +65,97 @@
 	</div>
 	</div>
 
-	<!-- Banner Area
-	====================== -->
-	<div class="row" id="contentrowhome">
-	<div class="twelve columns">
+	<div id="contentrow" class="row">
+	<div id="shifting" class="twelve columns shiftup bg-white">
+	
+	<div id="submain" class="nine push-three mobile-four columns"><br />
+		<!-- Top Banner Area
+		====================== -->
+		<div class="row">
+		<div class="twelve columns"><!-- TemplateBeginEditable name="Main Content: Image" --><img src="../includes/img/700x230.jpg" alt="" title="" /><!-- TemplateEndEditable --></div>
+		</div>
 		<br />
-	</div>
-	</div>
-	<!-- #end-of-banner-area -->
-
-	<div class="row" style="position:static;">
-	<div class="twelve columns shiftup_ex bg-white" id="mainhold">
-		<!-- ############################ -->
-		<!-- TO SHOW CAMPUS STATUS REMOVE THE FOLLOWING ON LINE BELOW: style="display:none;" -->
-		<div class="alertmsgbox" style="display:none;">
-			<!-- #start-alert-message-header -->
-			<div class="alertmsgheader">Campus Status Update</div>
-			<!-- #end-alert-message-header -->
-
-			<p><!--#include virtual="../emergencyindex.txt" --></p>
-			<!--
-			<div class="item-list alertmsglist">
-			<ul>
-				<li><a href="" target="_blank">Link 1</a></li>
-				<li><a href="" target="_blank">Link 2</a></li>
-				<li><a href="" target="_blank">Link 3</a></li>
-			</ul>
-			</div>-->
-		</div><!-- #end-of-emergency-info-box -->
-		<!-- ############################ -->
-
 		<!-- Main Content
 		====================== -->
-		<div id="main" class="six push-three columns"><br />
-			<!-- TemplateBeginEditable name="Main Content: Title" --><h1 class="title">Standard Page</h1><!-- TemplateEndEditable -->
-			<!-- TemplateBeginEditable name="Main Content: Text Area" -->
-			<p>There is no new content.</p>
-			<ul style="list-style-type: none;">
-				<li>Need a page that keeps the focus on the information itself? Then a standard page is a good choice. This template works well for most sites' subpages.</li>
-				<li>While this page doesn't feature a large image at the top, you can embed images in the page itself, add sidebars (with or without images), put in galleries of photos, or add video clips.</li>
-			</ul>
-			<h2>Heading Options</h2>
-			<p>Even if you just stick to text, you have a number of ways to change the text formatting to give structure and clarity to the page. Using different-sized headers reinforces your organization of the material.</p>
-			<h2>Heading Size 2</h2>
-			<h3>HEADING SIZE 3</h3>
-			<h4>Heading Size 4<br></h4>
-			<h2>Other Types of Formatting</h2>
-			<p>The standard text style for Rutgers' websites is FONT and SIZE. You can create bulleted lists, like this one that displays other formatting options:</p>
-			<ul>
-				<li><strong>Bolded Text</strong></li>
-				<li><em>Italicized Text</em></li>
-				<li>Strike Through</li>
-				<li><u>Underlined Text—avoid using because viewer might think it is a link!</u></li>
-				<li>Special Characters: á, ñ, @, ¾, ►, %, etc.</li>
-			</ul>
-			<p>&nbsp;</p>
-			<!-- TemplateEndEditable -->
+	    <div class="row">
+	    <div id="context" class="eight mobile-four columns">
+		<!-- TemplateBeginEditable name="Main Content: Title" --><h1 id="page-title">Standard Page</h1><!-- TemplateEndEditable -->
+		<!-- TemplateBeginEditable name="Main Content: Text Area" -->
+		<p>There is no new content.</p>
+		<ul>
+			<li>Need a page that keeps the focus on the information itself? Then a standard page is a good choice. This template works well for most sites' subpages.</li>
+			<li>While this page doesn't feature a large image at the top, you can embed images in the page itself, add sidebars (with or without images), put in galleries of photos, or add video clips.</li>
+		</ul>
+		<h2>Heading Options</h2>
+		<p>Even if you just stick to text, you have a number of ways to change the text formatting to give structure and clarity to the page. Using different-sized headers reinforces your organization of the material.</p>
+		<h2>Heading Size 2</h2>
+		<h3>HEADING SIZE 3</h3>
+		<h4>Heading Size 4<br></h4>
+		<h2>Other Types of Formatting</h2>
+		<p>The standard text style for Rutgers' websites is FONT and SIZE. You can create bulleted lists, like this one that displays other formatting options:</p>
+		<ul>
+			<li><strong>Bolded Text</strong></li>
+			<li><em>Italicized Text</em></li>
+			<li>Strike Through</li>
+			<li><u>Underlined Text—avoid using because viewer might think it is a link!</u></li>
+			<li>Special Characters: á, ñ, @, ¾, ►, %, etc.</li>
+		</ul>
+		<p>&nbsp;</p>
+		<!-- TemplateEndEditable -->
 		</div><!-- #end-of-main-content-area -->
 
 		<!-- Right Sidebar
 		====================== -->
-		<div class="three push-three columns" id="rightsidebar">
-		<div id="home-rite_sidebar" class="row"><br />
+		<div id="side_bar" class="four mobile-four columns">
+        <ul>
 			<!-- TemplateBeginRepeat name="Right Sidebar" -->
-			<div class="panel padding">
-			<div class="row">
-				<div class="twelve columns">
-					<!-- TemplateBeginEditable name="Right Side: Title" -->
-					<h2 class="title">Always an Option: The Sidebar</h2>
-					<!-- TemplateEndEditable -->
-				</div>
-				<div class="twelve padding"> 
-					<!-- TemplateBeginIf cond="_document['Right Sidebar: Image (optional)']" --><!-- TemplateBeginEditable name="Right Sidebar: Image" --><img src="" alt=""><!-- TemplateEndEditable --><!-- TemplateEndIf -->
-					<!-- Panel One -->
-					<!-- TemplateBeginEditable name="Right Sidebar: Text Area" --> 
-					<div id="template_right_container">
-						<p id="item1_paragraph">You always have the option of adding a sidebar to your subpages. These short text boxes automatically appear on the right-side of the page, and serve as a great place to highlight information. For interest, you can add photos, video, or audio to sidebars.</p>
-						<ul>
-						    <h6>See It in Action: Sidebars</h6>
-						    <li>
-								<a href="schools.shtml">U.S. News & World Report "Best Graduate School" sidebar on the Graduate School of Eduction website</a>     
-						    </li>
-						</ul>
-					</div>
-					<!-- TemplateEndEditable -->
-				</div>
-			</div>
-			</div>
+            <li><!-- TemplateBeginEditable name="Right Sidebar: Title" -->
+              <h2>Always an Option: The Sidebar</h2>
+            <!-- TemplateEndEditable --><!-- TemplateBeginIf cond="_document['Right Sidebar: Image (optional)']" -->
+            <div style="width:208px;margin: 0 auto;"><!-- TemplateBeginEditable name="Right Sidebar: Image" --><img src="../includes/img/200x125.jpg" style="width: 208px;padding-top:5px;"><!-- TemplateEndEditable --></div>
+            <!-- TemplateEndIf -->
+            <!-- TemplateBeginEditable name="Right Sidebar: Text Area" -->
+            <p>You always have the option of adding a sidebar to your subpages. These short text boxes automatically appear on the right-side of the page, and serve as a great place to highlight information. </p>
+            <p>For interest, you can add photos, video, or audio to sidebars.</p>
+            <!-- TemplateEndEditable -->
+            </li>
+            
 			<!-- TemplateEndRepeat -->
-		</div>
+        </ul>
 		</div><!-- #end-of-right-sidebar -->
+	</div>
+	</div><!-- #end-of-main-content-area -->
 
-		<!-- Left Sidebar
-		====================== -->
-		<div id="side_bar-home" class="three pull-nine mobile-four columns">
-		<div class="wrapper">
-			<!-- TemplateBeginEditable name="Left Sidebar: Quick Link Title" --><h2>Titan</h2><!-- TemplateEndEditable -->
-			<div class="row">
-				<!-- Quick Link Section -->
-				<div class="ten columns end sidenav-shift">
-				<ul class="nav-bar vertical small">
-					<!-- TemplateBeginRepeat name="Quick Link" -->
-					<!-- TemplateBeginEditable name="Left Sidebar: Quick Link" -->
-					<li style="list-style-type: none;">Quick Link (repeatable)</li> 
-					<!-- TemplateEndEditable -->
-					<!-- TemplateEndRepeat -->
-				</ul>
-				</div>
-			</div>
-
-			<!-- Related Link Section -->
-			<div id="second_panel" class="panel padding">
-			<!-- TemplateBeginEditable name="Left Sidebar: Related Link Title" --> <h2>Related</h2><!-- TemplateEndEditable -->
-			<div class="row">
-				<div class="twelve columns item-list">
-				<ul>
-					<!-- TemplateBeginRepeat name="Related Link" -->
-					<!-- TemplateBeginEditable name="Left Sidebar: Related Link" -->
-					<li><a href="/" target="_blank">Related Link (repeatable)</a></li>
-					<!-- TemplateEndEditable -->
-					<!-- TemplateEndRepeat -->
-				</ul>
-				</div>
-			</div>
-			</div>
+	<!-- Left Sidebar
+	====================== -->
+	<div id="side_nav" class="three pull-nine mobile-four columns">
+	<div class="wrapper">
+	    <!-- Quick Link Section --><!-- TemplateBeginEditable name="Left Sidebar: Quick Link Title" -->
+	    <h2>Explore Subpages</h2>
+	    <!-- TemplateEndEditable -->
+	    <div class="row">
+	        <div class="twelve columns sidenav-shift">
+	        <ul class="nav-bar vertical small">
+            <!-- TemplateBeginRepeat name="Quick Link" --><!-- TemplateBeginEditable name="Left Sidebar: Quick Link" -->
+	            <li id=""><a href="/">Subpage Link (repeatable)</a></li>
+                <!-- TemplateEndEditable --><!-- TemplateEndRepeat -->
+	        </ul>
+	        </div>
 		</div>
-		</div><!-- #end-of-left-sidebar -->
+		<div class="panel padding">
+	    <h2><!-- TemplateBeginEditable name="Left Sidebar: Related Link Title" -->Related<!-- TemplateEndEditable --></h2>
+	    <div class="row">
+	        <div class="twelve columns item-list">
+	        <ul>
+            <!-- TemplateBeginRepeat name="Related Link" --><!-- TemplateBeginEditable name="Left Sidebar: Related Link" -->
+	            <li><a href="/" target="_blank">Related Link (repeatable)</a></li>
+                <!-- TemplateEndEditable --><!-- TemplateEndRepeat -->
+	        </ul>
+	        </div>
+	    </div>
+		</div>
+	</div>
+	</div><!-- #end-of-left-sidebar -->
 
 	</div>
 	</div><!-- #end-of-all-content -->

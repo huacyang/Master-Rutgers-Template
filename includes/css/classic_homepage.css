@@ -1,7 +1,6 @@
 /* 
  * For Template Design View: Classic Homepage.
  *   This CSS is intended to be used for Dreamweaver's Design view only!
- * @author: Hua Yang
  */
 
 /* ===========
@@ -84,11 +83,12 @@
  * ================== */
 #rightsidebar {
 	width: 210px;
-	margin-left: 20px;
+	float:right;
 }
 
+#home-rite_sidebar div,
 #home-rite_sidebar .panel {
-	width:210px;	
+	width: 210px;	
 }
 
 #home-rite_sidebar img {
@@ -107,11 +107,11 @@
  * ================= */
 #mainhold {
 	width: 1010px;
-	height: 600px;
+	height: 900px;
 	margin-top: -78px;
 }
 
 #main {
-	width: 520px;	
-	margin-left: -30px;
+	width: 720px;	
+	margin-left: 0px;
 }

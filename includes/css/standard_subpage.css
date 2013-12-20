@@ -1,7 +1,6 @@
 /* 
  * For Template Design View: Standard Subpage.
  *   This CSS is intended to be used for Dreamweaver's Design view only!
- * @author: Alexio Mota
  */
 
 /* ===========
@@ -33,31 +32,13 @@
 	width: 1012px;
 }
 
-/* ===========
- * Header Area
- * =========== */
-#contentrowhome {
-	margin-top: 20px;
-}
-
-#home-banner-area img {
-	width: 443px;
-	height: 225px;	
-	margin-top: -16px;
-	padding: 0x;
-}
-
-#home-banner-area .text-area {
-	margin-left: -70px !important;
-	margin-top: -65px !important;
-}
 
 /* ===============
  * Navigation Area
  * ===============
  */
 .top-bar ul {
-	width: 1012px !important;	
+	width: 1008px !important;	
 	height: 38px;
 }
 
@@ -73,61 +54,86 @@
 /* =================
  * Left Sidebar Area
  * ================= */
-#side_bar-home {
+#side_nav {
+	margin-top: -1200px;
+	margin-left: 780px;
+	width: 200px;
+}
+
+#side_nav div.row {
+	width: 220px;	
+}
+
+#side_nav div {
+	width: 175px;	
+}
+
+#side_nav .sidenav-shift {
+	width: 175px;	
+}
+
+#side_nav .panel {
+	width: 190px;	
+}
+
+#side_nav .wrapper {
 	width: 150px;
-	margin-top: -3px;
+	margin-top: 0px;
 	margin-left: 0px;
 }
 
-#side_bar-home ul.nav-bar li {
+#side_nav ul.nav-bar li {
 	list-style-type: none;
 }
 
-.wrapper {
-	margin-top:0px;
-	margin-left:0px;
-	width:150px;	
+#side_nav .item-list {
+	margin-left: 10px
 }
 
-.sidenav-shift {
-	width:150px;
-	margin-top:0px;
-	margin-left:0px;
+#side_nav .item-list ul {
+	margin-left: -20px;	
 }
 
 /* ==================
  * Right Sidebar Area
  * ================== */
-#rightsidebar {
-	width: 210px;
-	margin-left: 20px;
+#side_bar {
+	margin-left: 455px;
+	margin-top: -910px;
 }
 
-#home-rite_sidebar .panel {
-	width:210px;	
-}
-
-#home-rite_sidebar img {
-	width: 214px !important;
-	height: 146px !important;
-	padding: 0px;
-	margin: 0px;
-}
-
-#home-rite_sidebar p {
-	width: 215px;	
+#side_bar img {
+	margin-top: 5px;
 }
 
 /* =================
  * Main Content Area
  * ================= */
-#mainhold {
-	width: 1010px;
-	height: 900px;
-	margin-top: -78px;
+#submain {
+	width: 700px !important;	
+	margin-left: 30px;
 }
 
-#main {
-	width: 520px;	
-	margin-left: -30px;
+#submain > div {
+	width: 710px;
+}
+
+#submain > div > div > img {
+	width: 750px;
+	height: 300px;
+}
+
+#submain #context {
+	width: 400px;
+}
+
+#submain .side_bar {
+	width: 220px;	
+}
+
+#shifting {
+	margin-left: 0px;
+	margin-top: -42px;
+	width: 1011px;
+	height: 1360px;
 }
