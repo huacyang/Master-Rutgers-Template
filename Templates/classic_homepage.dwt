@@ -120,7 +120,7 @@
 			<p>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</p>
 			<ul>
 				<li>Donec quam felis,</li>
-				<li>ultricies nec, pellentesque eu,</li>
+				<li>ultricies nec, pellentesque eu,				</li>
 				<li>pretium quis, sem.</li>
 			</ul>
 			<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <a href="#" target="_blank">Read more</a>.</p>
