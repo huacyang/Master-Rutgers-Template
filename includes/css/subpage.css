@@ -1,0 +1,123 @@
+/* For Template Design View - curtosy of Hua Yang*/
+
+/* ===========
+ * Banner Area
+ * =========== */
+#masthead {
+	width: 1040px;
+	padding: 0px;
+	float: left;
+}
+
+#header {
+	width: 1040px;	
+}
+
+#block-menu-menu-sliver {
+	width: 500px;	
+}
+
+#block-ru-search-rusearch {
+	margin-left: 20px;
+}
+
+#forms {
+	width: 270px;
+}
+
+#nav-wrapper {
+	width: 1012px;
+}
+
+/* ===========
+ * Header Area
+ * =========== */
+#contentrowhome {
+	margin-top: 20px;
+}
+
+#home-banner-area img {
+	width: 443px;
+	height: 225px;	
+	margin-top: -16px;
+	padding: 0x;
+}
+
+#home-banner-area .text-area {
+	margin-left: -70px !important;
+	margin-top: -65px !important;
+}
+
+/* ===============
+ * Navigation Area
+ * ===============
+ */
+.top-bar ul {
+	width: 1012px !important;	
+	height: 38px;
+}
+
+.top-bar ul li a {
+	text-align: center;
+	color: #FFFFFF;
+	height: 15px;
+	line-height: 1.8;
+	padding: 3px 28px 12px;
+	width: auto !important;
+}
+ 
+/* =================
+ * Left Sidebar Area
+ * ================= */
+#side_bar-home {
+	width: 150px;
+	margin-top: -3px;
+	margin-left: 0px;
+}
+.wrapper {
+	margin-top:0px;
+	margin-left:0px;
+	width:150px;	
+}
+.sidenav-shift {
+width:150px;
+	margin-top:0px;
+	margin-left:0px;
+}
+ 
+/* ==================
+ * Right Sidebar Area
+ * ================== */
+#rightsidebar {
+	width: 210px;
+	margin-left: 20px;
+}
+
+#home-rite_sidebar .panel {
+	width:210px;	
+}
+
+#home-rite_sidebar img {
+	width: 214px !important;
+	height: 146px !important;
+	padding: 0px;
+	margin: 0px;
+}
+
+#home-rite_sidebar p {
+	width: 215px;	
+}
+
+/* =================
+ * Main Content Area
+ * ================= */
+#mainhold {
+	width: 1010px;
+	height: 900px;
+	margin-top: -78px;
+}
+
+#main {
+	width: 520px;	
+	margin-left: -30px;
+}
