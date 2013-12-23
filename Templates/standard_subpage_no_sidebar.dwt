@@ -5,12 +5,18 @@
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 <meta name="HandheldFriendly" content="true" />
-<meta name="description" content="With the establishment of Rutgers Biomedical and Health Sciences, Rutgers—already a leading national research university—now stands as one of America’s largest, most comprehensive university-based centers for studying and improving human health and health care.">
-<meta name="keywords" content="rbhs schools and colleges, academic health care, rutgers medical schools, rutgers patient care, Cancer Institute of New Jersey, rbhs health sciences, rutgers biomedical and health sciences, health sciences at Rutgers, rbhs, Rutgers school of dental medicine, leading national research university">
+	<!-- TemplateBeginEditable name="Metadata: Description" -->
+	<meta name="description" content="">
+	<!-- TemplateEndEditable -->
+	<!-- TemplateBeginEditable name="Metadata: Keywords" -->
+	<meta name="keywords" content="">
+	<!-- TemplateEndEditable -->
+    
 <!-- title -->
 <!-- TemplateBeginEditable name="doctitle" -->
 <title>Subpage | Standard</title>
 <!-- TemplateEndEditable -->
+
 <!-- Included CSS Files -->
 <link type="text/css" rel="stylesheet" href="../includes/css/templates.css" />
 <link type="text/css" rel="stylesheet" href="../includes/css/class.css" />
@@ -33,7 +39,7 @@
 <script type="text/javascript" src="../includes/js/templates.js"></script>
 <!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
 <!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
-<script type="text/javascript" src="../includes/js/home.js"></script>
+<script type="text/javascript" src="../includes/js/nav.js"></script>
 <script type="text/javascript" src="../includes/js/rbhs.js"></script>
 <script type="text/javascript">
 		var _gaq = _gaq || [];
