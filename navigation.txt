@@ -1,0 +1,8 @@
+Home : index.shtml
+About the Senate : about.shtml
+Members : members.shtml
+Committees : committees.shtml
+Meetings : meetings.shtml
+Minutes : minutes.shtml
+Join : join.shtml
+Reports : reports.shtml

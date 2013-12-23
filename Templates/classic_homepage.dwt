@@ -18,7 +18,7 @@
 	<link type="text/css" rel="stylesheet" href="../includes/css/class.css" />
 	<link type="text/css" rel="stylesheet" href="../includes/css/override.css" />
 	<!-- TemplateBeginEditable name="templateCSS" -->
-	<link type="text/css" rel="stylesheet" href="../includes/css/classic_homepage.css" />
+	<link type="text/css" rel="stylesheet" href="../includes/css/templates/classic_homepage.css" />
 	<!-- TemplateEndEditable -->
 	<!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
 	<!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
@@ -36,8 +36,8 @@
 	<script type="text/javascript" src="../includes/js/templates.js"></script>
 	<!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
 	<!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
-	<script type="text/javascript" src="../includes/js/home.js"></script>
-	<script type="text/javascript" src="../includes/js/rbhs.js"></script>
+	<script type="text/javascript" src="../includes/js/nav.js"></script>
+	<script type="text/javascript" src="includes/js/rbhs.js"></script>
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
 		// Change "UA-XXXXX-X" to the actual Google Analytics account number 
@@ -59,11 +59,73 @@
 <body>
 	<div class="row" id="headrow">
 	<div class="twelve columns" >
+		<!-- Header Area
+		====================== -->
+		<div id="header" class="row">
+		<div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix">  
+		<div id="zone-user" class="zone zone-user clearfix container-12">
+			<div class="grid-7 region region-user-first" id="region-user-first">
+			<div class="region-inner region-user-first-inner">
+			<div class="block block-menu block-menu-sliver block-menu-menu-sliver odd block-without-title" id="block-menu-menu-sliver" style="">
+			<div class="block-inner clearfix">
+			<div class="content clearfix">
+				<ul class="menu"><li class="first leaf"><a href="http://www.rutgers.edu" title="">Rutgers Home</a></li>
+				<li class="leaf"><a href="http://nb.rutgers.edu" target="_blank">New Brunswick</a></li>
+				<li class="leaf"><a href="http://rbhs.rutgers.edu" target="_blank">RBHS</a></li>
+				<li class="leaf"><a href="http://www.newark.rutgers.edu/" target="_blank">Newark</a></li>
+				<li class="leaf"><a href="http://www.camden.rutgers.edu/" target="_blank">Camden</a></li>
+				<li class="last leaf verylast"><a href="http://onlinelearning.rutgers.edu/" target="_blank">Online</a></li>
+				</ul>
+			</div>
+			</div>
+			</div>
+			</div>
+			</div>
+			
+			<div class="grid-5 region region-user-second" id="region-user-second">
+			<div class="region-inner region-user-second-inner">
+				<div class="block block-ru-menu-toggle block-ru-menu-toggle block-ru-menu-toggle-ru-menu-toggle odd block-without-title" id="block-ru-menu-toggle-ru-menu-toggle">
+				<div class="block-inner clearfix">
+					<div class="content clearfix"><div id="menu-toggle"><a id="menu-toggle-link" href="#">Menu</a></div></div>
+				</div>
+				</div>
 
-	<!-- Includes Header -->
-	<!--#include virtual="../includes/header.html" -->
-	<!-- Includes Navigation -->
-	<!--#include virtual="../includes/nav.html" -->
+				<div class="block block-ru-search block-rusearch block-ru-search-rusearch even block-without-title" id="block-ru-search-rusearch">
+				<div class="block-inner clearfix">
+				<div class="content clearfix">
+					<div id="forms"> 
+					<form action="http://search.rutgers.edu/rbhs-search.html" method="GET" name="rusearch" id="rusearch" target="_blank">
+						<input alt="Search term" id="rusearchbox" name="q" size="15" type="text" value="SEARCH" onblur="this.value = (this.value == \'\' ? \'SEARCH\' : this.value);" onclick="this.value = (this.value == \'SEARCH\' ? \'\' : this.value);" onfocus="this.select()">
+						<select id="rusearchselect" onchange="RUSearchSubmitAlter(this.value)">
+						<option value="http://search.rutgers.edu/rbhs-search.html">RBHS</option>
+						<option value="http://search.rutgers.edu/web.html">Websites</option>
+						<option value="http://search.rutgers.edu/people.html">People</option>
+						<option value="http://search.rutgers.edu/events.html">Events</option>
+						<option value="http://search.rutgers.edu/buildings.html">Buildings</option>            
+						</select>
+						<input alt="Submit" id="rusearchbutton" type="submit" value="SEARCH">
+					</form>
+					</div>
+				</div>
+				</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		</div>
+
+		<div id="masthead"><a href="index.shtml"><img src="http://www.rutgers.edu/sites/www.rutgers.edu/themes/core_base/images/clear.gif" style="width:26%;height:100%;"></a></div>
+		</div><!-- #end-of-header-area -->
+
+		<!-- Navigation Area
+		====================== -->
+		<div id="nav-wrapper" class="row">
+		<nav class="top-bar">
+			<section id="section-wrapper">
+			<ul id="navigation" class="left nav-cover"></ul>
+			</section>
+		</nav>
+		</div><!-- #end-of-navigation-area -->
 	</div>
 	</div>
 
@@ -72,7 +134,6 @@
 	<div class="row" id="contentrowhome">
 	<div class="twelve columns">
 		<div id="home-banner-area" class="shiftup hide-for-small">
-		<div id="home-banner-area2" class="shiftup hide-for-small">
 			<div class="six columns">
 				<!-- TemplateBeginEditable name="Main Feature: Image" -->
 				<img src="../includes/img/443x225.jpg" alt="" title="" />
@@ -83,7 +144,6 @@
 				<p>This flexible, simple layout adds a homepage top feature and homepage top image elements to the layout. It allows for more than one section of text.</p>
 				<!-- TemplateEndEditable -->
 			</div>
-		</div>
 		</div>
 		<br />
 	</div>
@@ -140,7 +200,7 @@
 					<h2 class="title">Additional Feature</h2>
 					<!-- TemplateEndEditable -->
 				</div>
-				<div class="twelve padding">
+				<div class="twelve columns padding">
 					<!-- TemplateBeginIf cond="_document['Right Sidebar: Image (optional)']" --><!-- TemplateBeginEditable name="Right Sidebar: Image" --><img src="../includes/img/234x146.jpg" alt="" title="" /><!-- TemplateEndEditable --><!-- TemplateEndIf --><!-- TemplateBeginEditable name="Right Sidebar: Text Area" -->
 					<p>This short blurb of text serves as a great place to highlight information. For interest, you can add photos, video, or audio to this space. You can have more than one sidebar.</p>
 					<!-- TemplateEndEditable -->

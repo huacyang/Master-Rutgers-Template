@@ -16,7 +16,7 @@
 <link type="text/css" rel="stylesheet" href="../includes/css/class.css" />
 <link type="text/css" rel="stylesheet" href="../includes/css/override.css" />
 <!-- TemplateBeginEditable name="templateCSS" -->
-<link type="text/css" rel="stylesheet" href="../includes/css/templates/standard_subpage.css" />
+<link type="text/css" rel="stylesheet" href="../includes/css/templates/standard_subpage_no_sidebar.css" />
 <!-- TemplateEndEditable -->
 <!--[if lt IE 9]><link type="text/css" rel="stylesheet" href="includes/css/ie8.css" /><![endif]-->
 <!--[if IE 7]><link type="text/css" rel="stylesheet" href="includes/css/ie7.css" /><![endif]-->
@@ -138,7 +138,7 @@
 		<!-- Main Content
 		====================== -->
 	    <div class="row">
-	    <div id="context" class="eight mobile-four columns">
+	    <div id="context" class="twelve mobile-four columns">
 		<!-- TemplateBeginEditable name="Main Content: Title" --><h1 id="page-title">Standard Page</h1><!-- TemplateEndEditable -->
 		<!-- TemplateBeginEditable name="Main Content: Text Area" -->
 		<p>There is no new content.</p>
@@ -163,26 +163,6 @@
 		<p>&nbsp;</p>
 		<!-- TemplateEndEditable -->
 		</div><!-- #end-of-main-content-area -->
-
-		<!-- Right Sidebar
-		====================== -->
-		<div id="side_bar" class="four mobile-four columns">
-        <ul>
-			<!-- TemplateBeginRepeat name="Right Sidebar" -->
-            <li><!-- TemplateBeginEditable name="Right Sidebar: Title" -->
-              <h2>Always an Option: The Sidebar</h2>
-            <!-- TemplateEndEditable --><!-- TemplateBeginIf cond="_document['Right Sidebar: Image (optional)']" -->
-            <div style="width:208px;margin: 0 auto;"><!-- TemplateBeginEditable name="Right Sidebar: Image" --><img src="../includes/img/200x125.jpg" style="width: 208px;padding-top:5px;"><!-- TemplateEndEditable --></div>
-            <!-- TemplateEndIf -->
-            <!-- TemplateBeginEditable name="Right Sidebar: Text Area" -->
-            <p>You always have the option of adding a sidebar to your subpages. These short text boxes automatically appear on the right-side of the page, and serve as a great place to highlight information. </p>
-            <p>For interest, you can add photos, video, or audio to sidebars.</p>
-            <!-- TemplateEndEditable -->
-            </li>
-            
-			<!-- TemplateEndRepeat -->
-        </ul>
-		</div><!-- #end-of-right-sidebar -->
 	</div>
 	</div><!-- #end-of-main-content-area -->
 
@@ -191,13 +171,13 @@
 	<div id="side_nav" class="three pull-nine mobile-four columns">
 	<div class="wrapper">
 	    <!-- Quick Link Section --><!-- TemplateBeginEditable name="Left Navigation: Title" -->
-	    <h2>Left Navigation</h2>
+	    <h2>Explore Subpages</h2>
 	    <!-- TemplateEndEditable -->
 	    <div class="row">
 	        <div class="twelve columns sidenav-shift">
 	        <ul class="nav-bar vertical small">
             <!-- TemplateBeginRepeat name="Link" --><!-- TemplateBeginEditable name="Left Navigation: Link" -->
-	            <li id=""><a href="/">Link (repeatable)</a></li>
+	            <li id=""><a href="/">Subpage Link (repeatable)</a></li>
                 <!-- TemplateEndEditable --><!-- TemplateEndRepeat -->
 	        </ul>
 	        </div>

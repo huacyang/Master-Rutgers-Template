@@ -1,0 +1,139 @@
+/* 
+ * For Template Design View: Standard Subpage.
+ *   This CSS is intended to be used for Dreamweaver's Design view only!
+ */
+
+/* ===========
+ * Banner Area
+ * =========== */
+#masthead {
+	width: 1040px;
+	padding: 0px;
+	float: left;
+}
+
+#header {
+	width: 1040px;	
+}
+
+#block-menu-menu-sliver {
+	width: 500px;	
+}
+
+#block-ru-search-rusearch {
+	margin-left: 20px;
+}
+
+#forms {
+	width: 270px;
+}
+
+#nav-wrapper {
+	width: 1012px;
+}
+
+
+/* ===============
+ * Navigation Area
+ * ===============
+ */
+.top-bar ul {
+	width: 1008px !important;	
+	height: 38px;
+}
+
+.top-bar ul li a {
+	text-align: center;
+	color: #FFFFFF;
+	height: 15px;
+	line-height: 1.8;
+	padding: 3px 28px 12px;
+	width: auto !important;
+}
+ 
+/* =================
+ * Left Sidebar Area
+ * ================= */
+#side_nav {
+	margin-top: -1005px;
+	margin-left: 780px;
+	width: 200px;
+}
+
+#side_nav div.row {
+	width: 220px;	
+}
+
+#side_nav div {
+	width: 175px;	
+}
+
+#side_nav .sidenav-shift {
+	width: 175px;	
+}
+
+#side_nav .panel {
+	width: 190px;	
+}
+
+#side_nav .wrapper {
+	width: 150px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+#side_nav ul.nav-bar li {
+	list-style-type: none;
+}
+
+#side_nav .item-list {
+	margin-left: 10px
+}
+
+#side_nav .item-list ul {
+	margin-left: -20px;	
+}
+
+/* ==================
+ * Right Sidebar Area
+ * ================== */
+#side_bar {
+	margin-left: 455px;
+	margin-top: -910px;
+}
+
+#side_bar img {
+	margin-top: 5px;
+}
+
+/* =================
+ * Main Content Area
+ * ================= */
+#submain {
+	width: 700px !important;	
+	margin-left: 30px;
+}
+
+#submain > div {
+	width: 710px;
+}
+
+#submain > div > div > img {
+	width: 750px;
+	height: 300px;
+}
+
+#submain #context {
+	width: 700px;
+}
+
+#submain .side_bar {
+	width: 220px;	
+}
+
+#shifting {
+	margin-left: 0px;
+	margin-top: -42px;
+	width: 1011px;
+	height: 1360px;
+}
