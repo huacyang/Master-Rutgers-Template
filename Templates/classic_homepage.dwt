@@ -41,7 +41,7 @@
 	<!--[if !lt IE 9]><script type="text/javascript" src="includes/js/NOTie8.js"></script><![endif]-->
 	<!--[if lt IE 9]><script type="text/javascript" src="includes/js/WHYie8.js"></script><![endif]-->
 	<script type="text/javascript" src="../includes/js/nav.js"></script>
-	<script type="text/javascript" src="includes/js/rbhs.js"></script>
+	<script type="text/javascript" src="../includes/js/rbhs.js"></script>
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
 		// Change "UA-XXXXX-X" to the actual Google Analytics account number 
@@ -143,10 +143,12 @@
 				<img src="../includes/img/443x225.jpg" alt="" title="" />
 				<!-- TemplateEndEditable --></div>
 			<div class="six columns text-area">
-				<h1><!-- TemplateBeginEditable name="Main Feature: Title" -->The Classic Layout<!-- TemplateEndEditable --></h1>
-				<!-- TemplateBeginEditable name="Main Feature: Text Area" -->
-				<p>This flexible, simple layout adds a homepage top feature and homepage top image elements to the layout. It allows for more than one section of text.</p>
-				<!-- TemplateEndEditable -->
+				<div class="vertical-align-middle">
+					<h1><!-- TemplateBeginEditable name="Main Feature: Title" -->The Classic Layout<!-- TemplateEndEditable --></h1>
+					<!-- TemplateBeginEditable name="Main Feature: Text Area" -->
+					<p>This flexible, simple layout adds a homepage top feature and homepage top image elements to the layout. It allows for more than one section of text.</p>
+					<!-- TemplateEndEditable -->
+				</div>
 			</div>
 		</div>
 		<br />
