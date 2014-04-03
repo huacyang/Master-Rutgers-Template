@@ -260,6 +260,14 @@ ul.flyout li a,.nav-bar li ul li a {
 	background-color: #ebeee1;
 }
 
+.panel .padding {
+	padding-top: 0px;
+}
+
+.panel .padding img {
+	padding-top: 13px;
+}
+
 .row {
 	width: 100%;
 	max-width: 980px;
