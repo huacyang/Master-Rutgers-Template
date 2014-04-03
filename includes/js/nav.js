@@ -28,6 +28,7 @@ $(window).ready(function(e) {
 		href = file[1].trim();
 		id = name.toLowerCase();
 		buildNav(id, name, href);
+		href = href.replace(/\s/g,"%20");
 		// set the respective nav to active
 		if (href == url)
 			document.getElementById(id).className = "active";
